@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["extreme temperature gloves","furnace gloves","high temperature gloves","oven gloves"],
+	"type": "multi-way"
+}

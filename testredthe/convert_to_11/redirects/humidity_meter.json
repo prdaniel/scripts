@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "humidity meter",
+	"matchmode": "MATCHEXACT",
+	"inherit": "TRUE",
+	"url": "/Category/Humidity_Meters_Thermohygrometers_Meters/7432"
+}

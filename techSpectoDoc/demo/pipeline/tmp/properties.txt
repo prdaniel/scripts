@@ -1,0 +1,67 @@
+Name,Type
+p_url_detail,ALPHA
+p_description_short,ALPHA
+p_image,ALPHA
+p_keyword,ALPHA
+p_name,ALPHA
+p_price_retail,FLOATING POINT
+p_unique_id,ALPHA
+p_price_sale,FLOATING POINT
+p_price_sort,FLOATING POINT
+p_sku,ALPHA
+p_brand,ALPHA
+p_description_long,ALPHA
+p_sort_default,ALPHA
+p_sort_rating,FLOATING POINT
+p_is_new,ALPHA
+p_is_on_sale,ALPHA
+p_is_free_shipping,ALPHA
+p_category_id,ALPHA
+p_group_id,ALPHA
+p_sort_alpha_1,ALPHA
+p_sort_alpha_2,ALPHA
+p_sort_alpha_3,ALPHA
+p_sort_alpha_4,ALPHA
+p_sort_alpha_5,ALPHA
+p_sort_integer_1,INTEGER
+p_sort_integer_2,INTEGER
+p_sort_integer_3,INTEGER
+p_sort_integer_4,INTEGER
+p_sort_integer_5,INTEGER
+p_sort_float_1,FLOATING POINT
+p_sort_float_2,FLOATING POINT
+p_sort_float_3,FLOATING POINT
+p_sort_float_4,FLOATING POINT
+p_sort_float_5,FLOATING POINT
+p_search_alpha_1,ALPHA
+p_search_alpha_2,ALPHA
+p_search_alpha_3,ALPHA
+p_search_alpha_4,ALPHA
+p_search_alpha_5,ALPHA
+p_search_alpha_6,ALPHA
+p_search_alpha_7,ALPHA
+p_search_alpha_8,ALPHA
+p_search_alpha_9,ALPHA
+p_search_alpha_0,ALPHA
+p_sort_alpha_0,ALPHA
+p_sort_float_0,FLOATING POINT
+p_sort_integer_0,INTEGER
+p_is_custom_0,ALPHA
+p_is_custom_1,ALPHA
+p_is_custom_2,ALPHA
+p_is_custom_3,ALPHA
+p_is_custom_4,ALPHA
+p_is_custom_5,ALPHA
+p_upc,ALPHA
+p_metric_total_units_sold,INTEGER
+p_metric_profit_margin,FLOATING POINT
+p_metric_profit_dollars,FLOATING POINT
+p_metric_sales_velocity,ALPHA
+p_metric_total_detail_views,INTEGER
+p_metric_pct_conversion,FLOATING POINT
+p_metric_days_added,INTEGER
+p_metric_inventory,INTEGER
+p_metric_pct_on_sale,FLOATING POINT
+p_metric_pct_bounceback,FLOATING POINT
+p_large_image,ALPHA
+p_small_image,ALPHA

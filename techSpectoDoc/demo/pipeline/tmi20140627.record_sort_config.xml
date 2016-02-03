@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE RECORD_SORT_CONFIG SYSTEM "record_sort_config.dtd">
+<RECORD_SORT_CONFIG>
+
+  <RECORD_SORT NAME="p_price_sort"/>
+
+  <RECORD_SORT NAME="p_is_new"/>
+
+  <RECORD_SORT NAME="p_metric_total_units_sold"/>
+
+  <RECORD_SORT NAME="p_metric_profit_margin"/>
+
+  <RECORD_SORT NAME="p_metric_sales_velocity"/>
+
+  <RECORD_SORT NAME="p_metric_days_added"/>
+
+  <RECORD_SORT NAME="p_metric_inventory"/>
+
+</RECORD_SORT_CONFIG>

@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "env exp",
+	"matchmode": "MATCHEXACT",
+	"inherit": "TRUE",
+	"url": "/store/environmental-express"
+}

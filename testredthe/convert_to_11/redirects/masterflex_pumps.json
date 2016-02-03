@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "masterflex pumps",
+	"matchmode": "MATCHEXACT",
+	"inherit": "TRUE",
+	"url": "/store/masterflex"
+}

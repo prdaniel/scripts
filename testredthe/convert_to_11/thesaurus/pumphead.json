@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["pumphead","pump head","pump-head","pumpheads","pump heads","pump-heads"],
+	"type": "multi-way"
+}

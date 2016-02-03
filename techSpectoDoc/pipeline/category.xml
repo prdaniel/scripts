@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE DIMENSIONS SYSTEM "dimensions.dtd">
+<DIMENSIONS VERSION="1.0.0">
+
+  <DIMENSION NAME="Category" SRC_TYPE="INTERNAL">
+    <DIMENSION_ID ID="1000"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="1000"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Category</SYN>
+      </DVAL>
+      <DIMENSION_NODE>
+        <DVAL TYPE="EXACT">
+          <DVAL_ID ID="1051"/>
+          <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Stuffed Animals</SYN>
+          <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930005</SYN>
+        </DVAL>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1052"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Bears</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930013</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1053"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Bunnies</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930015</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1054"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Cats</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930019</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1055"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Dogs</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930017</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1056"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Limited Editions</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930021</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1057"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Web Exclusives</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930025</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1058"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Wild Furry Friends</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930027</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1059"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Build-A-Bear Buddies&amp;#153; &amp; Minis</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930023</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+      </DIMENSION_NODE>
+      <DIMENSION_NODE>
+        <DVAL TYPE="EXACT">
+          <DVAL_ID ID="1060"/>
+          <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Clothing</SYN>
+          <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930007</SYN>
+        </DVAL>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1061"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Outfits</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930029</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1062"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Dresses</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930031</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1063"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Tops</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930033</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1064"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Bottoms</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930035</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1065"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Costumes</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930037</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1066"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Sportswear</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930039</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+      </DIMENSION_NODE>
+      <DIMENSION_NODE>
+        <DVAL TYPE="EXACT">
+          <DVAL_ID ID="1067"/>
+          <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Accessories</SYN>
+          <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930009</SYN>
+        </DVAL>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1068"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Bags</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930041</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1069"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Eyewear</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930043</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1070"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Footwear</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930045</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1071"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Headwear</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930047</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1072"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">SCENTiments</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930049</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1074"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Miscellaneous Accessories</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930053</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+      </DIMENSION_NODE>
+      <DIMENSION_NODE>
+        <DVAL TYPE="EXACT">
+          <DVAL_ID ID="1075"/>
+          <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Gifts</SYN>
+          <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930011</SYN>
+        </DVAL>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1076"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Build-A-Bear Buddies&amp;#153; Gifts</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930061</SYN>
+          </DVAL>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1077"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Gift Cards</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930055</SYN>
+          </DVAL>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1078"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Plastic Gift Cards</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930063</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1079"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Email Gift Cards</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930065</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1080"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Gifts by Occasion</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930057</SYN>
+          </DVAL>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1081"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Baby</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930067</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1082"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Birthday</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930069</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1083"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Christmas</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930071</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1084"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Easter</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930073</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1085"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Father's Day</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930075</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1086"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Graduation</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930077</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1087"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Get Well</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930081</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1088"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Halloween</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930083</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1089"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Mothering Sunday</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930085</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1090"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">St. Patrick's Day</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930089</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1091"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Valentine's Day</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930091</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+        </DIMENSION_NODE>
+        <DIMENSION_NODE>
+          <DVAL TYPE="EXACT">
+            <DVAL_ID ID="1092"/>
+            <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Gifts by Theme</SYN>
+            <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930059</SYN>
+          </DVAL>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1093"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Princess</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930095</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+          <DIMENSION_NODE>
+            <DVAL TYPE="EXACT">
+              <DVAL_ID ID="1094"/>
+              <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="TRUE">Superhero</SYN>
+              <SYN CLASSIFY="TRUE" DISPLAY="FALSE" SEARCH="TRUE">cat10930093</SYN>
+            </DVAL>
+          </DIMENSION_NODE>
+        </DIMENSION_NODE>
+      </DIMENSION_NODE>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+</DIMENSIONS>

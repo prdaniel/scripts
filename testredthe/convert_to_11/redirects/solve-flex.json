@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "solve-flex",
+	"matchmode": "MATCHEXACT",
+	"inherit": "TRUE",
+	"url": "/Category/Masterflex_L_S_Precision_Solve_Flex_Pump_Tubing/55017"
+}

@@ -1,0 +1,3 @@
+Adapter Name,Type,Class,Class Path/File Name,Pass Throughs
+LoadMainData,Delimited(\t),N/A,items.txt,N/A
+LoadMainAttributes,Delimited(\t),N/A,attributes.txt,N/A

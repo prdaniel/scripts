@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["brix","sugar analysis","sugar testing"],
+	"type": "multi-way"
+}

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE PROP_REFS SYSTEM "prop_refs.dtd">
+<PROP_REFS>
+
+  <PROP_REF NAME="p_tppg" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_fr" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_fsthn" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_trvg" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_cat" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_cas" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_upn" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_dt" TYPE="INTEGER"/>
+
+  <PROP_REF NAME="p_teaser" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_id" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_rca" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_cathn" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_sn" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_cathi" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_si" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_upshifted" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_apn" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_shpn" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_apphn" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_apphi" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_usn" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_chn" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_mofo" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_akey" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_app" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_cathi_d" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_apphi_d" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_trvg_d" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_tppg_d" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_cathi_np" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_apphi_np" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_fsthn_d" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_item_product_id" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_item_id" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_glyph_d" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_alphabetsn" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_apn_search" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_fsthn_search" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_sn_search" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_itemdiff_search" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_upn_search" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_item_ucpno" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_item_cpno" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_item_ucvendorno" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_item_cvendorno" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_to_item_crossref" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_fisherBrand" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_ci_d" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_AccessoryFlag" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_ci_si_d" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_isChemical" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_isSciEd" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_cathi_r" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_ci" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_ci_si" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_prio" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_tlid" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_tslu" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_type" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_vendorNumber" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_ucpartNumberShifted" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_chnShifted" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_storeId" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="temp_scied_path" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="temp_fsthn_d" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_scied_exclusion" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_recType" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_countryId" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_agilityId" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_languageId" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_groupType" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_teaserSearch" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_productLineId" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_trueHomeId" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_has_item_msds" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_crossreactivity" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_genesymbols" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_geneaccessionno" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_antigen_applications" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_discontinueditem" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_host" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_clone" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_conjugate" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_immunogen" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_classification" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_antigen" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_size" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_from_item_crossref" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_promotion" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_catentryId" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_Popularity" TYPE="INTEGER"/>
+
+  <PROP_REF NAME="p_supplierRank" TYPE="INTEGER"/>
+
+  <PROP_REF NAME="p_productType" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_productBrand" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_mcs_cd" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_prodDiscontinued" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_3pDesc" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_cdcCode" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_productTypeCode" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_cathi_np_ns" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_stdPrice" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_altPrice" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_stdUom" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_altUom" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_stdConvFactor" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_altConvFactor" TYPE="ALPHA"/>
+
+  <PROP_REF NAME="p_fshpromotion" TYPE="ALPHA"/>
+
+</PROP_REFS>

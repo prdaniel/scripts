@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["bottlecap","bottle cap","bottle-cap","bottletop","bottle top","bottle-top"],
+	"type": "multi-way"
+}

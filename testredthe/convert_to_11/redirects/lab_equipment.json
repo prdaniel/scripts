@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "lab equipment",
+	"matchmode": "MATCHPHRASE",
+	"inherit": "TRUE",
+	"url": "/Category/Laboratory_Equipment/15006"
+}

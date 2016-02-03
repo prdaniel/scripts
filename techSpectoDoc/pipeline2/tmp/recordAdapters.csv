@@ -1,0 +1,6 @@
+Adapter Name,Type,Class,Class Path/File Name,Pass Throughs
+DynSupplierRanking_APP,Custom,com.endeca.cs.adapter.SpringJDBCAdapter,./config/lib/java/scjdbc.jar:./config/lib/java/spring.jar:./config/lib/java/ojdbc6.jar:./config/lib/java/AdvJDBCColumnHandler.jar,QUERY_NAME=SupplierRankingQuery_APP
+DynSupplierRanking_RD,Custom,com.endeca.cs.adapter.SpringJDBCAdapter,./config/lib/java/scjdbc.jar:./config/lib/java/spring.jar:./config/lib/java/ojdbc6.jar:./config/lib/java/AdvJDBCColumnHandler.jar,QUERY_NAME=SupplierRankingQuery_RD
+DymSupplierRanking_Default,Custom,com.endeca.cs.adapter.SpringJDBCAdapter,./config/lib/java/scjdbc.jar:./config/lib/java/spring.jar:./config/lib/java/ojdbc6.jar:./config/lib/java/AdvJDBCColumnHandler.jar,QUERY_NAME=SupplierRankingQuery_Default
+Load_Promotion,Custom,com.endeca.cs.adapter.SpringJDBCAdapter,./config/lib/java/scjdbc.jar:./config/lib/java/spring.jar:./config/lib/java/ojdbc6.jar:./config/lib/java/AdvJDBCColumnHandler.jar,QUERY_NAME=PromotionQuery
+Load_Popularity_Data,Delimited(,),N/A,SiteCatalyst/Report.csv,N/A

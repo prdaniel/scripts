@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "oem solutions",
+	"matchmode": "MATCHEXACT",
+	"inherit": "TRUE",
+	"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"
+}

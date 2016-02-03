@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "laboratory furniture",
+	"matchmode": "MATCHPHRASE",
+	"inherit": "TRUE",
+	"url": "/Category/Furniture_Fume_Hoods/59349"
+}

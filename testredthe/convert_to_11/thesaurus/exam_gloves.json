@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["exam gloves","gloves","laboratory gloves"],
+	"type": "multi-way"
+}

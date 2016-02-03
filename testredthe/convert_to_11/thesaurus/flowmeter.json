@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["flowmeter","flow meter","flowmeters","flow meters"],
+	"type": "multi-way"
+}

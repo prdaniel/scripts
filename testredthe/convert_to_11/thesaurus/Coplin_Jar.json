@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["Coplin Jar","Staining Dish","staining jar"],
+	"type": "multi-way"
+}

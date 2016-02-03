@@ -1,0 +1,367 @@
+Name,External Type
+Supplier,AUTOGEN
+eStore,NORMAL
+Endeca,AUTOGEN
+Special Interests,AUTOGEN
+AlphabetSn,AUTOGEN
+Capacity,AUTOGEN
+Material,AUTOGEN
+CLIA Complexity,AUTOGEN
+Color,AUTOGEN
+Cassette Type,AUTOGEN
+Volume,AUTOGEN
+Antigen,AUTOGEN
+Antibody Type,AUTOGEN
+Size,AUTOGEN
+Purity Grade,AUTOGEN
+Package Size,AUTOGEN
+PrefProd,AUTOGEN
+Packaging Type,AUTOGEN
+Research Discipline,AUTOGEN
+Clone,AUTOGEN
+Classification,AUTOGEN
+Label,AUTOGEN
+Format,AUTOGEN
+Isotype,AUTOGEN
+Antibody Applications,AUTOGEN
+Regulatory Status,AUTOGEN
+Reactivity,AUTOGEN
+Host,AUTOGEN
+d_trvg_d,AUTOGEN
+Absorbency,AUTOGEN
+Accuracy,AUTOGEN
+Autoclavable,AUTOGEN
+Culture Collection Code,AUTOGEN
+Bulb Volume,AUTOGEN
+Calibrated,AUTOGEN
+English Capacity,AUTOGEN
+Metric Capacity,AUTOGEN
+Closure,AUTOGEN
+Color Code,AUTOGEN
+Detector Type,AUTOGEN
+Disposable,AUTOGEN
+Drops per ml,AUTOGEN
+Flow Rate,AUTOGEN
+For Use With,AUTOGEN
+GPI Thread,AUTOGEN
+Graduated,AUTOGEN
+Metric Length,AUTOGEN
+English Length,AUTOGEN
+Maximum Force,AUTOGEN
+Minimum Flow Time,AUTOGEN
+Negitive Graduations,AUTOGEN
+Outside Diameter,AUTOGEN
+Packaging Quantity,AUTOGEN
+Column Packing,AUTOGEN
+Particle Size,AUTOGEN
+Aspirator Plug,AUTOGEN
+Ply,AUTOGEN
+Powdered,AUTOGEN
+Exterior English Dimensions,AUTOGEN
+Exterior Metric Dimensions,AUTOGEN
+Speed,AUTOGEN
+Stationary Phase,AUTOGEN
+Sterile,AUTOGEN
+Subdivisions,AUTOGEN
+Temperature Range,AUTOGEN
+Inside Diameter,AUTOGEN
+Tip Style,AUTOGEN
+Tolerance,AUTOGEN
+Solution Type,AUTOGEN
+Closure Type,AUTOGEN
+Thickness,AUTOGEN
+Metric Volume,AUTOGEN
+Sorbent,AUTOGEN
+Pressure Range,AUTOGEN
+Pressure,AUTOGEN
+Porosity,AUTOGEN
+Pore Size,AUTOGEN
+Particle Shape,AUTOGEN
+Outside Width,AUTOGEN
+Outside Height,AUTOGEN
+Interior Metric Width,AUTOGEN
+Interior Metric Height,AUTOGEN
+Voltage,AUTOGEN
+Controller Type,AUTOGEN
+Connection Type,AUTOGEN
+Cartridge Type,AUTOGEN
+Septa Color,AUTOGEN
+Total Positions,AUTOGEN
+Stackable,AUTOGEN
+For Use With Application,AUTOGEN
+Binding Property,AUTOGEN
+Resolution,AUTOGEN
+Immersion Length,AUTOGEN
+Metric Surface Area,AUTOGEN
+Rimmed,AUTOGEN
+Well Shape,AUTOGEN
+Well Bottom,AUTOGEN
+Dial Size,AUTOGEN
+Bowl Angle,AUTOGEN
+Stopcock Number,AUTOGEN
+Stopcock,AUTOGEN
+Stopper Number,AUTOGEN
+Bowl Diameter,AUTOGEN
+Disc Diameter,AUTOGEN
+Concentration,AUTOGEN
+Host Species,AUTOGEN
+Conjugate,AUTOGEN
+Chemical Components,AUTOGEN
+Includes,AUTOGEN
+Cross Reactivity,AUTOGEN
+Gel Format,AUTOGEN
+Recommended Storage,AUTOGEN
+Base Pair Range Marker,AUTOGEN
+Mass Ladder Size,AUTOGEN
+Stain Type,AUTOGEN
+Material Stained,AUTOGEN
+Destaining Method,AUTOGEN
+Displayed Text,AUTOGEN
+English Width,AUTOGEN
+Metric Width,AUTOGEN
+Dye Type,AUTOGEN
+Intensity,AUTOGEN
+Detection Range,AUTOGEN
+Display Type,AUTOGEN
+Primer,AUTOGEN
+Vector,AUTOGEN
+Species Name,AUTOGEN
+Yield,AUTOGEN
+Gene,AUTOGEN
+Amperage,AUTOGEN
+Hertz,AUTOGEN
+Specific Antigens,AUTOGEN
+Specific Formats,AUTOGEN
+Specific Isotypes,AUTOGEN
+Product Type,NORMAL
+Antimicrobial Agents,AUTOGEN
+Additive,AUTOGEN
+Media Type,AUTOGEN
+Metric Mass,AUTOGEN
+Taper,AUTOGEN
+Bottom Diameter,AUTOGEN
+Wattage,AUTOGEN
+Time Range,AUTOGEN
+Gel Dimensions,AUTOGEN
+pH Range,AUTOGEN
+Potential Interferences,AUTOGEN
+Secondary Range,AUTOGEN
+Interior Metric Dimensions,AUTOGEN
+Interior English Dimensions,AUTOGEN
+Metric Sash Height,AUTOGEN
+English Sash Height,AUTOGEN
+Filter Type,AUTOGEN
+Lighting Type,AUTOGEN
+English Refrigerator Capacity,AUTOGEN
+Metric Refrigerator Capacity,AUTOGEN
+Refrigerator Temperature Range,AUTOGEN
+English Height,AUTOGEN
+Metric Height,AUTOGEN
+Purity,AUTOGEN
+DNTP Type,AUTOGEN
+Standard Taper Joint Number [Center],AUTOGEN
+Standard Taper Joint Number [Sides],AUTOGEN
+Objective Types,AUTOGEN
+Ocular Type,AUTOGEN
+Orbit,AUTOGEN
+Capacity Range,AUTOGEN
+Precision,AUTOGEN
+Dispenser Increments,AUTOGEN
+Scissor Tip Style,AUTOGEN
+Blade Style,AUTOGEN
+Shape,AUTOGEN
+Sieve Number,AUTOGEN
+Sieve Type [U.S. Standard],AUTOGEN
+Sieve Type [Tyler Standard],AUTOGEN
+English Depth,AUTOGEN
+Metric Depth,AUTOGEN
+Item Type,AUTOGEN
+Cutsite,AUTOGEN
+English Volume,AUTOGEN
+Molecular Weight,AUTOGEN
+Recombinant,AUTOGEN
+Quantity,AUTOGEN
+Insert Type,AUTOGEN
+Sequence,AUTOGEN
+Supplier,AUTOGEN
+Endeca,AUTOGEN
+Special Interests,AUTOGEN
+AlphabetSn,AUTOGEN
+Capacity,AUTOGEN
+Material,AUTOGEN
+CLIA Complexity,AUTOGEN
+Color,AUTOGEN
+Cassette Type,AUTOGEN
+Volume,AUTOGEN
+Antigen,AUTOGEN
+Antibody Type,AUTOGEN
+Size,AUTOGEN
+Purity Grade,AUTOGEN
+Package Size,AUTOGEN
+PrefProd,AUTOGEN
+Packaging Type,AUTOGEN
+Research Discipline,AUTOGEN
+Clone,AUTOGEN
+Classification,AUTOGEN
+Label,AUTOGEN
+Format,AUTOGEN
+Isotype,AUTOGEN
+Antibody Applications,AUTOGEN
+Regulatory Status,AUTOGEN
+Reactivity,AUTOGEN
+Host,AUTOGEN
+d_trvg_d,AUTOGEN
+Absorbency,AUTOGEN
+Accuracy,AUTOGEN
+Autoclavable,AUTOGEN
+Culture Collection Code,AUTOGEN
+Bulb Volume,AUTOGEN
+Calibrated,AUTOGEN
+English Capacity,AUTOGEN
+Metric Capacity,AUTOGEN
+Closure,AUTOGEN
+Color Code,AUTOGEN
+Detector Type,AUTOGEN
+Disposable,AUTOGEN
+Drops per ml,AUTOGEN
+Flow Rate,AUTOGEN
+For Use With,AUTOGEN
+GPI Thread,AUTOGEN
+Graduated,AUTOGEN
+Metric Length,AUTOGEN
+English Length,AUTOGEN
+Maximum Force,AUTOGEN
+Minimum Flow Time,AUTOGEN
+Negitive Graduations,AUTOGEN
+Outside Diameter,AUTOGEN
+Packaging Quantity,AUTOGEN
+Column Packing,AUTOGEN
+Particle Size,AUTOGEN
+Aspirator Plug,AUTOGEN
+Ply,AUTOGEN
+Powdered,AUTOGEN
+Exterior English Dimensions,AUTOGEN
+Exterior Metric Dimensions,AUTOGEN
+Speed,AUTOGEN
+Stationary Phase,AUTOGEN
+Sterile,AUTOGEN
+Subdivisions,AUTOGEN
+Temperature Range,AUTOGEN
+Inside Diameter,AUTOGEN
+Tip Style,AUTOGEN
+Tolerance,AUTOGEN
+Solution Type,AUTOGEN
+Closure Type,AUTOGEN
+Thickness,AUTOGEN
+Metric Volume,AUTOGEN
+Sorbent,AUTOGEN
+Pressure Range,AUTOGEN
+Pressure,AUTOGEN
+Porosity,AUTOGEN
+Pore Size,AUTOGEN
+Particle Shape,AUTOGEN
+Outside Width,AUTOGEN
+Outside Height,AUTOGEN
+Interior Metric Width,AUTOGEN
+Interior Metric Height,AUTOGEN
+Voltage,AUTOGEN
+Controller Type,AUTOGEN
+Connection Type,AUTOGEN
+Cartridge Type,AUTOGEN
+Septa Color,AUTOGEN
+Total Positions,AUTOGEN
+Stackable,AUTOGEN
+For Use With Application,AUTOGEN
+Binding Property,AUTOGEN
+Resolution,AUTOGEN
+Immersion Length,AUTOGEN
+Metric Surface Area,AUTOGEN
+Rimmed,AUTOGEN
+Well Shape,AUTOGEN
+Well Bottom,AUTOGEN
+Dial Size,AUTOGEN
+Bowl Angle,AUTOGEN
+Stopcock Number,AUTOGEN
+Stopcock,AUTOGEN
+Stopper Number,AUTOGEN
+Bowl Diameter,AUTOGEN
+Disc Diameter,AUTOGEN
+Concentration,AUTOGEN
+Host Species,AUTOGEN
+Conjugate,AUTOGEN
+Chemical Components,AUTOGEN
+Includes,AUTOGEN
+Cross Reactivity,AUTOGEN
+Gel Format,AUTOGEN
+Recommended Storage,AUTOGEN
+Base Pair Range Marker,AUTOGEN
+Mass Ladder Size,AUTOGEN
+Stain Type,AUTOGEN
+Material Stained,AUTOGEN
+Destaining Method,AUTOGEN
+Displayed Text,AUTOGEN
+English Width,AUTOGEN
+Metric Width,AUTOGEN
+Dye Type,AUTOGEN
+Intensity,AUTOGEN
+Detection Range,AUTOGEN
+Display Type,AUTOGEN
+Primer,AUTOGEN
+Vector,AUTOGEN
+Species Name,AUTOGEN
+Yield,AUTOGEN
+Gene,AUTOGEN
+Amperage,AUTOGEN
+Hertz,AUTOGEN
+Specific Antigens,AUTOGEN
+Specific Formats,AUTOGEN
+Specific Isotypes,AUTOGEN
+Antimicrobial Agents,AUTOGEN
+Additive,AUTOGEN
+Media Type,AUTOGEN
+Metric Mass,AUTOGEN
+Taper,AUTOGEN
+Bottom Diameter,AUTOGEN
+Wattage,AUTOGEN
+Time Range,AUTOGEN
+Gel Dimensions,AUTOGEN
+pH Range,AUTOGEN
+Potential Interferences,AUTOGEN
+Secondary Range,AUTOGEN
+Interior Metric Dimensions,AUTOGEN
+Interior English Dimensions,AUTOGEN
+Metric Sash Height,AUTOGEN
+English Sash Height,AUTOGEN
+Filter Type,AUTOGEN
+Lighting Type,AUTOGEN
+English Refrigerator Capacity,AUTOGEN
+Metric Refrigerator Capacity,AUTOGEN
+Refrigerator Temperature Range,AUTOGEN
+English Height,AUTOGEN
+Metric Height,AUTOGEN
+Purity,AUTOGEN
+DNTP Type,AUTOGEN
+Standard Taper Joint Number [Center],AUTOGEN
+Standard Taper Joint Number [Sides],AUTOGEN
+Objective Types,AUTOGEN
+Ocular Type,AUTOGEN
+Orbit,AUTOGEN
+Capacity Range,AUTOGEN
+Precision,AUTOGEN
+Dispenser Increments,AUTOGEN
+Scissor Tip Style,AUTOGEN
+Blade Style,AUTOGEN
+Shape,AUTOGEN
+Sieve Number,AUTOGEN
+Sieve Type [U.S. Standard],AUTOGEN
+Sieve Type [Tyler Standard],AUTOGEN
+English Depth,AUTOGEN
+Metric Depth,AUTOGEN
+Item Type,AUTOGEN
+Cutsite,AUTOGEN
+English Volume,AUTOGEN
+Molecular Weight,AUTOGEN
+Recombinant,AUTOGEN
+Quantity,AUTOGEN
+Insert Type,AUTOGEN
+Sequence,AUTOGEN

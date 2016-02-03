@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["Fast Protein Liquid Chromatography","FPLC"],
+	"type": "multi-way"
+}

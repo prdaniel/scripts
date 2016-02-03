@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["luerloc","luer loc","luer-loc","luer lock","luer-lock","luerlok","luer lok","luer-lok"],
+	"type": "multi-way"
+}

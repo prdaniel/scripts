@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE RECORD_FILTER SYSTEM "record_filter.dtd">
+<RECORD_FILTER>
+
+  <PROPNAME>p_dt</PROPNAME>
+
+  <PROPNAME>p_apn</PROPNAME>
+
+  <PROPNAME>p_shpn</PROPNAME>
+
+  <PROPNAME>p_usn</PROPNAME>
+
+  <PROPNAME>p_cathi_d</PROPNAME>
+
+  <PROPNAME>p_trvg_d</PROPNAME>
+
+  <PROPNAME>p_tppg_d</PROPNAME>
+
+  <PROPNAME>p_cathi_np</PROPNAME>
+
+  <PROPNAME>p_fsthn_d</PROPNAME>
+
+  <PROPNAME>p_item_cpno</PROPNAME>
+
+  <PROPNAME>p_fisherBrand</PROPNAME>
+
+  <PROPNAME>p_ci_d</PROPNAME>
+
+  <PROPNAME>p_ci_si_d</PROPNAME>
+
+  <PROPNAME>p_isSciEd</PROPNAME>
+
+  <PROPNAME>p_vendorNumber</PROPNAME>
+
+  <PROPNAME>p_has_item_msds</PROPNAME>
+
+  <PROPNAME>p_discontinueditem</PROPNAME>
+
+  <PROPNAME>p_productType</PROPNAME>
+
+  <PROPNAME>p_productBrand</PROPNAME>
+
+  <PROPNAME>p_mcs_cd</PROPNAME>
+
+  <PROPNAME>p_prodDiscontinued</PROPNAME>
+
+</RECORD_FILTER>

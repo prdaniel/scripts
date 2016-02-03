@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE DVAL_RANKS SYSTEM "dval_ranks.dtd">
+<DVAL_RANKS>
+
+  <DVAL_RANK ID="11" RANK="1"/>
+
+  <DVAL_RANK ID="9" RANK="3"/>
+
+  <DVAL_RANK ID="10" RANK="2"/>
+
+  <DVAL_RANK ID="6" RANK="6"/>
+
+  <DVAL_RANK ID="7" RANK="5"/>
+
+  <DVAL_RANK ID="8" RANK="4"/>
+
+  <DVAL_RANK ID="5" RANK="7"/>
+
+  <DVAL_RANK ID="1" RANK="1"/>
+
+</DVAL_RANKS>

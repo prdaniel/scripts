@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "c of a",
+	"matchmode": "MATCHPHRASE",
+	"inherit": "TRUE",
+	"url": "/TechLibrary/empty"
+}

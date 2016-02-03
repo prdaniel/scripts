@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["high performance thin layer chromatography","hptlc"],
+	"type": "multi-way"
+}

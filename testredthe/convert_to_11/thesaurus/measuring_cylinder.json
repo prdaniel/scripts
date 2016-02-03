@@ -1,0 +1,8 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"trigger": "tube",
+	"type": "one-way",
+	"forms": ["tubing",
+]
+}

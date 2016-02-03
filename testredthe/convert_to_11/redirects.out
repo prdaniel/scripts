@@ -1,0 +1,117 @@
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "msds",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "material safety data sheet",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "material safety data sheets",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "material safety datasheet",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "material safety datasheets",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "safety data sheet",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "safety data sheets",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "safety datasheet",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "safety datasheets",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "certificate of conformance",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "certificates of conformance",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "cert of conformance",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "certs of conformance",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "coa",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "cofa",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "c of a",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "coa's",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "cofa's",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "c of a's",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "coas",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "cofas",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "c of as",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/TechLibrary/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "press releases",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Press-Release-List"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "press release",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Press-Release-List"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "chemical compatibility",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Chemical-Resistance"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "chem compatibility",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Chemical-Resistance"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "chemicals compatibility",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Chemical-Resistance"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "compatibility",~	"matchmode": "MATCHALL",~	"inherit": "TRUE",~	"url": "/Chemical-Resistance"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "unit converters",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Converters"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "online unit converter",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Converters"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "unit conversion",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Converters"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "metric to us conversion",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Converters"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "convert units",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Converters"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "unit conversion tools",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Converters"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "bioconnect",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/BioConnect"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "bioconnect custom tubing assemblies",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/BioConnect"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "bio connect",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/BioConnect"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "virtual catalog",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Virtual-Catalog"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "custom temperature probe",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/oaktonprobeconfig"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "custom temperature probes",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/oaktonprobeconfig"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "temperature probe configurator",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/oaktonprobeconfig"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "probe configurator",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/oaktonprobeconfig"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "oakton probe configurator",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/oaktonprobeconfig"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "digi-sense",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "digisense",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "digi-sence",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "digi sense",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "digi sence",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "digi cents",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "digi-cents",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "precalibrated equipment",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "pre-calibrated equipment",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "pre-calibrated instruments",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "precalibrated instruments",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "pre-calibrated humidity",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "precalibrated humidity",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "pre-calibrated temperature",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "precalibrated temperature",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/digi-sense"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "masterflex",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/masterflex"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "masteflex pumps",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/store/masterflex"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "masterflex pumps",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/masterflex"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "customized pumps",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/masterflex"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "oakton",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Oakton_meters.aspx"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "oakton water quality instruments",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Oakton_meters.aspx"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "oakton meters",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Oakton_meters.aspx"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "conductivity meter",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Conductivity_Resistivity_TDS_Meters_and_Testers/555"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "custom pumps",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "oem peristaltic pumps",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "custom peristaltic pumps",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "oem",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "oem solutions",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "oem masterflex",~	"matchmode": "MATCHALL",~	"inherit": "TRUE",~	"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "oem peristaltic",~	"matchmode": "MATCHALL",~	"inherit": "TRUE",~	"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "oem pump",~	"matchmode": "MATCHALL",~	"inherit": "TRUE",~	"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "humidity",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Category/Temperature_Humidity_Moisture_and_Weather_Products/6207"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "humidity meter",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Category/Humidity_Meters_Thermohygrometers_Meters/7432"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "humidity meters",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Category/Humidity_Meters_Thermohygrometers_Meters/7432"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "steals and deals",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Steals_Deals/65348"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "steals & deals",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Steals_Deals/65348"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "clearance items",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Steals_Deals/65348"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "on sale",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Steals_Deals/65348"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "discounted",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Steals_Deals/65348"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "refurbished",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Steals_Deals/65348"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "reconditioned",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Steals_Deals/65348"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "spectrophotometer",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Spectroscopy_and_Spectrophotometers/5460"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "stir plate",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Magnetic_Stirrers/5572"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "stirring plate",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Magnetic_Stirrers/5572"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "lab equipment",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Laboratory_Equipment/15006"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "pipet tips",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Pipette_Tips/876"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "pipette tips",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Pipette_Tips/876"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "pipette tip",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Pipette_Tips/876"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "pippett tips",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Pipette_Tips/876"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "pippet tips",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Pipette_Tips/876"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "calibration weights",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Category/Calibration_Masses/176"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "furniture",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Furniture_Fume_Hoods/59349"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "lab furniture",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Furniture_Fume_Hoods/59349"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "laboratory furniture",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Furniture_Fume_Hoods/59349"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "fume hoods",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Furniture_Fume_Hoods/59349"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "troemner calibration masses",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Brand/Troemner/1679"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "tektronix",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Electrical_Test_Equipment/51567"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "techtronics",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Electrical_Test_Equipment/51567"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "techtronix",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Electrical_Test_Equipment/51567"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "keithley",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Electrical_Test_Equipment/51567"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "watson marlow",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/store/masterflex/masterflex-why-masterflex/"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "environmental express",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/environmental-express"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "env exp",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/environmental-express"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "envexp",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/store/environmental-express"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "catalyst",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Catalyst-fully-assembled-peristaltic-pumps.aspx"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "material testing",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Test_and_Measurement_Equipment/61816"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "live chat",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/support"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "tech support",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/support"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "customer service",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/support"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "recirculators & chillers",~	"matchmode": "MATCHPHRASE",~	"inherit": "TRUE",~	"url": "/Category/Recirculators_Chillers/273"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "solve flex",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Category/Masterflex_L_S_Precision_Solve_Flex_Pump_Tubing/55017"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "solve-flex",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/Category/Masterflex_L_S_Precision_Solve_Flex_Pump_Tubing/55017"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "catalog",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/CatalogRequest/empty"~}
+{~	"sling:resourceType": "endeca/redirect",~	"priority": 10,~	"keyword": "catalogue",~	"matchmode": "MATCHEXACT",~	"inherit": "TRUE",~	"url": "/CatalogRequest/empty"~}

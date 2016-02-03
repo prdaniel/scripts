@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE STUDIO_PROJECT SYSTEM "studio_project.dtd">
+<STUDIO_PROJECT APP_VERSION="6.1" NAME="ThermoFisherSci" VERSION="600">
+
+  <PROJECT_MANAGER_CONFIG APPLICATION="devfishersci" PORT="8006" URL="localhost"/>
+
+  <PROJECT_PIPELINE URL="pipeline.epx"/>
+
+  <PROJECT_PIPELINE TYPE="PARTIAL" URL="partial_pipeline.epx"/>
+
+  <PROJECT_FILE TYPE="ANALYTICS_CONFIG" URL="ThermoFisherSci.analytics_config.xml"/>
+
+  <PROJECT_FILE TYPE="DERIVED_PROPS" URL="ThermoFisherSci.derived_props.xml"/>
+
+  <PROJECT_FILE TYPE="DIMENSION_GROUPS" URL="ThermoFisherSci.dimension_groups.xml"/>
+
+  <PROJECT_FILE TYPE="DIMENSION_REFS" URL="ThermoFisherSci.dimension_refs.xml"/>
+
+  <PROJECT_FILE TYPE="DIMSEARCH_CONFIG" URL="ThermoFisherSci.dimsearch_config.xml"/>
+
+  <PROJECT_FILE TYPE="DIMSEARCH_INDEX" URL="ThermoFisherSci.dimsearch_index.xml"/>
+
+  <PROJECT_FILE TYPE="DVAL_RANKS" URL="ThermoFisherSci.dval_ranks.xml"/>
+
+  <PROJECT_FILE TYPE="DVAL_REFS" URL="ThermoFisherSci.dval_refs.xml"/>
+
+  <PROJECT_FILE HIGHEST_ID="15" TYPE="MERCH_RULES" URL="ThermoFisherSci.merch_rules.xml"/>
+
+  <PROJECT_FILE TYPE="MERCHSTYLES" URL="ThermoFisherSci.merchstyles.xml"/>
+
+  <PROJECT_FILE TYPE="MERCHZONES" URL="ThermoFisherSci.merchzones.xml"/>
+
+  <PROJECT_FILE TYPE="PRECEDENCE_RULES" URL="ThermoFisherSci.precedence_rules.xml"/>
+
+  <PROJECT_FILE TYPE="PROP_REFS" URL="ThermoFisherSci.prop_refs.xml"/>
+
+  <PROJECT_FILE TYPE="RECORD_FILTER" URL="ThermoFisherSci.record_filter.xml"/>
+
+  <PROJECT_FILE TYPE="RECORD_SORT_CONFIG" URL="ThermoFisherSci.record_sort_config.xml"/>
+
+  <PROJECT_FILE TYPE="RECORD_SPEC" URL="ThermoFisherSci.record_spec.xml"/>
+
+  <PROJECT_FILE TYPE="RECSEARCH_CONFIG" URL="ThermoFisherSci.recsearch_config.xml"/>
+
+  <PROJECT_FILE TYPE="RECSEARCH_INDEXES" URL="ThermoFisherSci.recsearch_indexes.xml"/>
+
+  <PROJECT_FILE TYPE="REFINEMENTS_CONFIG" URL="ThermoFisherSci.refinement_config.xml"/>
+
+  <PROJECT_FILE TYPE="RELRANK_STRATEGIES" URL="ThermoFisherSci.relrank_strategies.xml"/>
+
+  <PROJECT_FILE TYPE="RENDER_CONFIG" URL="ThermoFisherSci.render_config.xml"/>
+
+  <PROJECT_FILE TYPE="ROLLUPS" URL="ThermoFisherSci.rollups.xml"/>
+
+  <PROJECT_FILE TYPE="SEARCH_CHARS" URL="ThermoFisherSci.search_chars.xml"/>
+
+  <PROJECT_FILE TYPE="STOP_WORDS" URL="ThermoFisherSci.stop_words.xml"/>
+
+  <PROJECT_FILE TYPE="THESAURUS" URL="ThermoFisherSci.thesaurus.xml"/>
+
+  <PROJECT_FILE TYPE="STEMMING" URL="ThermoFisherSci.stemming.xml"/>
+
+  <PROJECT_FILE TYPE="PROFILES" URL="ThermoFisherSci.profiles.xml"/>
+
+  <PROJECT_FILE TYPE="PHRASES" URL="ThermoFisherSci.phrases.xml"/>
+
+  <PROJECT_FILE TYPE="KEY_PROPS" URL="ThermoFisherSci.key_props.xml"/>
+
+  <PROJECT_FILE TYPE="LANGUAGES" URL="ThermoFisherSci.languages.xml"/>
+
+  <PROJECT_FILE TYPE="CRAWLER_GLOBAL_CONFIG" URL="ThermoFisherSci.crawler_global_config.xml"/>
+
+  <PROJECT_FILE TYPE="CRAWLER_DEFAULTS" URL="ThermoFisherSci.crawler_defaults.properties"/>
+
+  <PROJECT_FILE TYPE="CRAWL_PROFILES" URL="ThermoFisherSci.crawl_profiles.xml"/>
+
+  <PROJECT_FILE TYPE="CRAWL_PROFILE" URL="crawl_profile_1.xml"/>
+
+</STUDIO_PROJECT>

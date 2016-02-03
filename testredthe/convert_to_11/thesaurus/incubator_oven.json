@@ -1,0 +1,11 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"trigger": "water quality tester",
+	"type": "one-way",
+	"forms": ["conductivity meter",
+"ion meter",
+"isfet meter",
+"ph meter",
+]
+}

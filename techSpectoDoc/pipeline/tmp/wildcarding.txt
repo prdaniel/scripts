@@ -1,0 +1,3 @@
+p_description_short
+p_sku
+p_upc

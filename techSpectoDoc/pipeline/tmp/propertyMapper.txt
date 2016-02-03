@@ -1,0 +1,86 @@
+Source,Target,Target Type,Match Mode
+P_Endeca,Endeca,Dimension,NORMAL
+brand,p_brand,Property,N/A
+description_long,p_description_long,Property,N/A
+description_short,p_description_short,Property,N/A
+image,p_image,Property,N/A
+is_free_shipping,p_is_free_shipping,Property,N/A
+is_new,p_is_new,Property,N/A
+is_on_sale,p_is_on_sale,Property,N/A
+keyword,p_keyword,Property,N/A
+name,p_name,Property,N/A
+price_retail,p_price_retail,Property,N/A
+price_sale,p_price_sale,Property,N/A
+price_sort,p_price_sort,Property,N/A
+sku,p_sku,Property,N/A
+sort_default,p_sort_default,Property,N/A
+sort_rating,p_sort_rating,Property,N/A
+unique_id,p_unique_id,Property,N/A
+url_detail,p_url_detail,Property,N/A
+brand,Brand,Dimension,AUTO_GEN
+category_id,Category,Dimension,NORMAL
+category_id,p_category_id,Property,N/A
+is_free_shipping,Free Shipping,Dimension,NORMAL
+is_new,New,Dimension,NORMAL
+is_on_sale,On Sale,Dimension,NORMAL
+price_sort,Price Range,Dimension,NORMAL
+group_id,p_group_id,Property,N/A
+is_custom_0,p_is_custom_0,Property,N/A
+is_custom_1,p_is_custom_1,Property,N/A
+is_custom_2,p_is_custom_2,Property,N/A
+is_custom_3,p_is_custom_3,Property,N/A
+is_custom_4,p_is_custom_4,Property,N/A
+is_custom_5,p_is_custom_5,Property,N/A
+metric_days_added,p_metric_days_added,Property,N/A
+metric_inventory,p_metric_inventory,Property,N/A
+metric_pct_bounceback,p_metric_pct_bounceback,Property,N/A
+metric_pct_conversion,p_metric_pct_conversion,Property,N/A
+metric_pct_on_sale,p_metric_pct_on_sale,Property,N/A
+metric_profit_dollars,p_metric_profit_dollars,Property,N/A
+metric_profit_margin,p_metric_profit_margin,Property,N/A
+metric_sales_velocity,p_metric_sales_velocity,Property,N/A
+metric_total_detail_views,p_metric_total_detail_views,Property,N/A
+metric_total_units_sold,p_metric_total_units_sold,Property,N/A
+search_alpha_0,p_search_alpha_0,Property,N/A
+search_alpha_1,p_search_alpha_1,Property,N/A
+search_alpha_2,p_search_alpha_2,Property,N/A
+search_alpha_3,p_search_alpha_3,Property,N/A
+search_alpha_4,p_search_alpha_4,Property,N/A
+search_alpha_5,p_search_alpha_5,Property,N/A
+search_alpha_6,p_search_alpha_6,Property,N/A
+search_alpha_7,p_search_alpha_7,Property,N/A
+search_alpha_8,p_search_alpha_8,Property,N/A
+search_alpha_9,p_search_alpha_9,Property,N/A
+sort_alpha_0,p_sort_alpha_0,Property,N/A
+sort_alpha_1,p_sort_alpha_1,Property,N/A
+sort_alpha_2,p_sort_alpha_2,Property,N/A
+sort_alpha_3,p_sort_alpha_3,Property,N/A
+sort_alpha_4,p_sort_alpha_4,Property,N/A
+sort_alpha_5,p_sort_alpha_5,Property,N/A
+sort_float_0,p_sort_float_0,Property,N/A
+sort_float_1,p_sort_float_1,Property,N/A
+sort_float_2,p_sort_float_2,Property,N/A
+sort_float_3,p_sort_float_3,Property,N/A
+sort_float_4,p_sort_float_4,Property,N/A
+sort_float_5,p_sort_float_5,Property,N/A
+sort_integer_0,p_sort_integer_0,Property,N/A
+sort_integer_1,p_sort_integer_1,Property,N/A
+sort_integer_2,p_sort_integer_2,Property,N/A
+sort_integer_3,p_sort_integer_3,Property,N/A
+sort_integer_4,p_sort_integer_4,Property,N/A
+sort_integer_5,p_sort_integer_5,Property,N/A
+accessorySeason,Season,Dimension,AUTO_GEN
+accessorySports,Sports,Dimension,AUTO_GEN
+accessoryType,Accessory Type,Dimension,AUTO_GEN
+animalHeight,Height,Dimension,AUTO_GEN
+animalSkinType,Skin Type,Dimension,AUTO_GEN
+animalWeight,Weight,Dimension,AUTO_GEN
+collection,Collection,Dimension,AUTO_GEN
+color,Color,Dimension,AUTO_GEN
+gender,Gender,Dimension,AUTO_GEN
+occasion,Occasion,Dimension,AUTO_GEN
+type,Type,Dimension,AUTO_GEN
+virtualBearSubtype,Virtual Bear,Dimension,AUTO_GEN
+exclusive,Exclusive,Dimension,AUTO_GEN
+large_image,p_large_image,Property,N/A
+small_image,p_small_image,Property,N/A

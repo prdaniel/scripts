@@ -1,0 +1,2422 @@
+		{
+			"synonyms": [
+				"chromagar",
+				"chrom agar",
+				"chromagenic agar",
+				"chrome agar",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"shoecover",
+				"shoe cover",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"SCBA",
+				"Self-Contained Breathing Apparatus",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Personal Protective Equipment",
+				"PPE",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"TOG",
+				"Turnout gear",
+				"Turn out gear",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"thermal imager",
+				"TIS",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"thermal imaging camera",
+				"TIC",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"HEICS",
+				"Hospital Emergency Incident Command System",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Rapid Intervention Team",
+				"RIT",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Bloodband",
+				"Blood band",
+				"id band",
+				"identification band",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Cell Counting Chamber",
+				"Hemacytometer",
+				"hematocytometer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Flu",
+				"Influenza",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"IHC",
+				"immunohistochemistry",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Clopidogrel",
+				"P2Y12 Test",
+				"Plavix",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Respiratory Syncytial Virus",
+				"RSV",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"C. diff",
+				"C. difficile",
+				"cdiff",
+				"clostridium difficile",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Coplin Jar",
+				"Staining Dish",
+				"staining jar",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Quickview",
+				"quick view",
+				"Quickvue",
+				"Quick vue",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Remel Expect",
+				"Remel Xpect",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Slideright",
+				"Sliderite",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"airtite",
+				"air-tite",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"glucola",
+				"glucose tolerance beverage",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"petri",
+				"petrie",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"handheld",
+				"hand held",
+				"hand-held",
+				"portable",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"benchtop",
+				"bench-top",
+				"countertop",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"mercury free",
+				"nonmercury",
+				"non mercury",
+				"non-mercury",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"forcep",
+				"forceps",
+				"tweezers",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"auto",
+				"automatic",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"biotech",
+				"bio tech",
+				"bio-tech",
+				"biotechnology",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cabitainer",
+				"carboy",
+				"clearboy",
+				"clearboys",
+				"cubitainers",
+				"jerrican",
+				"jerricans",
+				"jerry can",
+				"jerry cans",
+				"lowboy",
+				"lowboys",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"eia",
+				"elisa",
+				"fluoroimmunoassay",
+				"immunoassay",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"oligo",
+				"oligonucleotide",
+				"oligonucleotides",
+				"oligos",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"o2",
+				"oxygen",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"powderfree",
+				"powder free",
+				"unpowdered",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"latexfree",
+				"latex free",
+				"nonlatex",
+				"non latex",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"exam",
+				"examination",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"ultraviolet",
+				"uv",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"hygrometer",
+				"psychrometer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"softguard",
+				"soft guard",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"pinchclamp",
+				"pinch clamp",
+				"pinchcock",
+				"pinch cock",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"brix",
+				"sugar analysis",
+				"sugar testing",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"multigas",
+				"multi gas",
+				"multi-gas",
+				"multiple gas",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"air velocity meter",
+				"anemometer",
+				"wind speed meter",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"antistatic",
+				"anti static",
+				"anti-static",
+				"static free",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"barrelhead",
+				"barrel head",
+				"barrel-head",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"biological oxygen demand",
+				"bod",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"boileezers",
+				"boiling chips",
+				"boiling granules",
+				"boiling stones",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"bottlecap",
+				"bottle cap",
+				"bottle-cap",
+				"bottletop",
+				"bottle top",
+				"bottle-top",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"carbon dioxide",
+				"co2",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"carbon monoxide",
+				"co",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"concentrator",
+				"concentrators",
+				"evaporator",
+				"evaporators",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"drybath",
+				"dry bath",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"temp",
+				"temperature",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"chemical oxygen demand",
+				"cod",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cryogenic storage vials",
+				"cryogenic vial",
+				"cryovial",
+				"cryovials",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cryogenic ampule",
+				"cryule",
+				"cryules",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"deodorizer",
+				"deodorizers",
+				"odor control",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"dissolved oxygen",
+				"do",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"ion selective",
+				"ion selective electrode",
+				"ise",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"hdpe",
+				"high density polyethylene",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"esd",
+				"static control",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"gas chromatography sparger",
+				"gc sparger",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"gas chromatography",
+				"gc",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"hazmat",
+				"haz mat",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"capillary column",
+				"gas chromatography column",
+				"gc column",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"chromatography",
+				"high performance liquid chromatography",
+				"high pressure liquid chromatography",
+				"hplc",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"high performance thin layer chromatography",
+				"hptlc",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"thin layer chromatography",
+				"tlc",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"high throughput screening",
+				"hts",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"in vitro fertilization",
+				"ivf",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"photoionization",
+				"photoionization detector",
+				"photo ionization detector",
+				"pid",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"material safety data sheet",
+				"msds",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"papr",
+				"powered air purifying respirator",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"hazardous materials image guide",
+				"hmig",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"airflow",
+				"air flow",
+				"air-flow",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"antifatigue",
+				"anti fatigue",
+				"anti-fatigue",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"proclean",
+				"pro clean",
+				"pro-clean",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"proshield",
+				"pro shield",
+				"pro-shield",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"pro/vent",
+				"provent",
+				"pro vent",
+				"pro-vent",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"karl fischer",
+				"karl fisher",
+				"kf",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"sep",
+				"separatory",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"liquid nitrogen",
+				"ln2",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"mono kit",
+				"mono test",
+				"mono test kit",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"polyvinylidene fluoride",
+				"pvdf",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"radioimmunoassay",
+				"radio immuno assay",
+				"ria",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"earmuff",
+				"ear muff",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"earplug",
+				"ear plug",
+				"earplugs",
+				"hearing protection",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"healthcare",
+				"health care",
+				"medical diagnostic",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"facemask",
+				"face mask",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"radio frequency interference",
+				"rfi",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"toc",
+				"total organic carbon",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"tclp",
+				"toxicity characteristic leaching procedure",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"total suspended solids",
+				"tss",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"tds",
+				"total dissolved solids",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"national pollutant discharge elimination system",
+				"npdes",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"solid phase extraction",
+				"spe",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"sonicator",
+				"sonic dismembrator",
+				"sonic homogenizer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"subseive",
+				"sub seive",
+				"sub-seive",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"hotplate",
+				"hot plate",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"testtube",
+				"test tube",
+				"test-tube",
+				"testtubes",
+				"testube",
+				"testubes",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"microplate",
+				"microtiter plate",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"aerosol barrier tip",
+				"aerosol tip",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"micropipetter",
+				"micro pipetter",
+				"micropipetters",
+				"micro pipetters",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"micropipet",
+				"micropipets",
+				"micropipette",
+				"micropipettes",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"pipet",
+				"pipeter",
+				"pipeters",
+				"pipette",
+				"pipetter",
+				"pipetters",
+				"pipettes",
+				"pipettor",
+				"pipettors",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"pipet",
+				"pipette",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"microbiological",
+				"microbiology",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"fumehood",
+				"fume hood",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"ribonucleic acid",
+				"RNA",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"deoxyribonucleic acid",
+				"DNA",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"aqua",
+				"water",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"purification",
+				"purifier",
+				"purifying",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"gas chromatography",
+				"gc",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"heated",
+				"heating",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"point of use",
+				"point-of-use",
+				"pou",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"steeltoe",
+				"steel toe",
+				"steel-toe",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"thermalcycler",
+				"thermal cycler",
+				"thermalcyclers",
+				"thermal cyclers",
+				"thermocycler",
+				"thermocyclers",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"extralow",
+				"extra low",
+				"extra-low",
+				"superlow",
+				"super low",
+				"super-low",
+				"ultralow",
+				"ultra low",
+				"ultra-low",
+				"ultralowtemperature",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"flowthrough",
+				"flowthru",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"burnup",
+				"burn up",
+				"burn-up",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"explosion-proof",
+				"noncombustible",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"fire",
+				"flame",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"fireproof",
+				"fire proof",
+				"flame proof",
+				"nonflammable",
+				"non-flammable",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"undercounter",
+				"under counter",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"size",
+				"sz.",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"refractive index meter",
+				"refractometer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"heated",
+				"heater",
+				"heaters",
+				"heating",
+				"heating equipment",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"desiccant",
+				"dessicant",
+				"dessicants",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"fire point",
+				"flash point",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"recirculating",
+				"recirculation",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"immersible",
+				"immersion",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"frozen storage container",
+				"insulated container",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"blood glucose",
+				"blood glucose meter",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"mab",
+				"monoclonal antibodies",
+				"monoclonal antibody",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"pab",
+				"ployclonal antibody",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"drybox",
+				"dry box",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"workstation",
+				"work station",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cleanbench",
+				"clean bench",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"multielement",
+				"multi element",
+				"multi-element",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"bioreactor",
+				"bio reactor",
+				"bioreactors",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"stepstool",
+				"step stool",
+				"stepstools",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"finger lancing",
+				"finger lancing device",
+				"fingerstick",
+				"lancet",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"precast",
+				"pre cast",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"qdot",
+				"q dot",
+				"quantumdot",
+				"quantum dot",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"bd",
+				"becton dickinson",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"icn",
+				"internal control number",
+				"mp biomedicals",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"knex",
+				"k nex",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"neosci",
+				"neo sci",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"pyrexplus",
+				"pyrex plus",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"safeair",
+				"safe air",
+				"safe-air",
+				"safeaire",
+				"safe aire",
+				"safe-aire",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"labtek",
+				"lab-tek",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"american society for testing and materials",
+				"astm",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"department of transportation",
+				"dot",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"environmental protection agency",
+				"epa",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"national institute for occupational safety and health",
+				"niosh",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"occupation safety and health adminstration",
+				"osha",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"faceshield",
+				"face shield",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"kimwipes",
+				"kim wipes",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"rapid intervention crew",
+				"ric",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"ring stand",
+				"support stand",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"circulating",
+				"circulator",
+				"circulators",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"dissecting",
+				"dissection",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"dropper",
+				"dropping",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"evaporator",
+				"evaporators",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"facewash",
+				"facewashes",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"filter",
+				"filtered",
+				"filtering",
+				"filtration",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"homogenizer",
+				"homogenizers",
+				"homogenizing",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"luminometer",
+				"luminometers",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"lyophilized",
+				"lyophilizer",
+				"lyophilizers",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"magnifier",
+				"magnifiers",
+				"magnifying glass",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"microplate",
+				"microplates",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"miniprep",
+				"minipreps",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"penetometers",
+				"penetrometer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"reciprocating",
+				"reciprocator",
+				"reciprocators",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"recycler",
+				"recyclers",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"sampler",
+				"samplers",
+				"sampling",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"titrimeter",
+				"titrimeters",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"transilluminator",
+				"transilluminators",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"fluorometer",
+				"fluorometers",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"waterbath",
+				"water bath",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"microcentrifuge",
+				"micro centrifuge",
+				"microcentrifuges",
+				"mini centrifuge",
+				"mini centrifuges",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"hemacytometer",
+				"hemacytometers",
+				"hemocytometer",
+				"hemocytometers",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cuvet",
+				"cuvets",
+				"cuvette",
+				"cuvettes",
+				"spectrophotometry cell",
+				"spectrophotometry cells",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"fluid resistant",
+				"fluid-resistant",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"microplate washer",
+				"plate washer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cryogenic tube",
+				"cryogenic tubes",
+				"cryotube",
+				"cryotubes",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"ccba",
+				"closed circuit breathing apparatus",
+				"closed-circuit breathing apparatus",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"dishwasher",
+				"glassware washer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"notebook",
+				"note book",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"bench paper",
+				"bench protector",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"surevue",
+				"sure-vue",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"buret",
+				"burette",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"labcoat",
+				"lab coat",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"hotplate magnetic stir",
+				"stir hot plate",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"weighing paper",
+				"weigh paper",
+				"weight paper",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"floatation bath",
+				"float bath",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"biological safety",
+				"biosafety",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"biological safety cabinet",
+				"biosafety cabinet",
+				"BSC",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"ULT",
+				"ultralo temp",
+				"ultralo temperature",
+				"ultralow temp",
+				"ultra low temp",
+				"ultralow temperature",
+				"ultra low temperature",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"plate washer",
+				"strip washer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"speedvac",
+				"speed vac",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"electroporation",
+				"electroporator",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"microtech",
+				"micro-tech",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"epure",
+				"e pure",
+				"e-pure",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"mass spec",
+				"mass spectrometer",
+				"Mass spectrometry",
+				"ms",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"certificate of analysis",
+				"COFA",
+				"c of a",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cryo",
+				"cryogenic",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"heracell",
+				"hera cell",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"nanodrop",
+				"nano drop",
+				"nano-drop",
+				"nanodrop 1000",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"microscope",
+				"microscopy",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"sera",
+				"serum",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"QC",
+				"quality control",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"bovine serum albumin",
+				"BSA",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"uvvis",
+				"uv vis",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"xray",
+				"x ray",
+				"x-ray",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"supersignal",
+				"super signal",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"kingfisher",
+				"king fisher",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"herasafe",
+				"hera safe",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"labvision",
+				"lab vision",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"rheological",
+				"rheology",
+				"rheometer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"PBS",
+				"Phosphate Buffered Saline",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"handheld XRF analyzer",
+				"hand held XRF analyzer",
+				"portable elemental analyzer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Micro UV",
+				"nanodrop",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"aquasensor",
+				"aqua sensor",
+				"aquasensors",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Finn",
+				"finnpipette",
+				"finpipette",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"multiscan",
+				"multiskan",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"LabSystems",
+				"Lab Systems",
+				"Microplate Technologies",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"dimethyl sulfoxide",
+				"DMSO",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"FAIMS",
+				"Field Asymmetric Ion Mobility Spectrometry",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"labline",
+				"lab line",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"tc sensor",
+				"thermocouple",
+				"thermo couple",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"dimethyl sulfide",
+				"DMS",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"handheld raman analyzer",
+				"truescan",
+				"true scan",
+				"truscan",
+				"tru scan",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"linear stain",
+				"linear stainer",
+				"linear staining",
+				"linistain",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Fast Protein Liquid Chromatography",
+				"FPLC",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cole palmer",
+				"cole-palmer",
+				"cole parmer",
+				"cole-parmer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Geiger counter ",
+				"radiation detector",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"60ml",
+				"60 ml",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Infrared",
+				"IR",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Infrared Thermometer",
+				"IR Thermometer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"hose",
+				"tubing",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"pumphead",
+				"pump head",
+				"pump-head",
+				"pumpheads",
+				"pump heads",
+				"pump-heads",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"hotwire",
+				"hot wire",
+				"hot-wire",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Cleanroom",
+				"Clean Room",
+				"Cleanroom environment",
+				"controlled environment",
+				"Critical Environment",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"B/T Pump",
+				"B/T Pumps",
+				"BT Pump",
+				"BT Pumps",
+				"Masterflex B/T Pump",
+				"Masterflex B/T Pumps",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"10.0mL",
+				"10.0 mL",
+				"10mL",
+				"10 mL",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"stabletemp",
+				"stable temp",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"s.s.",
+				"ss",
+				"stainless steel",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"narrow mouth",
+				"narrow-mouth",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"1.00 N",
+				"1.00 Normal",
+				"1.0 N",
+				"1N",
+				"1 N",
+				"1Normal",
+				"1 Normal",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"N",
+				"Normal",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"G.P.M.",
+				"gal. per minute",
+				"gallons per minute",
+				"GPM",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"gal",
+				"gallons",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cart",
+				"carts",
+				"Lab Dolly",
+				"laboratory cart",
+				"laboratory trolley",
+				"lab trolley",
+				"trolley",
+				"trolleys",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"biodoc",
+				"biodocit",
+				"biodoc-it",
+				"biodock",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"jr",
+				"jr.",
+				"junior",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"HCl",
+				"hydrochloric acid",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"l/s",
+				"ls",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Nichirio",
+				"Nichiro",
+				"Nichiryo",
+				"Nychirio",
+				"Nychiro",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"echem",
+				"electrochemistry",
+				"ph",
+				"water quality",
+				"water quality tester",
+				"water quality testers",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cflex",
+				"c-flex",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"06250",
+				"6250",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"erlenmyer flask stopper",
+				"flask stoppers",
+				"stoppers",
+				"stoppers for flasks",
+				"volumetric flask stopper",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"cleaner",
+				"washer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"Polypropylene",
+				"PP",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"easy load",
+				"easy-load",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"ID",
+				"Inner Diameter",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"OD",
+				"Outer Diameter",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"0.75",
+				"3/4",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"0.5",
+				"1/2",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"0.25",
+				"1/4",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"whirl pack",
+				"whirl-pack",
+				"whirl pak",
+				"whirl-pak",
+				"wirl pack",
+				"wirl-pack",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"digisense",
+				"digi-sense",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"precalibrated",
+				"pre-calibrated",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"water filtration",
+				"water purification",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"extreme temperature gloves",
+				"furnace gloves",
+				"high temperature gloves",
+				"oven gloves",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"labeler",
+				"label maker",
+				"label printer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"h202",
+				"h2o2",
+				"hydrogen peroxide",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"ultrasonic",
+				"ultrasound",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"datalogger",
+				"data logger",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"desicator",
+				"desiccator",
+				"dessicator",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"conical flask",
+				"erlenmeyer flask",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"fittings",
+				"tube fittings",
+				"tubing connectors",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"flowmeter",
+				"flow meter",
+				"flowmeters",
+				"flow meters",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"drier",
+				"dryer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"ethanol",
+				"ethyl alcohol",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"exam gloves",
+				"gloves",
+				"laboratory gloves",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"shippers",
+				"shipping",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"luerloc",
+				"luer loc",
+				"luer-loc",
+				"luer lock",
+				"luer-lock",
+				"luerlok",
+				"luer lok",
+				"luer-lok",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"&quot;",
+				"in.",
+				"inch",
+				"inches",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"&apos;",
+				"feet",
+				"foot",
+				"ft",
+				"Ft.",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"electrical",
+				"electric equipment",
+				"electronic",
+				"electronic equipment",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"sulfur",
+				"sulphur",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"dust mask",
+				"respirator",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"mixer",
+				"overhead stirrer",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"automation control",
+				"process control",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"polysat",
+				"polystat",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"resistance",
+				"resistant",
+			],
+			"type": "multi-way"
+		},
+		{
+			"synonyms": [
+				"virtual catalog",
+				"virtually catalog",
+			],
+			"type": "multi-way"
+		},
+
+		{
+			"searchTerms": "silicon",
+			"type": "one-way",
+			"synonyms": [
+				"silicone",
+			],
+		},
+		{
+			"searchTerms": "wash bottle",
+			"type": "one-way",
+			"synonyms": [
+				"water bottle",
+			],
+		},
+		{
+			"searchTerms": "tube",
+			"type": "one-way",
+			"synonyms": [
+				"tubing",
+			],
+		},
+		{
+			"searchTerms": "water quality tester",
+			"type": "one-way",
+			"synonyms": [
+				"conductivity meter",
+				"ion meter",
+				"isfet meter",
+				"ph meter",
+			],
+		},
+		{
+			"searchTerms": "measuring cylinder",
+			"type": "one-way",
+			"synonyms": [
+				"graduated cylinder",
+			],
+		},
+		{
+			"searchTerms": "incubator oven",
+			"type": "one-way",
+			"synonyms": [
+				"incubator",
+			],
+		},
+		{
+			"searchTerms": "R-3603",
+			"type": "one-way",
+			"synonyms": [
+				"e3603",
+				"e-3603",
+				"r3603",
+			],
+		},
+		{
+			"searchTerms": "bell jar",
+			"type": "one-way",
+			"synonyms": [
+				"desicator",
+				"desiccator",
+				"dessicator",
+			],
+		},
+		{
+			"searchTerms": "dosing pump",
+			"type": "one-way",
+			"synonyms": [
+				"Dispensing Pump",
+			],
+		},
+		{
+			"searchTerms": "hose tail",
+			"type": "one-way",
+			"synonyms": [
+				"hose fitting",
+			],
+		},
+		{
+			"searchTerms": "alcohol hydrometer",
+			"type": "one-way",
+			"synonyms": [
+				"brewing hydrometer",
+				"proof hydrometer",
+				"proofing hydrometer",
+			],
+		}

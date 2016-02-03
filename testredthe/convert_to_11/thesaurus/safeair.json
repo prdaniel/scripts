@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["safeair","safe air","safe-air","safeaire","safe aire","safe-aire"],
+	"type": "multi-way"
+}

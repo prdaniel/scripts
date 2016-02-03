@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["h202","h2o2","hydrogen peroxide"],
+	"type": "multi-way"
+}

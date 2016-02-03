@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE MERCH_RULE_GROUP SYSTEM "merch_rule_group.dtd">
+<MERCH_RULE_GROUP ID="11" NAME="ScienceEducationForcedRankingGroup">
+
+  <MERCH_RULE ID="145" SELF_PIVOT="FALSE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingEQLStyle" TITLE="ScienceEducation-Bury-Mettler" ZONE_NAME="ScienceEducationForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE"/>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="TRUE"/>
+    <PROP NAME="buryEql">
+      <PVAL>collection()/record[p_vendorNumber="VN00004708" or p_vendorNumber="VN00010720"]</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+</MERCH_RULE_GROUP>

@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["chromatography","high performance liquid chromatography","high pressure liquid chromatography","hplc"],
+	"type": "multi-way"
+}

@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["national pollutant discharge elimination system","npdes"],
+	"type": "multi-way"
+}

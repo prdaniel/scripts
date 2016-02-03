@@ -1,0 +1,4 @@
+unique_id	key	value
+BWRC00000067	Mmid	acura_integra_2001_sport_compact_car
+BWRC00000067	Mmid_fit	acura_integra_2001_sport_compact_car~All Acura
+

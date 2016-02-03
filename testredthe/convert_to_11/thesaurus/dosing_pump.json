@@ -1,0 +1,10 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"trigger": "R-3603",
+	"type": "one-way",
+	"forms": ["e3603",
+"e-3603",
+"r3603",
+]
+}

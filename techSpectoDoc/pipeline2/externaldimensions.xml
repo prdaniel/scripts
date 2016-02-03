@@ -1,0 +1,2359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE DIMENSIONS SYSTEM "dimensions.dtd">
+<DIMENSIONS VERSION="1.0.0">
+
+  <DIMENSION NAME="Supplier" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="4"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="4"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Supplier</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Endeca" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="16"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="16"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Endeca</SYN>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Special Interests" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="17"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="17"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Special Interests</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="AlphabetSn" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="18"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="18"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">AlphabetSn</SYN>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Capacity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="21"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="21"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Capacity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Material" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="22"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="22"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Material</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="CLIA Complexity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="23"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="23"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">CLIA Complexity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Color" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="24"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="24"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Color</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Cassette Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="25"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="25"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Cassette Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Volume" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="26"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="26"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Volume</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Antigen" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="27"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="27"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Antigen</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Antibody Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="29"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="29"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Antibody Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Size" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="30"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="30"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Size</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Purity Grade" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="31"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="31"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Purity Grade</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Package Size" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="33"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="33"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Package Size</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="PrefProd" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="34"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="34"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">PrefProd</SYN>
+        <PROP NAME="PREFPROD">
+          <PVAL>PREFPROD</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Packaging Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="35"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="35"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Packaging Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Research Discipline" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="38"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="38"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Research Discipline</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Clone" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="40"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="40"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Clone</SYN>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Classification" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="43"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="43"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Classification</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Label" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="44"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="44"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Label</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Format" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="45"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="45"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Format</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Isotype" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="46"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="46"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Isotype</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Antibody Applications" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="47"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="47"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Antibody Applications</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Regulatory Status" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="48"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="48"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Regulatory Status</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Reactivity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="49"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="49"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Reactivity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Host" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="50"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="50"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Host</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="d_trvg_d" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="51"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="51"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">d_trvg_d</SYN>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Absorbency" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="52"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="52"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Absorbency</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Accuracy" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="53"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="53"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Accuracy</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Autoclavable" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="54"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="54"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Autoclavable</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Culture Collection Code" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="55"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="55"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Culture Collection Code</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Bulb Volume" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="56"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="56"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Bulb Volume</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Calibrated" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="57"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="57"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Calibrated</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="English Capacity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="58"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="58"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">English Capacity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Metric Capacity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="59"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="59"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Metric Capacity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Closure" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="60"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="60"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Closure</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Color Code" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="61"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="61"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Color Code</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Detector Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="62"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="62"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Detector Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Disposable" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="63"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="63"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Disposable</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Drops per ml" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="64"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="64"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Drops per ml</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Flow Rate" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="65"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="65"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Flow Rate</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="For Use With" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="66"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="66"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">For Use With</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="GPI Thread" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="67"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="67"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">GPI Thread</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Graduated" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="68"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="68"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Graduated</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Metric Length" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="69"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="69"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Metric Length</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="English Length" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="70"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="70"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">English Length</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Maximum Force" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="71"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="71"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Maximum Force</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Minimum Flow Time" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="72"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="72"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Minimum Flow Time</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Negitive Graduations" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="73"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="73"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Negitive Graduations</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Outside Diameter" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="74"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="74"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Outside Diameter</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Packaging Quantity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="75"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="75"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Packaging Quantity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Column Packing" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="76"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="76"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Column Packing</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Particle Size" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="77"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="77"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Particle Size</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Aspirator Plug" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="78"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="78"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Aspirator Plug</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Ply" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="79"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="79"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Ply</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Powdered" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="80"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="80"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Powdered</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Exterior English Dimensions" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="81"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="81"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Exterior English Dimensions</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Exterior Metric Dimensions" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="82"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="82"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Exterior Metric Dimensions</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Speed" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="83"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="83"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Speed</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Stationary Phase" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="84"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="84"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Stationary Phase</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Sterile" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="85"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="85"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Sterile</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Subdivisions" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="86"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="86"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Subdivisions</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Temperature Range" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="87"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="87"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Temperature Range</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Inside Diameter" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="88"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="88"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Inside Diameter</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Tip Style" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="89"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="89"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Tip Style</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Tolerance" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="90"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="90"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Tolerance</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Solution Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="91"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="91"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Solution Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Closure Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="92"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="92"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Closure Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Thickness" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="93"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="93"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Thickness</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Metric Volume" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="94"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="94"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Metric Volume</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Sorbent" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="95"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="95"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Sorbent</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Pressure Range" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="96"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="96"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Pressure Range</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Pressure" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="97"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="97"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Pressure</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Porosity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="98"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="98"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Porosity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Pore Size" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="99"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="99"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Pore Size</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Particle Shape" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="100"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="100"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Particle Shape</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Outside Width" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="101"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="101"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Outside Width</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Outside Height" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="102"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="102"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Outside Height</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Interior Metric Width" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="103"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="103"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Interior Metric Width</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Interior Metric Height" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="104"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="104"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Interior Metric Height</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Voltage" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="105"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="105"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Voltage</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Controller Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="106"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="106"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Controller Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Connection Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="107"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="107"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Connection Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Cartridge Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="108"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="108"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Cartridge Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Septa Color" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="109"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="109"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Septa Color</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Total Positions" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="110"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="110"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Total Positions</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Stackable" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="111"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="111"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Stackable</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="For Use With Application" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="112"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="112"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">For Use With Application</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Binding Property" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="113"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="113"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Binding Property</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Resolution" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="114"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="114"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Resolution</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Immersion Length" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="115"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="115"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Immersion Length</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Metric Surface Area" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="116"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="116"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Metric Surface Area</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Rimmed" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="117"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="117"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Rimmed</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Well Shape" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="118"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="118"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Well Shape</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Well Bottom" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="119"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="119"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Well Bottom</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Dial Size" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="120"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="120"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Dial Size</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Bowl Angle" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="121"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="121"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Bowl Angle</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Stopcock Number" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="122"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="122"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Stopcock Number</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Stopcock" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="123"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="123"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Stopcock</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Stopper Number" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="124"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="124"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Stopper Number</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Bowl Diameter" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="125"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="125"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Bowl Diameter</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Disc Diameter" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="126"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="126"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Disc Diameter</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Concentration" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="127"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="127"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Concentration</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Host Species" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="128"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="128"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Host Species</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Conjugate" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="129"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="129"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Conjugate</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Chemical Components" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="130"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="130"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Chemical Components</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Includes" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="131"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="131"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Includes</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Cross Reactivity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="132"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="132"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Cross Reactivity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Gel Format" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="133"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="133"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Gel Format</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Recommended Storage" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="134"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="134"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Recommended Storage</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Base Pair Range Marker" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="135"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="135"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Base Pair Range Marker</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Mass Ladder Size" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="136"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="136"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Mass Ladder Size</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Stain Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="137"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="137"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Stain Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Material Stained" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="138"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="138"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Material Stained</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Destaining Method" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="139"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="139"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Destaining Method</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Displayed Text" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="140"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="140"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Displayed Text</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="English Width" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="141"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="141"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">English Width</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Metric Width" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="142"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="142"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Metric Width</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Dye Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="143"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="143"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Dye Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Intensity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="144"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="144"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Intensity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Detection Range" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="145"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="145"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Detection Range</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Display Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="146"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="146"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Display Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Primer" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="147"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="147"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Primer</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Vector" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="148"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="148"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Vector</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Species Name" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="149"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="149"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Species Name</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Yield" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="150"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="150"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Yield</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Gene" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="151"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="151"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Gene</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Amperage" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="152"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="152"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Amperage</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Hertz" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="153"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="153"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Hertz</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Specific Antigens" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="154"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="154"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Specific Antigens</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Specific Formats" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="155"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="155"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Specific Formats</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Specific Isotypes" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="156"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="156"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Specific Isotypes</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Antimicrobial Agents" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="161"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="161"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Antimicrobial Agents</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Additive" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="162"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="162"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Additive</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Media Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="163"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="163"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Media Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Metric Mass" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="164"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="164"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Metric Mass</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Taper" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="165"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="165"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Taper</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Bottom Diameter" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="166"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="166"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Bottom Diameter</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Wattage" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="167"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="167"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Wattage</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Time Range" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="168"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="168"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Time Range</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Gel Dimensions" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="169"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="169"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Gel Dimensions</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="pH Range" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="170"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="170"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">pH Range</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Potential Interferences" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="171"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="171"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Potential Interferences</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Secondary Range" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="172"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="172"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Secondary Range</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Interior Metric Dimensions" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="173"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="173"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Interior Metric Dimensions</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Interior English Dimensions" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="174"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="174"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Interior English Dimensions</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Metric Sash Height" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="175"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="175"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Metric Sash Height</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="English Sash Height" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="176"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="176"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">English Sash Height</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Filter Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="177"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="177"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Filter Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Lighting Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="178"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="178"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Lighting Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="English Refrigerator Capacity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="179"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="179"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">English Refrigerator Capacity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Metric Refrigerator Capacity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="180"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="180"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Metric Refrigerator Capacity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Refrigerator Temperature Range" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="181"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="181"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Refrigerator Temperature Range</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="English Height" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="182"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="182"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">English Height</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Metric Height" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="183"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="183"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Metric Height</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Purity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="184"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="184"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Purity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="DNTP Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="185"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="185"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">DNTP Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Standard Taper Joint Number [Center]" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="186"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="186"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Standard Taper Joint Number [Center]</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Standard Taper Joint Number [Sides]" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="187"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="187"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Standard Taper Joint Number [Sides]</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Objective Types" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="188"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="188"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Objective Types</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Ocular Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="189"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="189"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Ocular Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Orbit" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="190"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="190"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Orbit</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Capacity Range" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="191"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="191"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Capacity Range</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Precision" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="192"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="192"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Precision</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Dispenser Increments" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="193"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="193"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Dispenser Increments</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Scissor Tip Style" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="194"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="194"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Scissor Tip Style</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Blade Style" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="195"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="195"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Blade Style</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Shape" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="196"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="196"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Shape</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Sieve Number" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="197"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="197"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Sieve Number</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Sieve Type [U.S. Standard]" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="198"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="198"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Sieve Type [U.S. Standard]</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Sieve Type [Tyler Standard]" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="199"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="199"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Sieve Type [Tyler Standard]</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="English Depth" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="200"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="200"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">English Depth</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Metric Depth" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="201"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="201"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Metric Depth</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Item Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="202"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="202"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Item Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Cutsite" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="203"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="203"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Cutsite</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="English Volume" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="204"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="204"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">English Volume</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Molecular Weight" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="205"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="205"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Molecular Weight</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Recombinant" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="206"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="206"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Recombinant</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Quantity" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="207"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="207"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Quantity</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Insert Type" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="208"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="208"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Insert Type</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+  <DIMENSION NAME="Sequence" SRC_TYPE="AUTOGEN">
+    <DIMENSION_ID ID="209"/>
+    <DIMENSION_NODE>
+      <DVAL TYPE="EXACT">
+        <DVAL_ID ID="209"/>
+        <SYN CLASSIFY="FALSE" DISPLAY="TRUE" SEARCH="FALSE">Sequence</SYN>
+        <PROP NAME="VisibleIn">
+          <PVAL>SEARCH</PVAL>
+        </PROP>
+      </DVAL>
+    </DIMENSION_NODE>
+  </DIMENSION>
+
+</DIMENSIONS>

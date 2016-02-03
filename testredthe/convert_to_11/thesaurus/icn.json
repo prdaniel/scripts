@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["icn","internal control number","mp biomedicals"],
+	"type": "multi-way"
+}

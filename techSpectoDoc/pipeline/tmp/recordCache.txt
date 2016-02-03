@@ -1,0 +1,2 @@
+Cache Name,General,Sources,Record Index
+CacheMainAttributes,-1(Combine Recs),FlattenMainAttributes,unique_id

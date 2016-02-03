@@ -1,0 +1,9 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["pipet","pipette"],
+	"type": "multi-way"
+}
+er","pipetters","pipettes","pipettor","pipettors"],
+	"type": "multi-way"
+}

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE MERCH_RULE_GROUP SYSTEM "merch_rule_group.dtd">
+<MERCH_RULE_GROUP ID="1" NAME="default">
+
+  <MERCH_RULE ID="64" SELF_PIVOT="FALSE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingStyle" TITLE="Thermo biosafety cabinets" ZONE_NAME="ForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">biosafety cabinet</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHPHRASE">biological safety cabinet</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="FALSE"/>
+    <PROP NAME="CondensedPartNumbers">
+      <PVAL>13261305,54L97300,13262229,13262242</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.request.type">
+      <PVAL>NONE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.workflow.state">
+      <PVAL>ACTIVE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.created">
+      <PVAL>2009-06-17T14:44</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.of.change">
+      <PVAL>2009-06-17T14:46</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.state.change">
+      <PVAL>"Inactive: Draft" to "Active"</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.note.entered">
+      <PVAL>thermo forma and fisher hamilton forced rank on search for biosafety cabinet, esiwicki 061709</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified">
+      <PVAL>2010-03-19T13:34</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+  <MERCH_RULE ID="66" SELF_PIVOT="FALSE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingStyle" TITLE="Orbital Shakers_New Brunswick" ZONE_NAME="ForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHPHRASE">orbital shakers</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="FALSE"/>
+    <PROP NAME="CondensedPartNumbers">
+      <PVAL>14285729,14285736,14285852,14285737,14278108,14278106,14278104,14285734,14285732,1427812,14285696,1428120,1427814,14285743</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.request.type">
+      <PVAL>NONE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.workflow.state">
+      <PVAL>ACTIVE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.created">
+      <PVAL>2010-03-19T13:34</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.of.change">
+      <PVAL>2010-03-19T13:38</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.state.change">
+      <PVAL>"Inactive: Draft" to "Active"</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.note.entered">
+      <PVAL>New Brunswick orbital shakers rule added to QA by esiwicki 031910</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified">
+      <PVAL>2010-03-19T13:49</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+  <MERCH_RULE ID="52" SELF_PIVOT="FALSE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingStyle" TITLE="Light Bulbs" ZONE_NAME="ForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHPHRASE">light bulbs</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="FALSE"/>
+    <PROP NAME="CondensedPartNumbers">
+      <PVAL>14480300,119882,09529545,09529540</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.request.type">
+      <PVAL>NONE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.workflow.state">
+      <PVAL>ACTIVE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.created">
+      <PVAL>2009-03-11T16:47</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.of.change">
+      <PVAL>2009-03-11T16:50</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.state.change">
+      <PVAL>"Inactive: Draft" to "Active"</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.note.entered">
+      <PVAL>Light bulb forced ranked rule created by esiwicki for test purposes (no real forced ranking as of freeze date) 3/11/09</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified">
+      <PVAL>2009-03-11T16:52</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+  <MERCH_RULE ID="54" SELF_PIVOT="FALSE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingStyle" TITLE="Scale - test" ZONE_NAME="ForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">scale</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="FALSE"/>
+    <PROP NAME="05402037,05401544,05401818,05401536,05401624,1482230,085626,S31888,085521G,08556E">
+      <PVAL>05402037,05401544,05401818,05401536,05401624,1482230,085626,S31888,085521G,08556E</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.request.type">
+      <PVAL>NONE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.workflow.state">
+      <PVAL>ACTIVE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.created">
+      <PVAL>2009-04-17T16:56</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.of.change">
+      <PVAL>2009-04-17T16:59</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.state.change">
+      <PVAL>"Inactive: Draft" to "Active"</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.note.entered">
+      <PVAL>Test created for endeca relaunch by ES, 4/17/09</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified">
+      <PVAL>2009-04-21T08:50</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+  <MERCH_RULE ID="55" SELF_PIVOT="FALSE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingStyle" TITLE="Funnel - test" ZONE_NAME="ForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">funnel</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="FALSE"/>
+    <PROP NAME="CondensedPartNumbers">
+      <PVAL>22086991,10310231D</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.request.type">
+      <PVAL>NONE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.workflow.state">
+      <PVAL>ACTIVE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.created">
+      <PVAL>2009-04-17T17:02</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.of.change">
+      <PVAL>2009-04-17T17:03</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.state.change">
+      <PVAL>"Active" to "Active"</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.note.entered">
+      <PVAL>test added by esiwicki on 4/17/09</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified">
+      <PVAL>2009-04-17T17:04</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+  <MERCH_RULE ID="56" SELF_PIVOT="FALSE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingStyle" TITLE="Stirrer - test" ZONE_NAME="ForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">stirrer</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="FALSE"/>
+    <PROP NAME="CondensedPartNumbers">
+      <PVAL>14512127 </PVAL>
+    </PROP>
+    <PROP NAME="14512127">
+      <PVAL>14512127</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.request.type">
+      <PVAL>NONE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.workflow.state">
+      <PVAL>ACTIVE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.created">
+      <PVAL>2009-04-17T17:04</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.of.change">
+      <PVAL>2009-04-17T17:05</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.state.change">
+      <PVAL>"Inactive: Draft" to "Active"</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.note.entered">
+      <PVAL>esiwicki 4/17/09</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified">
+      <PVAL>2009-04-21T11:22</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+  <MERCH_RULE ID="57" SELF_PIVOT="FALSE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingStyle" TITLE="Tape - test" ZONE_NAME="ForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">tape</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="FALSE"/>
+    <PROP NAME="19310135,1187798,19811837,19041264,1798162A,15939,15947,15934,0550032,S47564P,S41756,S94239,118656,22130067,18339,E0030127471,ICN15257780,191305047">
+      <PVAL>19310135,1187798,19811837,19041264,1798162A,15939,15947,15934,0550032,S47564P,S41756,S94239,118656,22130067,18339,E0030127471,ICN15257780,191305047</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.request.type">
+      <PVAL>NONE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.workflow.state">
+      <PVAL>ACTIVE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.created">
+      <PVAL>2009-04-17T17:05</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.of.change">
+      <PVAL>2009-04-17T17:07</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.state.change">
+      <PVAL>"Inactive: Draft" to "Active"</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.note.entered">
+      <PVAL>esiwicki 4/17/09</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified">
+      <PVAL>2009-05-06T09:21</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+  <MERCH_RULE ID="58" SELF_PIVOT="FALSE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingStyle" TITLE="Sand - test" ZONE_NAME="ForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">sand</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="FALSE"/>
+    <PROP NAME="CondensedPartNumbers">
+      <PVAL>S93910</PVAL>
+    </PROP>
+    <PROP NAME="S93910">
+      <PVAL>S93910</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.request.type">
+      <PVAL>NONE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.workflow.state">
+      <PVAL>ACTIVE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.created">
+      <PVAL>2009-04-17T17:08</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by">
+      <PVAL>julie.carlini@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.of.change">
+      <PVAL>2009-04-17T17:09</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.state.change">
+      <PVAL>"Inactive: Draft" to "Active"</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.note.entered">
+      <PVAL>esiwicki 4/17/09</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified">
+      <PVAL>2009-04-21T11:23</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+  <MERCH_RULE ID="61" SELF_PIVOT="FALSE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingStyle" TITLE="Tape - test2" ZONE_NAME="ForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHPHRASE">tape</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="FALSE"/>
+    <PROP NAME="1187798,1187781,1187782,1187779,1187751,1187799">
+      <PVAL>1187798,1187781,1187782,1187779,1187751,1187799</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.request.type">
+      <PVAL>NONE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.workflow.state">
+      <PVAL>ACTIVE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.created">
+      <PVAL>2009-04-21T11:23</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified">
+      <PVAL>2009-04-21T11:31</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by">
+      <PVAL>emily.siwicki@thermofisher.com</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.of.change">
+      <PVAL>2009-04-21T11:31</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.state.change">
+      <PVAL>"Inactive: Draft" to "Active"</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.note.entered">
+      <PVAL>Added by Esiwicki 4/21</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+</MERCH_RULE_GROUP>

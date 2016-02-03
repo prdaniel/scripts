@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE MERCH_RULES SYSTEM "merch_rules.dtd">
+<MERCH_RULES>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_SearchSpotLightGroup.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_default.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_ScienceEducationSpotLightGroup.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_HealthcareSpotLightGroup.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_SafetySpotLightGroup.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_ScientificSpotLightGroup.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_ScienceEducationForcedRankingGroup.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_HealthcareForcedRankingGroup.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_SafetyForcedRankingGroup.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_ScientificForcedRankingGroup.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="FALSE" URL="ThermoFisherSci.merch_rule_group_BrowseSpotLightGroup.xml"/>
+
+  <MERCH_RULE_GROUP_REF IS_REDIRECT_GROUP="TRUE" URL="ThermoFisherSci.merch_rule_group_default_redirects.xml"/>
+
+</MERCH_RULES>

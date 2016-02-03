@@ -1,0 +1,310 @@
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["chromagar","chrom agar","chromagenic agar","chrome agar",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["shoecover","shoe cover",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["SCBA","Self-Contained Breathing Apparatus",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Personal Protective Equipment","PPE",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["TOG","Turnout gear","Turn out gear",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["thermal imager","TIS",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["thermal imaging camera","TIC",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["HEICS","Hospital Emergency Incident Command System",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Rapid Intervention Team","RIT",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Bloodband","Blood band","id band","identification band",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Cell Counting Chamber","Hemacytometer","hematocytometer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Flu","Influenza",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["IHC","immunohistochemistry",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Clopidogrel","P2Y12 Test","Plavix",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Respiratory Syncytial Virus","RSV",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["C. diff","C. difficile","cdiff","clostridium difficile",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Coplin Jar","Staining Dish","staining jar",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Quickview","quick view","Quickvue","Quick vue",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Remel Expect","Remel Xpect",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Slideright","Sliderite",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["airtite","air-tite",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["glucola","glucose tolerance beverage",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["petri","petrie",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["handheld","hand held","hand-held","portable",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["benchtop","bench-top","countertop",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["mercury free","nonmercury","non mercury","non-mercury",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["forcep","forceps","tweezers",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["auto","automatic",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["biotech","bio tech","bio-tech","biotechnology",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cabitainer","carboy","clearboy","clearboys","cubitainers","jerrican","jerricans","jerry can","jerry cans","lowboy","lowboys",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["eia","elisa","fluoroimmunoassay","immunoassay",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["oligo","oligonucleotide","oligonucleotides","oligos",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["o2","oxygen",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["powderfree","powder free","unpowdered",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["latexfree","latex free","nonlatex","non latex",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["exam","examination",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["ultraviolet","uv",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["hygrometer","psychrometer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["softguard","soft guard",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["pinchclamp","pinch clamp","pinchcock","pinch cock",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["brix","sugar analysis","sugar testing",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["multigas","multi gas","multi-gas","multiple gas",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["air velocity meter","anemometer","wind speed meter",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["antistatic","anti static","anti-static","static free",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["barrelhead","barrel head","barrel-head",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["biological oxygen demand","bod",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["boileezers","boiling chips","boiling granules","boiling stones",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["bottlecap","bottle cap","bottle-cap","bottletop","bottle top","bottle-top",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["carbon dioxide","co2",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["carbon monoxide","co",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["concentrator","concentrators","evaporator","evaporators",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["drybath","dry bath",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["temp","temperature",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["chemical oxygen demand","cod",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cryogenic storage vials","cryogenic vial","cryovial","cryovials",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cryogenic ampule","cryule","cryules",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["deodorizer","deodorizers","odor control",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["dissolved oxygen","do",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["ion selective","ion selective electrode","ise",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["hdpe","high density polyethylene",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["esd","static control",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["gas chromatography sparger","gc sparger",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["gas chromatography","gc",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["hazmat","haz mat",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["capillary column","gas chromatography column","gc column",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["chromatography","high performance liquid chromatography","high pressure liquid chromatography","hplc",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["high performance thin layer chromatography","hptlc",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["thin layer chromatography","tlc",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["high throughput screening","hts",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["in vitro fertilization","ivf",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["photoionization","photoionization detector","photo ionization detector","pid",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["material safety data sheet","msds",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["papr","powered air purifying respirator",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["hazardous materials image guide","hmig",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["airflow","air flow","air-flow",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["antifatigue","anti fatigue","anti-fatigue",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["proclean","pro clean","pro-clean",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["proshield","pro shield","pro-shield",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["pro/vent","provent","pro vent","pro-vent",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["karl fischer","karl fisher","kf",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["sep","separatory",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["liquid nitrogen","ln2",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["mono kit","mono test","mono test kit",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["polyvinylidene fluoride","pvdf",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["radioimmunoassay","radio immuno assay","ria",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["earmuff","ear muff",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["earplug","ear plug","earplugs","hearing protection",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["healthcare","health care","medical diagnostic",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["facemask","face mask",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["radio frequency interference","rfi",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["toc","total organic carbon",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["tclp","toxicity characteristic leaching procedure",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["total suspended solids","tss",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["tds","total dissolved solids",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["national pollutant discharge elimination system","npdes",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["solid phase extraction","spe",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["sonicator","sonic dismembrator","sonic homogenizer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["subseive","sub seive","sub-seive",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["hotplate","hot plate",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["testtube","test tube","test-tube","testtubes","testube","testubes",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["microplate","microtiter plate",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["aerosol barrier tip","aerosol tip",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["micropipetter","micro pipetter","micropipetters","micro pipetters",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["micropipet","micropipets","micropipette","micropipettes",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["pipet","pipeter","pipeters","pipette","pipetter","pipetters","pipettes","pipettor","pipettors",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["pipet","pipette",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["microbiological","microbiology",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["fumehood","fume hood",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["ribonucleic acid","RNA",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["deoxyribonucleic acid","DNA",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["aqua","water",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["purification","purifier","purifying",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["gas chromatography","gc",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["heated","heating",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["point of use","point-of-use","pou",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["steeltoe","steel toe","steel-toe",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["thermalcycler","thermal cycler","thermalcyclers","thermal cyclers","thermocycler","thermocyclers",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["extralow","extra low","extra-low","superlow","super low","super-low","ultralow","ultra low","ultra-low","ultralowtemperature",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["flowthrough","flowthru",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["burnup","burn up","burn-up",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["explosion-proof","noncombustible",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["fire","flame",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["fireproof","fire proof","flame proof","nonflammable","non-flammable",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["undercounter","under counter",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["size","sz.",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["refractive index meter","refractometer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["heated","heater","heaters","heating","heating equipment",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["desiccant","dessicant","dessicants",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["fire point","flash point",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["recirculating","recirculation",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["immersible","immersion",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["frozen storage container","insulated container",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["blood glucose","blood glucose meter",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["mab","monoclonal antibodies","monoclonal antibody",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["pab","ployclonal antibody",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["drybox","dry box",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["workstation","work station",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cleanbench","clean bench",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["multielement","multi element","multi-element",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["bioreactor","bio reactor","bioreactors",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["stepstool","step stool","stepstools",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["finger lancing","finger lancing device","fingerstick","lancet",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["precast","pre cast",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["qdot","q dot","quantumdot","quantum dot",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["bd","becton dickinson",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["icn","internal control number","mp biomedicals",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["knex","k nex",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["neosci","neo sci",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["pyrexplus","pyrex plus",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["safeair","safe air","safe-air","safeaire","safe aire","safe-aire",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["labtek","lab-tek",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["american society for testing and materials","astm",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["department of transportation","dot",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["environmental protection agency","epa",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["national institute for occupational safety and health","niosh",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["occupation safety and health adminstration","osha",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["faceshield","face shield",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["kimwipes","kim wipes",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["rapid intervention crew","ric",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["ring stand","support stand",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["circulating","circulator","circulators",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["dissecting","dissection",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["dropper","dropping",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["evaporator","evaporators",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["facewash","facewashes",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["filter","filtered","filtering","filtration",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["homogenizer","homogenizers","homogenizing",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["luminometer","luminometers",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["lyophilized","lyophilizer","lyophilizers",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["magnifier","magnifiers","magnifying glass",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["microplate","microplates",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["miniprep","minipreps",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["penetometers","penetrometer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["reciprocating","reciprocator","reciprocators",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["recycler","recyclers",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["sampler","samplers","sampling",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["titrimeter","titrimeters",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["transilluminator","transilluminators",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["fluorometer","fluorometers",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["waterbath","water bath",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["microcentrifuge","micro centrifuge","microcentrifuges","mini centrifuge","mini centrifuges",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["hemacytometer","hemacytometers","hemocytometer","hemocytometers",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cuvet","cuvets","cuvette","cuvettes","spectrophotometry cell","spectrophotometry cells",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["fluid resistant","fluid-resistant",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["microplate washer","plate washer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cryogenic tube","cryogenic tubes","cryotube","cryotubes",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["ccba","closed circuit breathing apparatus","closed-circuit breathing apparatus",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["dishwasher","glassware washer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["notebook","note book",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["bench paper","bench protector",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["surevue","sure-vue",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["buret","burette",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["labcoat","lab coat",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["hotplate magnetic stir","stir hot plate",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["weighing paper","weigh paper","weight paper",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["floatation bath","float bath",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["biological safety","biosafety",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["biological safety cabinet","biosafety cabinet","BSC",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["ULT","ultralo temp","ultralo temperature","ultralow temp","ultra low temp","ultralow temperature","ultra low temperature",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["plate washer","strip washer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["speedvac","speed vac",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["electroporation","electroporator",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["microtech","micro-tech",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["epure","e pure","e-pure",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["mass spec","mass spectrometer","Mass spectrometry","ms",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["certificate of analysis","COFA","c of a",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cryo","cryogenic",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["heracell","hera cell",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["nanodrop","nano drop","nano-drop","nanodrop 1000",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["microscope","microscopy",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["sera","serum",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["QC","quality control",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["bovine serum albumin","BSA",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["uvvis","uv vis",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["xray","x ray","x-ray",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["supersignal","super signal",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["kingfisher","king fisher",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["herasafe","hera safe",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["labvision","lab vision",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["rheological","rheology","rheometer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["PBS","Phosphate Buffered Saline",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["handheld XRF analyzer","hand held XRF analyzer","portable elemental analyzer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Micro UV","nanodrop",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["aquasensor","aqua sensor","aquasensors",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Finn","finnpipette","finpipette",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["multiscan","multiskan",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["LabSystems","Lab Systems","Microplate Technologies",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["dimethyl sulfoxide","DMSO",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["FAIMS","Field Asymmetric Ion Mobility Spectrometry",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["labline","lab line",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["tc sensor","thermocouple","thermo couple",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["dimethyl sulfide","DMS",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["handheld raman analyzer","truescan","true scan","truscan","tru scan",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["linear stain","linear stainer","linear staining","linistain",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Fast Protein Liquid Chromatography","FPLC",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cole palmer","cole-palmer","cole parmer","cole-parmer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Geiger counter ","radiation detector",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["60ml","60 ml",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Infrared","IR",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Infrared Thermometer","IR Thermometer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["hose","tubing",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["pumphead","pump head","pump-head","pumpheads","pump heads","pump-heads",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["hotwire","hot wire","hot-wire",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Cleanroom","Clean Room","Cleanroom environment","controlled environment","Critical Environment",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["B/T Pump","B/T Pumps","BT Pump","BT Pumps","Masterflex B/T Pump","Masterflex B/T Pumps",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["10.0mL","10.0 mL","10mL","10 mL",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["stabletemp","stable temp",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["s.s.","ss","stainless steel",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["narrow mouth","narrow-mouth",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["1.00 N","1.00 Normal","1.0 N","1N","1 N","1Normal","1 Normal",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["N","Normal",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["G.P.M.","gal. per minute","gallons per minute","GPM",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["gal","gallons",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cart","carts","Lab Dolly","laboratory cart","laboratory trolley","lab trolley","trolley","trolleys",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["biodoc","biodocit","biodoc-it","biodock",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["jr","jr.","junior",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["HCl","hydrochloric acid",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["l/s","ls",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Nichirio","Nichiro","Nichiryo","Nychirio","Nychiro",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["echem","electrochemistry","ph","water quality","water quality tester","water quality testers",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cflex","c-flex",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["06250","6250",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["erlenmyer flask stopper","flask stoppers","stoppers","stoppers for flasks","volumetric flask stopper",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["cleaner","washer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["Polypropylene","PP",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["easy load","easy-load",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["ID","Inner Diameter",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["OD","Outer Diameter",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["0.75","3/4",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["0.5","1/2",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["0.25","1/4",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["whirl pack","whirl-pack","whirl pak","whirl-pak","wirl pack","wirl-pack",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["digisense","digi-sense",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["precalibrated","pre-calibrated",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["water filtration","water purification",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["extreme temperature gloves","furnace gloves","high temperature gloves","oven gloves",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["labeler","label maker","label printer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["h202","h2o2","hydrogen peroxide",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["ultrasonic","ultrasound",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["datalogger","data logger",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["desicator","desiccator","dessicator",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["conical flask","erlenmeyer flask",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["fittings","tube fittings","tubing connectors",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["flowmeter","flow meter","flowmeters","flow meters",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["drier","dryer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["ethanol","ethyl alcohol",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["exam gloves","gloves","laboratory gloves",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["shippers","shipping",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["luerloc","luer loc","luer-loc","luer lock","luer-lock","luerlok","luer lok","luer-lok",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["&quot;","in.","inch","inches",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["&apos;","feet","foot","ft","Ft.",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["electrical","electric equipment","electronic","electronic equipment",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["sulfur","sulphur",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["dust mask","respirator",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["mixer","overhead stirrer",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["automation control","process control",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["polysat","polystat",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["resistance","resistant",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"forms": ["virtual catalog","virtually catalog",],~	"type": "multi-way"~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "silicon",~	"type": "one-way",~	"forms": ["silicone",],~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "wash bottle",~	"type": "one-way",~	"forms": ["water bottle",],~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "tube",~	"type": "one-way",~	"forms": ["tubing",],~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "water quality tester",~	"type": "one-way",~	"forms": ["conductivity meter","ion meter","isfet meter","ph meter",],~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "measuring cylinder",~	"type": "one-way",~	"forms": ["graduated cylinder",],~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "incubator oven",~	"type": "one-way",~	"forms": ["incubator",],~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "R-3603",~	"type": "one-way",~	"forms": ["e3603","e-3603","r3603",],~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "bell jar",~	"type": "one-way",~	"forms": ["desicator","desiccator","dessicator",],~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "dosing pump",~	"type": "one-way",~	"forms": ["Dispensing Pump",],~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "hose tail",~	"type": "one-way",~	"forms": ["hose fitting",],~}
+{~	"sling:resourceType" : "endeca/thesaurus",~	"jcr:primaryType": "endeca:unstructured",~	"trigger": "alcohol hydrometer",~	"type": "one-way",~	"forms": ["brewing hydrometer","proof hydrometer","proofing hydrometer",],~		}

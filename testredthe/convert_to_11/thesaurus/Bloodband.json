@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["Bloodband","Blood band","id band","identification band"],
+	"type": "multi-way"
+}

@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["10.0mL","10.0 mL","10mL","10 mL"],
+	"type": "multi-way"
+}

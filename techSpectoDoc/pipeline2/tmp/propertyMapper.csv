@@ -1,0 +1,291 @@
+Source,Target,Target Type,Match Mode
+cas,p_cas,Property,N/A
+cat,p_cat,Property,N/A
+cathi,p_cathi,Property,N/A
+cathn,p_cathn,Property,N/A
+dt,p_dt,Property,N/A
+fr,p_fr,Property,N/A
+fsthn,p_fsthn,Property,N/A
+id,p_id,Property,N/A
+rca,p_rca,Property,N/A
+si,p_si,Property,N/A
+sn,p_sn,Property,N/A
+teaser,p_teaser,Property,N/A
+tppg,p_tppg,Property,N/A
+trvg,p_trvg,Property,N/A
+upn,p_upn,Property,N/A
+upshifted,p_upshifted,Property,N/A
+apn,p_apn,Property,N/A
+shpn,p_shpn,Property,N/A
+apphn,p_apphn,Property,N/A
+apphi,p_apphi,Property,N/A
+sn,Supplier,Dimension,AUTO_GEN
+mofo,p_mofo,Property,N/A
+akey,p_akey,Property,N/A
+app,p_app,Property,N/A
+cathi_d,p_cathi_d,Property,N/A
+apphi_d,p_apphi_d,Property,N/A
+trvg_d,p_trvg_d,Property,N/A
+tppg_d,p_tppg_d,Property,N/A
+cathi_np,p_cathi_np,Property,N/A
+apphi_np,p_apphi_np,Property,N/A
+ci_d,eStore,Dimension,MUST_MATCH
+usn,p_usn,Property,N/A
+fsthn_d,p_fsthn_d,Property,N/A
+item_product_id,p_item_product_id,Property,N/A
+itemId,p_item_id,Property,N/A
+Endeca,Endeca,Dimension,AUTO_GEN
+glyph_d,Special Interests,Dimension,AUTO_GEN
+glyph_d,p_glyph_d,Property,N/A
+alphabetSn,p_alphabetsn,Property,N/A
+alphabetSn,AlphabetSn,Dimension,AUTO_GEN
+chn,p_chn,Property,N/A
+apnSearch,p_apn_search,Property,N/A
+fsthnsearch,p_fsthn_search,Property,N/A
+snsearch,p_sn_search,Property,N/A
+itemdiffsearch,p_itemdiff_search,Property,N/A
+upnsearch,p_upn_search,Property,N/A
+ucpartNumber,p_item_ucpno,Property,N/A
+cpartNumber,p_item_cpno,Property,N/A
+ucvendorPartNumber,p_item_ucvendorno,Property,N/A
+cvendorPartNumber,p_item_cvendorno,Property,N/A
+toItemCrossRef,p_to_item_crossref,Property,N/A
+A_2330,Capacity,Dimension,AUTO_GEN
+A_6965,Material,Dimension,AUTO_GEN
+A_4803,Material,Dimension,AUTO_GEN
+A_5226,CLIA Complexity,Dimension,AUTO_GEN
+A_7001,Color,Dimension,AUTO_GEN
+A_4555,Cassette Type,Dimension,AUTO_GEN
+A_3629,Volume,Dimension,AUTO_GEN
+A_5431,Antigen,Dimension,AUTO_GEN
+A_5312,Antibody Type,Dimension,AUTO_GEN
+A_6986,Size,Dimension,AUTO_GEN
+A_641,Purity Grade,Dimension,AUTO_GEN
+fisherBrand,p_fisherBrand,Property,N/A
+ci_d,p_ci_d,Property,N/A
+tppg_d,PrefProd,Dimension,AUTO_GEN
+AccessoryFlag,p_AccessoryFlag,Property,N/A
+ci_si_d,p_ci_si_d,Property,N/A
+isChemical,p_isChemical,Property,N/A
+A_509,Packaging Type,Dimension,AUTO_GEN
+A_552,Package Size,Dimension,AUTO_GEN
+isSciEd,p_isSciEd,Property,N/A
+cathi_r,p_cathi_r,Property,N/A
+ci,p_ci,Property,N/A
+ci_si,p_ci_si,Property,N/A
+prio,p_prio,Property,N/A
+tslu,p_tslu,Property,N/A
+tlid,p_tlid,Property,N/A
+type,p_type,Property,N/A
+vendorNumber,p_vendorNumber,Property,N/A
+chnShifted,p_chnShifted,Property,N/A
+ucpartNumberShifted,p_ucpartNumberShifted,Property,N/A
+storeId,p_storeId,Property,N/A
+recType,p_recType,Property,N/A
+countryId,p_countryId,Property,N/A
+agilityId,p_agilityId,Property,N/A
+languageId,p_languageId,Property,N/A
+groupType,p_groupType,Property,N/A
+teaserSearch,p_teaserSearch,Property,N/A
+productLineId,p_productLineId,Property,N/A
+trueHomeId,p_trueHomeId,Property,N/A
+scied_exclusion,p_scied_exclusion,Property,N/A
+msdsAttr,p_has_item_msds,Property,N/A
+A_6224,Research Discipline,Dimension,AUTO_GEN
+A_4955,Classification,Dimension,AUTO_GEN
+A_3678,Label,Dimension,AUTO_GEN
+A_2728,Format,Dimension,AUTO_GEN
+A_3500,Clone,Dimension,AUTO_GEN
+A_2072,Isotype,Dimension,AUTO_GEN
+A_6183,p_genesymbols,Property,N/A
+A_6182,p_geneaccessionno,Property,N/A
+A_ANTIBODY_APPLICATIONS,Antibody Applications,Dimension,AUTO_GEN
+A_1026,p_antigen_applications,Property,N/A
+A_2001,Regulatory Status,Dimension,AUTO_GEN
+discontinueditem,p_discontinueditem,Property,N/A
+A_5325,Reactivity,Dimension,AUTO_GEN
+A_2219,Host,Dimension,AUTO_GEN
+A_2219,p_host,Property,N/A
+A_5555,p_crossreactivity,Property,N/A
+A_3500,p_clone,Property,N/A
+A_3678,p_conjugate,Property,N/A
+A_5556,p_immunogen,Property,N/A
+A_5431_cleaned,p_antigen,Property,N/A
+A_4955,p_classification,Property,N/A
+A_2257,p_size,Property,N/A
+trvg_d,d_trvg_d,Dimension,AUTO_GEN
+fromItemCrossRef,p_from_item_crossref,Property,N/A
+PROMOTION,p_promotion,Property,N/A
+ID,p_catentryId,Property,N/A
+A_6988,Absorbency,Dimension,AUTO_GEN
+A_7160,Accuracy,Dimension,AUTO_GEN
+A_7879,Aspirator Plug,Dimension,AUTO_GEN
+A_6996,Autoclavable,Dimension,AUTO_GEN
+A_7000,Culture Collection Code,Dimension,AUTO_GEN
+A_7161,Bulb Volume,Dimension,AUTO_GEN
+A_7162,Calibrated,Dimension,AUTO_GEN
+A_6999,English Capacity,Dimension,AUTO_GEN
+A_6969,Metric Capacity,Dimension,AUTO_GEN
+A_6970,Cartridge Type,Dimension,AUTO_GEN
+A_6998,Closure,Dimension,AUTO_GEN
+A_7880,Closure Type,Dimension,AUTO_GEN
+A_7159,Color Code,Dimension,AUTO_GEN
+A_1275,Column Packing,Dimension,AUTO_GEN
+A_6971,Connection Type,Dimension,AUTO_GEN
+A_7681,Controller Type,Dimension,AUTO_GEN
+A_7176,Detector Type,Dimension,AUTO_GEN
+A_6993,Exterior English Dimensions,Dimension,AUTO_GEN
+A_6992,Exterior Metric Dimensions,Dimension,AUTO_GEN
+A_7163,Disposable,Dimension,AUTO_GEN
+A_7164,Drops per ml,Dimension,AUTO_GEN
+A_7680,Voltage,Dimension,AUTO_GEN
+A_7174,Flow Rate,Dimension,AUTO_GEN
+A_6973,For Use With,Dimension,AUTO_GEN
+A_7059,GPI Thread,Dimension,AUTO_GEN
+A_6966,Inside Diameter,Dimension,AUTO_GEN
+A_6974,Interior Metric Height,Dimension,AUTO_GEN
+A_6979,Interior Metric Width,Dimension,AUTO_GEN
+A_6994,English Length,Dimension,AUTO_GEN
+A_6967,Metric Length,Dimension,AUTO_GEN
+A_6997,Maximum Force,Dimension,AUTO_GEN
+A_6977,Metric Volume,Dimension,AUTO_GEN
+A_7166,Minimum Flow Time,Dimension,AUTO_GEN
+A_7167,Negitive Graduations,Dimension,AUTO_GEN
+A_6972,Outside Diameter,Dimension,AUTO_GEN
+A_6975,Outside Height,Dimension,AUTO_GEN
+A_6978,Outside Width,Dimension,AUTO_GEN
+A_7168,Packaging Quantity,Dimension,AUTO_GEN
+A_6982,Particle Shape,Dimension,AUTO_GEN
+A_6968,Particle Size,Dimension,AUTO_GEN
+A_6991,Ply,Dimension,AUTO_GEN
+A_6983,Pore Size,Dimension,AUTO_GEN
+A_6995,Powdered,Dimension,AUTO_GEN
+A_6985,Pressure Range,Dimension,AUTO_GEN
+A_6990,Solution Type,Dimension,AUTO_GEN
+A_6987,Sorbent,Dimension,AUTO_GEN
+A_7679,Speed,Dimension,AUTO_GEN
+A_6914,Stationary Phase,Dimension,AUTO_GEN
+A_6989,Sterile,Dimension,AUTO_GEN
+A_7170,Subdivisions,Dimension,AUTO_GEN
+A_6980,Temperature Range,Dimension,AUTO_GEN
+A_6981,Thickness,Dimension,AUTO_GEN
+A_7171,Tip Style,Dimension,AUTO_GEN
+A_7172,Tolerance,Dimension,AUTO_GEN
+A_6984,Porosity,Dimension,AUTO_GEN
+A_7165,Graduated,Dimension,AUTO_GEN
+A_7175,Pressure,Dimension,AUTO_GEN
+ORDERS,p_Popularity,Property,N/A
+A_7678,Septa Color,Dimension,AUTO_GEN
+A_7999,Total Positions,Dimension,AUTO_GEN
+A_8000,Stackable,Dimension,AUTO_GEN
+A_8540,For Use With Application,Dimension,AUTO_GEN
+A_8541,Binding Property,Dimension,AUTO_GEN
+A_8542,Resolution,Dimension,AUTO_GEN
+A_8543,Immersion Length,Dimension,AUTO_GEN
+A_8544,Metric Surface Area,Dimension,AUTO_GEN
+A_8545,Rimmed,Dimension,AUTO_GEN
+A_8546,Well Shape,Dimension,AUTO_GEN
+A_8547,Well Bottom,Dimension,AUTO_GEN
+A_8548,Dial Size,Dimension,AUTO_GEN
+A_8550,Bowl Angle,Dimension,AUTO_GEN
+A_8551,Stopcock Number,Dimension,AUTO_GEN
+A_8552,Stopcock,Dimension,AUTO_GEN
+A_8553,Stopper Number,Dimension,AUTO_GEN
+A_8554,Bowl Diameter,Dimension,AUTO_GEN
+A_8555,Disc Diameter,Dimension,AUTO_GEN
+A_8556,Concentration,Dimension,AUTO_GEN
+A_8558,Host Species,Dimension,AUTO_GEN
+A_8559,Conjugate,Dimension,AUTO_GEN
+A_8561,Chemical Components,Dimension,AUTO_GEN
+A_8563,Includes,Dimension,AUTO_GEN
+A_8564,Cross Reactivity,Dimension,AUTO_GEN
+A_8565,Gel Format,Dimension,AUTO_GEN
+A_8566,Recommended Storage,Dimension,AUTO_GEN
+A_8567,Base Pair Range Marker,Dimension,AUTO_GEN
+A_8568,Mass Ladder Size,Dimension,AUTO_GEN
+A_8569,Stain Type,Dimension,AUTO_GEN
+A_8570,Material Stained,Dimension,AUTO_GEN
+A_8571,Destaining Method,Dimension,AUTO_GEN
+A_8572,Displayed Text,Dimension,AUTO_GEN
+A_8573,English Width,Dimension,AUTO_GEN
+A_8574,Metric Width,Dimension,AUTO_GEN
+A_8575,Dye Type,Dimension,AUTO_GEN
+A_8576,Intensity,Dimension,AUTO_GEN
+A_8577,Detection Range,Dimension,AUTO_GEN
+A_8578,Display Type,Dimension,AUTO_GEN
+A_8581,Primer,Dimension,AUTO_GEN
+A_8582,Vector,Dimension,AUTO_GEN
+A_8583,Species Name,Dimension,AUTO_GEN
+A_8584,Yield,Dimension,AUTO_GEN
+A_8585,Gene,Dimension,AUTO_GEN
+A_8682,Amperage,Dimension,AUTO_GEN
+A_8683,Hertz,Dimension,AUTO_GEN
+A_8557,Specific Antigens,Dimension,AUTO_GEN
+A_8560,Specific Formats,Dimension,AUTO_GEN
+A_8562,Specific Isotypes,Dimension,AUTO_GEN
+supplierRank,p_supplierRank,Property,N/A
+productType,Product Type,Dimension,MUST_MATCH
+productType,p_productType,Property,N/A
+productBrand,p_productBrand,Property,N/A
+mcsCd,p_mcs_cd,Property,N/A
+A_8685,Antimicrobial Agents,Dimension,AUTO_GEN
+A_8686,Additive,Dimension,AUTO_GEN
+A_8687,Media Type,Dimension,AUTO_GEN
+A_8688,Item Type,Dimension,AUTO_GEN
+A_8689,Metric Mass,Dimension,AUTO_GEN
+A_8691,Taper,Dimension,AUTO_GEN
+A_8692,Bottom Diameter,Dimension,AUTO_GEN
+A_8693,Wattage,Dimension,AUTO_GEN
+A_8694,Time Range,Dimension,AUTO_GEN
+A_8695,Gel Dimensions,Dimension,AUTO_GEN
+A_8696,pH Range,Dimension,AUTO_GEN
+A_8697,Potential Interferences,Dimension,AUTO_GEN
+A_8701,Secondary Range,Dimension,AUTO_GEN
+A_8702,Interior Metric Dimensions,Dimension,AUTO_GEN
+A_8703,Interior English Dimensions,Dimension,AUTO_GEN
+A_8704,Metric Sash Height,Dimension,AUTO_GEN
+A_8705,English Sash Height,Dimension,AUTO_GEN
+A_8706,Filter Type,Dimension,AUTO_GEN
+A_8707,Lighting Type,Dimension,AUTO_GEN
+A_8708,English Refrigerator Capacity,Dimension,AUTO_GEN
+A_8709,Metric Refrigerator Capacity,Dimension,AUTO_GEN
+A_8710,Refrigerator Temperature Range,Dimension,AUTO_GEN
+A_8711,English Height,Dimension,AUTO_GEN
+A_8712,Metric Height,Dimension,AUTO_GEN
+A_8713,Purity,Dimension,AUTO_GEN
+A_8714,DNTP Type,Dimension,AUTO_GEN
+A_8717,Standard Taper Joint Number [Center],Dimension,AUTO_GEN
+A_8718,Standard Taper Joint Number [Sides],Dimension,AUTO_GEN
+A_8719,Objective Types,Dimension,AUTO_GEN
+A_8720,Ocular Type,Dimension,AUTO_GEN
+A_8721,Orbit,Dimension,AUTO_GEN
+A_8722,Capacity Range,Dimension,AUTO_GEN
+A_8723,Precision,Dimension,AUTO_GEN
+A_8724,Dispenser Increments,Dimension,AUTO_GEN
+A_8728,Scissor Tip Style,Dimension,AUTO_GEN
+A_8729,Blade Style,Dimension,AUTO_GEN
+A_8730,Shape,Dimension,AUTO_GEN
+A_8731,Sieve Number,Dimension,AUTO_GEN
+A_8732,Sieve Type [U.S. Standard],Dimension,AUTO_GEN
+A_8733,Sieve Type [Tyler Standard],Dimension,AUTO_GEN
+A_8734,English Depth,Dimension,AUTO_GEN
+A_8735,Metric Depth,Dimension,AUTO_GEN
+prodDiscontinued,p_prodDiscontinued,Property,N/A
+A_8737,Cutsite,Dimension,AUTO_GEN
+A_8738,English Volume,Dimension,AUTO_GEN
+A_8739,Molecular Weight,Dimension,AUTO_GEN
+A_8740,Recombinant,Dimension,AUTO_GEN
+A_8741,Quantity,Dimension,AUTO_GEN
+A_8742,Insert Type,Dimension,AUTO_GEN
+A_8743,Sequence,Dimension,AUTO_GEN
+thirdPartyDesc,p_3pDesc,Property,N/A
+cdcCode,p_cdcCode,Property,N/A
+productTypeCode,p_productTypeCode,Property,N/A
+cathi_np_ns,p_cathi_np_ns,Property,N/A
+stdPrice,p_stdPrice,Property,N/A
+altPrice,p_altPrice,Property,N/A
+stdUom,p_stdUom,Property,N/A
+altUom,p_altUom,Property,N/A
+altConvFactor,p_altConvFactor,Property,N/A
+stdConvFactor,p_stdConvFactor,Property,N/A
+promotionsForFSH,p_fshpromotion,Property,N/A

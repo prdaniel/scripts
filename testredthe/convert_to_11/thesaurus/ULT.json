@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["ULT","ultralo temp","ultralo temperature","ultralow temp","ultra low temp","ultralow temperature","ultra low temperature"],
+	"type": "multi-way"
+}

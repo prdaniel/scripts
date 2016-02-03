@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["barrelhead","barrel head","barrel-head"],
+	"type": "multi-way"
+}

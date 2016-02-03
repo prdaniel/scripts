@@ -1,0 +1,259 @@
+Searchable Properties and Dimensions
+
+all,[Search Interface]
+p_apn_search
+p_chn
+p_fsthn_search
+p_mofo
+p_akey
+p_sn_search
+p_itemdiff_search
+p_upn_search
+p_usn
+p_glyph_d
+p_item_cpno
+p_item_ucpno
+p_cas
+p_item_cvendorno
+p_item_ucvendorno
+p_3pDesc
+Antigen
+Column Packing
+Stationary Phase
+Inside Diameter
+Metric Length
+Particle Size
+Metric Capacity
+Cartridge Type
+Connection Type
+Outside Diameter
+For Use With
+Interior Metric Height
+Outside Height
+Metric Volume
+Outside Width
+Interior Metric Width
+Temperature Range
+Thickness
+Particle Shape
+Pore Size
+Porosity
+Pressure Range
+Sorbent
+Absorbency
+Sterile
+Solution Type
+Ply
+Exterior Metric Dimensions
+Exterior English Dimensions
+English Length
+Powdered
+Autoclavable
+Maximum Force
+Closure
+English Capacity
+Culture Collection Code
+GPI Thread
+Color Code
+Accuracy
+Bulb Volume
+Calibrated
+Capacity
+Disposable
+Drops per ml
+Cassette Type
+Graduated
+CLIA Complexity
+Antibody Type
+Minimum Flow Time
+Color
+Negitive Graduations
+Host
+Packaging Quantity
+Clone
+Subdivisions
+Tip Style
+Material
+Package Size
+Tolerance
+Flow Rate
+Packaging Type
+Purity Grade
+Pressure
+Size
+Detector Type
+Speed
+Volume
+Voltage
+Label
+Isotype
+Controller Type
+Aspirator Plug
+Regulatory Status
+Closure Type
+Reactivity
+Septa Color
+Total Positions
+Stackable
+For Use With Application
+Binding Property
+Resolution
+Immersion Length
+Metric Surface Area
+Rimmed
+Well Shape
+Well Bottom
+Dial Size
+Bowl Angle
+Stopcock Number
+Stopcock
+Stopper Number
+Bowl Diameter
+Disc Diameter
+Concentration
+Host Species
+Conjugate
+Includes
+Cross Reactivity
+Gel Format
+Recommended Storage
+Base Pair Range Marker
+Mass Ladder Size
+Stain Type
+Material Stained
+Destaining Method
+Displayed Text
+English Width
+Metric Width
+Dye Type
+Intensity
+Detection Range
+Display Type
+Primer
+Vector
+Species Name
+Yield
+Gene
+Amperage
+Hertz
+Specific Antigens
+Specific Formats
+Specific Isotypes
+Antimicrobial Agents
+Additive
+Media Type
+Item Type
+Metric Mass
+Taper
+Bottom Diameter
+Wattage
+Time Range
+Gel Dimensions
+pH Range
+Potential Interferences
+Secondary Range
+Interior Metric Dimensions
+Interior English Dimensions
+Metric Sash Height
+English Sash Height
+Filter Type
+Lighting Type
+English Refrigerator Capacity
+Metric Refrigerator Capacity
+Refrigerator Temperature Range
+English Height
+Metric Height
+Purity
+DNTP Type
+Standard Taper Joint Number [Center]
+Standard Taper Joint Number [Sides]
+Objective Types
+Ocular Type
+Orbit
+Capacity Range
+Precision
+Dispenser Increments
+Scissor Tip Style
+Blade Style
+Shape
+Sieve Number
+Sieve Type [U.S. Standard]
+Sieve Type [Tyler Standard]
+English Depth
+Metric Depth
+Cutsite
+English Volume
+Molecular Weight
+Recombinant
+Quantity
+Insert Type
+Sequence
+
+wc_all,[Search Interface]
+p_item_cpno
+p_ucpartNumberShifted
+p_chnShifted
+
+condensed,[Search Interface]
+p_item_cpno
+p_item_cvendorno
+p_to_item_crossref
+p_cas
+
+wc_lsas_all,[Search Interface]
+p_item_ucpno
+p_item_cpno
+p_ucpartNumberShifted
+p_item_ucvendorno
+p_item_cvendorno
+Antigen
+p_antigen
+Reactivity
+p_akey
+p_sn_search
+Classification
+Antibody Type
+Host
+Clone
+Size
+Label
+Isotype
+Format
+Regulatory Status
+p_geneaccessionno
+p_genesymbols
+p_fsthn_search
+p_apn_search
+p_mofo
+p_chn
+p_itemdiff_search
+p_upn_search
+p_usn
+p_glyph_d
+p_cas
+Capacity
+Cassette Type
+CLIA Complexity
+Color
+Material
+Package Size
+Packaging Type
+Purity Grade
+Volume
+
+lsas_condensed,[Search Interface]
+p_item_cpno
+p_item_cvendorno
+
+ta_wc_search,[Search Interface]
+p_item_cpno
+p_ucpartNumberShifted
+p_chnShifted
+p_mofo
+p_item_cvendorno
+p_cas
+
+ta_wc_condensed,[Search Interface]
+p_item_cpno
+p_item_cvendorno
+p_cas

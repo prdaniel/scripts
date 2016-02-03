@@ -1,0 +1,3 @@
+Manipulator Name,Record Source,Manipulations
+AddPrimaryDimManipulator,JoinAttributesToMain,No Comment Provided - Add Manually
+FlattenMainAttributes,LoadMainAttributes,No Comment Provided - Add Manually

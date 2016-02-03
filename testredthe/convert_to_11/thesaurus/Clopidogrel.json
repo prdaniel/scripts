@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["Clopidogrel","P2Y12 Test","Plavix"],
+	"type": "multi-way"
+}

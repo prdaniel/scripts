@@ -1,0 +1,8 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"trigger": "wash bottle",
+	"type": "one-way",
+	"forms": ["water bottle",
+]
+}

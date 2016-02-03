@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["thermalcycler","thermal cycler","thermalcyclers","thermal cyclers","thermocycler","thermocyclers"],
+	"type": "multi-way"
+}

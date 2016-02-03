@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "refurbished",
+	"matchmode": "MATCHPHRASE",
+	"inherit": "TRUE",
+	"url": "/Category/Steals_Deals/65348"
+}

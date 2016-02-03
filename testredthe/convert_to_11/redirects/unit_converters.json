@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "unit converters",
+	"matchmode": "MATCHPHRASE",
+	"inherit": "TRUE",
+	"url": "/Converters"
+}

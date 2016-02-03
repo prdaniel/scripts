@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["hotwire","hot wire","hot-wire"],
+	"type": "multi-way"
+}

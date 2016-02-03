@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "conductivity meter",
+	"matchmode": "MATCHPHRASE",
+	"inherit": "TRUE",
+	"url": "/Category/Conductivity_Resistivity_TDS_Meters_and_Testers/555"
+}

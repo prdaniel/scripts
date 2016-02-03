@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["capillary column","gas chromatography column","gc column"],
+	"type": "multi-way"
+}

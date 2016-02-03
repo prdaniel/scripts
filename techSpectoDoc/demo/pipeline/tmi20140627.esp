@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE STUDIO_PROJECT SYSTEM "studio_project.dtd">
+<STUDIO_PROJECT APP_VERSION="6.1" NAME="tmi20140627" VERSION="600">
+
+  <PROJECT_MANAGER_CONFIG APPLICATION="" FORGE_OP_CONFIG="--pruneAutoGen" PORT="8006" URL="localhost"/>
+
+  <PROJECT_PIPELINE URL="pipeline.epx"/>
+
+  <PROJECT_PIPELINE TYPE="PARTIAL" URL="partial_pipeline.epx"/>
+
+  <PROJECT_FILE TYPE="ANALYTICS_CONFIG" URL="tmi20140627.analytics_config.xml"/>
+
+  <PROJECT_FILE TYPE="DERIVED_PROPS" URL="tmi20140627.derived_props.xml"/>
+
+  <PROJECT_FILE TYPE="DIMENSION_GROUPS" URL="tmi20140627.dimension_groups.xml"/>
+
+  <PROJECT_FILE TYPE="DIMENSION_REFS" URL="tmi20140627.dimension_refs.xml"/>
+
+  <PROJECT_FILE TYPE="DIMSEARCH_CONFIG" URL="tmi20140627.dimsearch_config.xml"/>
+
+  <PROJECT_FILE TYPE="DIMSEARCH_INDEX" URL="tmi20140627.dimsearch_index.xml"/>
+
+  <PROJECT_FILE TYPE="DVAL_RANKS" URL="tmi20140627.dval_ranks.xml"/>
+
+  <PROJECT_FILE TYPE="DVAL_REFS" URL="tmi20140627.dval_refs.xml"/>
+
+  <PROJECT_FILE HIGHEST_ID="2" TYPE="MERCH_RULES" URL="tmi20140627.merch_rules.xml"/>
+
+  <PROJECT_FILE TYPE="MERCHSTYLES" URL="tmi20140627.merchstyles.xml"/>
+
+  <PROJECT_FILE TYPE="MERCHZONES" URL="tmi20140627.merchzones.xml"/>
+
+  <PROJECT_FILE TYPE="PRECEDENCE_RULES" URL="tmi20140627.precedence_rules.xml"/>
+
+  <PROJECT_FILE TYPE="PROP_REFS" URL="tmi20140627.prop_refs.xml"/>
+
+  <PROJECT_FILE TYPE="RECORD_FILTER" URL="tmi20140627.record_filter.xml"/>
+
+  <PROJECT_FILE TYPE="RECORD_SORT_CONFIG" URL="tmi20140627.record_sort_config.xml"/>
+
+  <PROJECT_FILE TYPE="RECORD_SPEC" URL="tmi20140627.record_spec.xml"/>
+
+  <PROJECT_FILE TYPE="RECSEARCH_CONFIG" URL="tmi20140627.recsearch_config.xml"/>
+
+  <PROJECT_FILE TYPE="RECSEARCH_INDEXES" URL="tmi20140627.recsearch_indexes.xml"/>
+
+  <PROJECT_FILE TYPE="REFINEMENTS_CONFIG" URL="tmi20140627.refinement_config.xml"/>
+
+  <PROJECT_FILE TYPE="RELRANK_STRATEGIES" URL="tmi20140627.relrank_strategies.xml"/>
+
+  <PROJECT_FILE TYPE="RENDER_CONFIG" URL="tmi20140627.render_config.xml"/>
+
+  <PROJECT_FILE TYPE="ROLLUPS" URL="tmi20140627.rollups.xml"/>
+
+  <PROJECT_FILE TYPE="SEARCH_CHARS" URL="tmi20140627.search_chars.xml"/>
+
+  <PROJECT_FILE TYPE="STOP_WORDS" URL="tmi20140627.stop_words.xml"/>
+
+  <PROJECT_FILE TYPE="PHRASES" URL="tmi20140627.phrases.xml"/>
+
+  <PROJECT_FILE TYPE="THESAURUS" URL="tmi20140627.thesaurus.xml"/>
+
+  <PROJECT_FILE TYPE="STEMMING" URL="tmi20140627.stemming.xml"/>
+
+  <PROJECT_FILE TYPE="PROFILES" URL="tmi20140627.profiles.xml"/>
+
+  <PROJECT_FILE TYPE="KEY_PROPS" URL="tmi20140627.key_props.xml"/>
+
+  <PROJECT_FILE TYPE="LANGUAGES" URL="tmi20140627.languages.xml"/>
+
+  <PROJECT_FILE TYPE="CRAWLER_GLOBAL_CONFIG" URL="tmi20140627.crawler_global_config.xml"/>
+
+  <PROJECT_FILE TYPE="CRAWLER_DEFAULTS" URL="tmi20140627.crawler_defaults.properties"/>
+
+  <PROJECT_FILE TYPE="CRAWL_PROFILES" URL="tmi20140627.crawl_profiles.xml"/>
+
+</STUDIO_PROJECT>

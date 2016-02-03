@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["ccba","closed circuit breathing apparatus","closed-circuit breathing apparatus"],
+	"type": "multi-way"
+}

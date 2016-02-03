@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["photoionization","photoionization detector","photo ionization detector","pid"],
+	"type": "multi-way"
+}

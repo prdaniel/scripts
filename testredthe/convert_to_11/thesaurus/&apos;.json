@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["&apos;","feet","foot","ft","Ft."],
+	"type": "multi-way"
+}

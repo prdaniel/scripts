@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE DVAL_RANKS SYSTEM "dval_ranks.dtd">
+<DVAL_RANKS>
+
+  <DVAL_RANK ID="158" RANK="2"/>
+
+  <DVAL_RANK ID="159" RANK="1"/>
+
+  <DVAL_RANK ID="11" RANK="92"/>
+
+  <DVAL_RANK ID="12" RANK="91"/>
+
+  <DVAL_RANK ID="10" RANK="32"/>
+
+  <DVAL_RANK ID="4" RANK="31"/>
+
+  <DVAL_RANK ID="17" RANK="34"/>
+
+  <DVAL_RANK ID="21" RANK="30"/>
+
+  <DVAL_RANK ID="22" RANK="29"/>
+
+  <DVAL_RANK ID="23" RANK="28"/>
+
+  <DVAL_RANK ID="24" RANK="27"/>
+
+  <DVAL_RANK ID="25" RANK="26"/>
+
+  <DVAL_RANK ID="26" RANK="25"/>
+
+  <DVAL_RANK ID="27" RANK="24"/>
+
+  <DVAL_RANK ID="29" RANK="19"/>
+
+  <DVAL_RANK ID="30" RANK="23"/>
+
+  <DVAL_RANK ID="33" RANK="22"/>
+
+  <DVAL_RANK ID="31" RANK="21"/>
+
+  <DVAL_RANK ID="34" RANK="35"/>
+
+  <DVAL_RANK ID="35" RANK="20"/>
+
+  <DVAL_RANK ID="43" RANK="18"/>
+
+  <DVAL_RANK ID="47" RANK="17"/>
+
+  <DVAL_RANK ID="49" RANK="16"/>
+
+  <DVAL_RANK ID="50" RANK="15"/>
+
+  <DVAL_RANK ID="44" RANK="14"/>
+
+  <DVAL_RANK ID="38" RANK="13"/>
+
+  <DVAL_RANK ID="45" RANK="12"/>
+
+  <DVAL_RANK ID="46" RANK="11"/>
+
+  <DVAL_RANK ID="48" RANK="10"/>
+
+  <DVAL_RANK ID="40" RANK="9"/>
+
+  <DVAL_RANK ID="18" RANK="4"/>
+
+  <DVAL_RANK ID="16" RANK="1"/>
+
+  <DVAL_RANK ID="19" RANK="3"/>
+
+  <DVAL_RANK ID="20" RANK="2"/>
+
+  <DVAL_RANK ID="4294967294" RANK="8"/>
+
+  <DVAL_RANK ID="4294967227" RANK="6"/>
+
+  <DVAL_RANK ID="4294967160" RANK="5"/>
+
+  <DVAL_RANK ID="4294966936" RANK="33"/>
+
+  <DVAL_RANK ID="4294966969" RANK="7"/>
+
+  <DVAL_RANK ID="28" RANK="43"/>
+
+</DVAL_RANKS>

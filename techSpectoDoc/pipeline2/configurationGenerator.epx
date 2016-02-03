@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE PIPELINE SYSTEM "pipeline.dtd">
+<PIPELINE NAME="Configuration Generator">
+  
+  <RECORD_ADAPTER COL_DELIMITER="" DIRECTION="INPUT" FILTER_EMPTY_PROPS="FALSE" FORMAT="JAVA_ADAPTER" FRC_PVAL_IDX="FALSE" 
+		JAVA_CLASSNAME="com.endeca.cs.adapter.SpringJDBCAdapter" JAVA_CLASSPATH="./config/lib/java/scjdbc.jar:./config/lib/java/spring.jar:./config/lib/java/ojdbc6.jar:./config/lib/java/AdvJDBCColumnHandler.jar" 
+		MULTI="FALSE" NAME="Load_Item_data" PREFIX="" REC_DELIMITER="" REQUIRE_DATA="FALSE" ROW_DELIMITER="" STATE="FALSE" URL="">
+    <COMMENT></COMMENT>
+    <PASS_THROUGH NAME="CONFIG_FILE">./config/pipeline/jdbc.xml</PASS_THROUGH>
+    <PASS_THROUGH NAME="QUERY_NAME">LsasItemsQuery</PASS_THROUGH>
+  </RECORD_ADAPTER>
+  
+  <RECORD_ADAPTER COL_DELIMITER="" DIRECTION="INPUT" FILTER_EMPTY_PROPS="FALSE" FORMAT="JAVA_ADAPTER" FRC_PVAL_IDX="FALSE" 
+		JAVA_CLASSNAME="com.endeca.cs.adapter.SpringJDBCAdapter" JAVA_CLASSPATH="./config/lib/java/scjdbc.jar:./config/lib/java/spring.jar:./config/lib/java/ojdbc6.jar:./config/lib/java/AdvJDBCColumnHandler.jar" 
+		MULTI="FALSE" NAME="BrowseByCategoryTaxonomyGenerator" PREFIX="" REC_DELIMITER="" REQUIRE_DATA="FALSE" ROW_DELIMITER="" STATE="FALSE" URL="">
+    <COMMENT></COMMENT>
+    <PASS_THROUGH NAME="CONFIG_FILE">./config/pipeline/jdbc.xml</PASS_THROUGH>
+    <PASS_THROUGH NAME="QUERY_NAME">BrowseByCategoryQuery</PASS_THROUGH>
+  </RECORD_ADAPTER>
+  
+  <RECORD_ADAPTER COL_DELIMITER="" DIRECTION="INPUT" FILTER_EMPTY_PROPS="FALSE" FORMAT="JAVA_ADAPTER" FRC_PVAL_IDX="FALSE" 
+		JAVA_CLASSNAME="com.endeca.cs.adapter.SpringJDBCAdapter" JAVA_CLASSPATH="./config/lib/java/scjdbc.jar:./config/lib/java/spring.jar:./config/lib/java/ojdbc6.jar:./config/lib/java/AdvJDBCColumnHandler.jar" 
+		MULTI="FALSE" NAME="GSTCategoryTaxonomyGenerator" PREFIX="" REC_DELIMITER="" REQUIRE_DATA="FALSE" ROW_DELIMITER="" STATE="FALSE" URL="">
+    <COMMENT></COMMENT>
+    <PASS_THROUGH NAME="CONFIG_FILE">./config/pipeline/jdbc.xml</PASS_THROUGH>
+    <PASS_THROUGH NAME="QUERY_NAME">GSTAllCategoriesQuery</PASS_THROUGH>
+  </RECORD_ADAPTER>
+  
+  <RECORD_ADAPTER COL_DELIMITER="" DIRECTION="INPUT" FILTER_EMPTY_PROPS="FALSE" FORMAT="JAVA_ADAPTER" FRC_PVAL_IDX="FALSE" 
+		JAVA_CLASSNAME="com.endeca.cs.adapter.SpringJDBCAdapter" JAVA_CLASSPATH="./config/lib/java/scjdbc.jar:./config/lib/java/spring.jar:./config/lib/java/ojdbc6.jar:./config/lib/java/AdvJDBCColumnHandler.jar" 
+		MULTI="FALSE" NAME="GSTAllCategoriesTaxonomyGenerator" PREFIX="" REC_DELIMITER="" REQUIRE_DATA="FALSE" ROW_DELIMITER="" STATE="FALSE" URL="">
+    <COMMENT></COMMENT>
+    <PASS_THROUGH NAME="CONFIG_FILE">./config/pipeline/jdbc.xml</PASS_THROUGH>
+    <PASS_THROUGH NAME="QUERY_NAME">GSTAllCategoriesQuery</PASS_THROUGH>
+  </RECORD_ADAPTER>
+  
+  <RECORD_ADAPTER COL_DELIMITER="" DIRECTION="INPUT" FILTER_EMPTY_PROPS="FALSE" 
+      FORMAT="JAVA_ADAPTER" FRC_PVAL_IDX="FALSE" JAVA_CLASSNAME="com.endeca.cs.adapter.SpringJDBCAdapter" 
+	  JAVA_CLASSPATH="./config/lib/java/scjdbc.jar:./config/lib/java/spring.jar:./config/lib/java/ojdbc6.jar:./config/lib/java/AdvJDBCColumnHandler.jar" 
+	  MULTI="FALSE" NAME="Load_Agility_Value_data" PREFIX="" REC_DELIMITER="" REQUIRE_DATA="FALSE" ROW_DELIMITER="" STATE="FALSE" URL="">
+    <COMMENT></COMMENT>
+    <PASS_THROUGH NAME="CONFIG_FILE">./config/pipeline/jdbc.xml</PASS_THROUGH>
+    <PASS_THROUGH NAME="QUERY_NAME">AGILITY_ATTRIBUTE_QUERY</PASS_THROUGH>
+  </RECORD_ADAPTER>
+  
+  <RECORD_ADAPTER COL_DELIMITER="" DIRECTION="INPUT" FILTER_EMPTY_PROPS="FALSE" 
+      FORMAT="JAVA_ADAPTER" FRC_PVAL_IDX="FALSE" JAVA_CLASSNAME="com.endeca.cs.adapter.SpringJDBCAdapter" 
+	  JAVA_CLASSPATH="./config/lib/java/scjdbc.jar:./config/lib/java/spring.jar:./config/lib/java/ojdbc6.jar:./config/lib/java/AdvJDBCColumnHandler.jar" 
+	  MULTI="FALSE" NAME="Load_Attribute_data" PREFIX="" REC_DELIMITER="" REQUIRE_DATA="FALSE" ROW_DELIMITER="" STATE="FALSE" URL="">
+    <COMMENT></COMMENT>
+    <PASS_THROUGH NAME="CONFIG_FILE">./config/pipeline/jdbc.xml</PASS_THROUGH>
+    <PASS_THROUGH NAME="QUERY_NAME">ATTRIBUTE_REFINEMENT_QUERY</PASS_THROUGH>
+  </RECORD_ADAPTER>
+
+  
+  <JAVA_MANIPULATOR CLASS_NAME="com.endeca.esource.springadapter.SpringDelegateAdapter" NAME="ConfigurationAdapter" >
+  		<RECORD_SOURCE>Load_Item_data</RECORD_SOURCE>
+  		<RECORD_SOURCE>BrowseByCategoryTaxonomyGenerator</RECORD_SOURCE>
+		<RECORD_SOURCE>GSTCategoryTaxonomyGenerator</RECORD_SOURCE>
+		<RECORD_SOURCE>GSTAllCategoriesTaxonomyGenerator</RECORD_SOURCE>
+		<RECORD_SOURCE>Load_Agility_Value_data</RECORD_SOURCE>
+		<RECORD_SOURCE>Load_Attribute_data</RECORD_SOURCE>
+    <PASS_THROUGH NAME="SPRING_CONTEXT">./config/script/fcm.context.xml</PASS_THROUGH>
+    <PASS_THROUGH NAME="ADAPTER_BEAN">configurationAdapter</PASS_THROUGH>
+  </JAVA_MANIPULATOR>
+</PIPELINE>

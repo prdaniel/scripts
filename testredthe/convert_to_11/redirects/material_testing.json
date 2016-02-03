@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "material testing",
+	"matchmode": "MATCHPHRASE",
+	"inherit": "TRUE",
+	"url": "/Test_and_Measurement_Equipment/61816"
+}

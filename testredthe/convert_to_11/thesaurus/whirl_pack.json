@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["whirl pack","whirl-pack","whirl pak","whirl-pak","wirl pack","wirl-pack"],
+	"type": "multi-way"
+}

@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+  <w:body>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="819" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="210" />
+        </w:rPr>
+        <w:t xml:space="preserve">city</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="210" />
+          <w:u w:val="double" w:color="000000" />
+        </w:rPr>
+        <w:t xml:space="preserve">@</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="center" w:pos="3652" />
+          <w:tab w:val="center" w:pos="7938" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="52" />
+        </w:rPr>
+        <w:t xml:space="preserve">	</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="52" />
+        </w:rPr>
+        <w:t xml:space="preserve">CHICAGO srATE ST	</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="52" />
+        </w:rPr>
+        <w:t xml:space="preserve">312-279-2133</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="heading1" />
+        <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="1203" w:hanging="478" />
+      </w:pPr>
+      <w:r>
+        <w:rPr />
+        <w:t xml:space="preserve">S STATE ST</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="29" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="413" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="48" />
+        </w:rPr>
+        <w:t xml:space="preserve">CHICAGO </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="48" />
+        </w:rPr>
+        <w:t xml:space="preserve">"L 60603</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="1109" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="56" />
+        </w:rPr>
+        <w:t xml:space="preserve">cr 08/2015 07:42 'PM EXPIRES 06/06/15</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="459" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="3087" />
+      </w:pPr>
+      <w:r>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="3257826" cy="690218" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:docPr id="1822" name="Picture 1822" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1822" name="Picture 1822" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId1" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="3257826" cy="690218" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="60" w:hanging="10" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="50" />
+        </w:rPr>
+        <w:t xml:space="preserve">CLEANING SUPPL LES</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="center" w:pos="5457" />
+          <w:tab w:val="center" w:pos="9587" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="10" w:line="252" w:lineRule="auto" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="52" />
+        </w:rPr>
+        <w:t xml:space="preserve">003030165	DISHWAND BR	$2.99</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="216" w:lineRule="auto" />
+        <w:ind w:left="72" w:firstLine="768" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="48" />
+        </w:rPr>
+        <w:t xml:space="preserve">DISHWAND BFIJ SCOTCHBRITE DISH BRUSH </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="48" />
+        </w:rPr>
+        <w:t xml:space="preserve">0030-10112 ARM N HAMME $1.64</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="826" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="42" />
+        </w:rPr>
+        <w:t xml:space="preserve">ARM N HAMMER ICB FROG/FRZ BKNG TOP</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="222" w:line="259" w:lineRule="auto" />
+        <w:ind w:right="101" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:drawing>
+          <wp:anchor allowOverlap="0" relativeHeight="0" locked="0" simplePos="0" layoutInCell="1" behindDoc="0">
+            <wp:simplePos y="0" x="0" />
+            <wp:positionH relativeFrom="page">
+              <wp:posOffset>0</wp:posOffset>
+            </wp:positionH>
+            <wp:positionV relativeFrom="page">
+              <wp:posOffset>0</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="1495471" cy="3386667" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:wrapSquare wrapText="bothSides" />
+            <wp:docPr id="1825" name="Picture 1825" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1825" name="Picture 1825" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId2" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="1495471" cy="3386667" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:rPr />
+        <mc:AlternateContent>
+          <mc:Choice Requires="wpg">
+            <w:drawing>
+              <wp:anchor simplePos="0" relativeHeight="0" locked="0" layoutInCell="1" allowOverlap="1" behindDoc="0">
+                <wp:simplePos x="0" y="0" />
+                <wp:positionH relativeFrom="page">
+                  <wp:posOffset>3313044</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="page">
+                  <wp:posOffset>13288986</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="3405073" cy="18405" />
+                <wp:wrapTopAndBottom />
+                <wp:docPr id="2736" name="Group 2736" />
+                <wp:cNvGraphicFramePr />
+                <a:graphic>
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup">
+                    <wpg:wgp>
+                      <wpg:cNvGrpSpPr />
+                      <wpg:grpSpPr>
+                        <a:xfrm>
+                          <a:off x="0" y="0" />
+                          <a:ext cx="3405073" cy="18405" />
+                          <a:chOff x="0" y="0" />
+                          <a:chExt cx="3405073" cy="18405" />
+                        </a:xfrm>
+                      </wpg:grpSpPr>
+                      <wps:wsp>
+                        <wps:cNvPr id="2735" name="Shape 2735" />
+                        <wps:cNvSpPr />
+                        <wps:spPr>
+                          <a:xfrm>
+                            <a:off x="0" y="0" />
+                            <a:ext cx="3405073" cy="18405" />
+                          </a:xfrm>
+                          <a:custGeom>
+                            <a:pathLst>
+                              <a:path w="3405073" h="18405">
+                                <a:moveTo>
+                                  <a:pt x="0" y="9203" />
+                                </a:moveTo>
+                                <a:lnTo>
+                                  <a:pt x="3405073" y="9203" />
+                                </a:lnTo>
+                              </a:path>
+                            </a:pathLst>
+                          </a:custGeom>
+                          <a:ln w="18405" cap="flat">
+                            <a:miter lim="100000" />
+                          </a:ln>
+                        </wps:spPr>
+                        <wps:style>
+                          <a:lnRef idx="1">
+                            <a:srgbClr val="000000" />
+                          </a:lnRef>
+                          <a:fillRef idx="0">
+                            <a:srgbClr val="000000" />
+                          </a:fillRef>
+                          <a:effectRef idx="0" />
+                          <a:fontRef idx="none" />
+                        </wps:style>
+                        <wps:bodyPr />
+                      </wps:wsp>
+                    </wpg:wgp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:group id="Group 2736" style="width:268.116pt;height:1.44922pt;position:absolute;mso-position-horizontal-relative:page;mso-position-horizontal:absolute;margin-left:260.87pt;mso-position-vertical-relative:page;margin-top:1046.38pt;" coordsize="34050,184">
+                <v:shape id="Shape 2735" style="position:absolute;width:34050;height:184;left:0;top:0;" coordsize="3405073,18405" path="m0,9203l3405073,9203">
+                  <v:stroke weight="1.44922pt" endcap="flat" joinstyle="miter" miterlimit="1" on="true" color="#000000" />
+                  <v:fill on="false" color="#000000" />
+                </v:shape>
+                <w10:wrap type="topAndBottom" />
+              </v:group>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+      <w:r>
+        <w:drawing>
+          <wp:anchor allowOverlap="0" relativeHeight="0" locked="0" simplePos="0" layoutInCell="1" behindDoc="0">
+            <wp:simplePos y="0" x="0" />
+            <wp:positionH relativeFrom="page">
+              <wp:posOffset>377319</wp:posOffset>
+            </wp:positionH>
+            <wp:positionV relativeFrom="page">
+              <wp:posOffset>13311992</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="1486268" cy="59820" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:wrapTopAndBottom />
+            <wp:docPr id="1824" name="Picture 1824" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1824" name="Picture 1824" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId3" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="1486268" cy="59820" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:drawing>
+          <wp:anchor allowOverlap="0" relativeHeight="0" locked="0" simplePos="0" layoutInCell="1" behindDoc="0">
+            <wp:simplePos y="0" x="0" />
+            <wp:positionH relativeFrom="page">
+              <wp:posOffset>7454348</wp:posOffset>
+            </wp:positionH>
+            <wp:positionV relativeFrom="page">
+              <wp:posOffset>12032790</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="4601" cy="4602" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:wrapSquare wrapText="bothSides" />
+            <wp:docPr id="1664" name="Picture 1664" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1664" name="Picture 1664" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId4" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="4601" cy="4602" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:drawing>
+          <wp:anchor allowOverlap="0" relativeHeight="0" locked="0" simplePos="0" layoutInCell="1" behindDoc="0">
+            <wp:simplePos y="0" x="0" />
+            <wp:positionH relativeFrom="page">
+              <wp:posOffset>7454348</wp:posOffset>
+            </wp:positionH>
+            <wp:positionV relativeFrom="page">
+              <wp:posOffset>12101812</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="4601" cy="4600" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:wrapSquare wrapText="bothSides" />
+            <wp:docPr id="1665" name="Picture 1665" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1665" name="Picture 1665" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId5" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="4601" cy="4600" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:drawing>
+          <wp:anchor allowOverlap="0" relativeHeight="0" locked="0" simplePos="0" layoutInCell="1" behindDoc="0">
+            <wp:simplePos y="0" x="0" />
+            <wp:positionH relativeFrom="page">
+              <wp:posOffset>7454348</wp:posOffset>
+            </wp:positionH>
+            <wp:positionV relativeFrom="page">
+              <wp:posOffset>12166232</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="4601" cy="41413" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:wrapSquare wrapText="bothSides" />
+            <wp:docPr id="1666" name="Picture 1666" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1666" name="Picture 1666" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId6" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="4601" cy="41413" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:drawing>
+          <wp:anchor allowOverlap="0" relativeHeight="0" locked="0" simplePos="0" layoutInCell="1" behindDoc="0">
+            <wp:simplePos y="0" x="0" />
+            <wp:positionH relativeFrom="page">
+              <wp:posOffset>7454348</wp:posOffset>
+            </wp:positionH>
+            <wp:positionV relativeFrom="page">
+              <wp:posOffset>12299674</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="4601" cy="18405" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:wrapSquare wrapText="bothSides" />
+            <wp:docPr id="1667" name="Picture 1667" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1667" name="Picture 1667" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId7" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="4601" cy="18405" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="56" />
+        </w:rPr>
+        <w:t xml:space="preserve">2 $0.82 ea</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="24" w:hanging="10" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="40" />
+        </w:rPr>
+        <w:t xml:space="preserve">HEALTH-BEAUTY-COSMETICS</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="112" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="24" w:hanging="10" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="40" />
+        </w:rPr>
+        <w:t xml:space="preserve">049060497	SCHICK 4CT	T $13.49 SCHICK 4CT	SCHICK HYDR05 CART 4CT</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="center" w:pos="5105" />
+          <w:tab w:val="right" w:pos="10667" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="3" w:line="259" w:lineRule="auto" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="50" />
+        </w:rPr>
+        <w:t xml:space="preserve">049091676	CREST :IPK	$2.99 </w:t>
+      </w:r>
+      <w:r>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="119638" cy="253080" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:docPr id="1657" name="Picture 1657" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1657" name="Picture 1657" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId8" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="119638" cy="253080" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="center" w:pos="1880" />
+          <w:tab w:val="center" w:pos="6554" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="50" />
+        </w:rPr>
+        <w:t xml:space="preserve">	CREST IPk	</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="50" />
+        </w:rPr>
+        <w:t xml:space="preserve">5.802 WHT DEEP CLN TP</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="heading2" />
+        <w:tabs>
+          <w:tab w:val="center" w:pos="4841" />
+          <w:tab w:val="center" w:pos="9457" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="3" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="0" w:right="0" w:firstLine="0" />
+      </w:pPr>
+      <w:r>
+        <w:rPr />
+        <w:t xml:space="preserve">052070152	MASCARA	$7.39</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="10" w:line="252" w:lineRule="auto" />
+        <w:ind w:left="57" w:firstLine="667" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="36" />
+        </w:rPr>
+        <w:t xml:space="preserve">MASCARA 280 VEF 25FLOZ BLKBLK </w:t>
+      </w:r>
+      <w:r>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="9203" cy="9203" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:docPr id="1658" name="Picture 1658" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="1658" name="Picture 1658" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId9" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="9203" cy="9203" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="36" />
+        </w:rPr>
+        <w:t xml:space="preserve"> )2071131 MASCARA $8.59</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:tabs>
+          <w:tab w:val="center" w:pos="1587" />
+          <w:tab w:val="center" w:pos="6627" />
+        </w:tabs>
+        <w:spacing w:before="0" w:after="10" w:line="252" w:lineRule="auto" />
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="36" />
+        </w:rPr>
+        <w:t xml:space="preserve">	</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="36" />
+        </w:rPr>
+        <w:t xml:space="preserve">MASCARA	</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="36" />
+        </w:rPr>
+        <w:t xml:space="preserve">930 IL 22FLOZ BLK BLK</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="TableGrid" />
+        <w:tblW w:w="9239" w:type="dxa" />
+        <w:tblInd w:w="971" w:type="dxa" />
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa" />
+          <w:left w:w="0" w:type="dxa" />
+          <w:bottom w:w="8" w:type="dxa" />
+          <w:right w:w="0" w:type="dxa" />
+        </w:tblCellMar>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="7522" />
+        <w:gridCol w:w="1717" />
+      </w:tblGrid>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="476" w:hRule="atLeast" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7522" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+              <w:ind w:right="696" />
+              <w:jc w:val="right" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="38" />
+              </w:rPr>
+              <w:t xml:space="preserve">SUBTOTAL</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1717" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+              <w:ind w:left="43" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="56" />
+              </w:rPr>
+              <w:t xml:space="preserve">$37.09</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="1098" w:hRule="atLeast" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7522" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+            </w:pPr>
+            <w:r>
+              <w:drawing>
+                <wp:inline distT="0" distB="0" distL="0" distR="0">
+                  <wp:extent cx="115036" cy="32210" />
+                  <wp:effectExtent l="0" t="0" r="0" b="0" />
+                  <wp:docPr id="1659" name="Picture 1659" />
+                  <wp:cNvGraphicFramePr />
+                  <a:graphic>
+                    <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                      <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                        <pic:nvPicPr>
+                          <pic:cNvPr id="1659" name="Picture 1659" />
+                          <pic:cNvPicPr />
+                        </pic:nvPicPr>
+                        <pic:blipFill>
+                          <a:blip r:embed="rId10" />
+                          <a:stretch>
+                            <a:fillRect />
+                          </a:stretch>
+                        </pic:blipFill>
+                        <pic:spPr>
+                          <a:xfrm>
+                            <a:off x="0" y="0" />
+                            <a:ext cx="115036" cy="32210" />
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst />
+                          </a:prstGeom>
+                        </pic:spPr>
+                      </pic:pic>
+                    </a:graphicData>
+                  </a:graphic>
+                </wp:inline>
+              </w:drawing>
+            </w:r>
+            <w:r>
+              <w:drawing>
+                <wp:inline distT="0" distB="0" distL="0" distR="0">
+                  <wp:extent cx="115036" cy="36811" />
+                  <wp:effectExtent l="0" t="0" r="0" b="0" />
+                  <wp:docPr id="1660" name="Picture 1660" />
+                  <wp:cNvGraphicFramePr />
+                  <a:graphic>
+                    <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                      <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                        <pic:nvPicPr>
+                          <pic:cNvPr id="1660" name="Picture 1660" />
+                          <pic:cNvPicPr />
+                        </pic:nvPicPr>
+                        <pic:blipFill>
+                          <a:blip r:embed="rId11" />
+                          <a:stretch>
+                            <a:fillRect />
+                          </a:stretch>
+                        </pic:blipFill>
+                        <pic:spPr>
+                          <a:xfrm>
+                            <a:off x="0" y="0" />
+                            <a:ext cx="115036" cy="36811" />
+                          </a:xfrm>
+                          <a:prstGeom prst="rect">
+                            <a:avLst />
+                          </a:prstGeom>
+                        </pic:spPr>
+                      </pic:pic>
+                    </a:graphicData>
+                  </a:graphic>
+                </wp:inline>
+              </w:drawing>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="42" />
+              </w:rPr>
+              <w:t xml:space="preserve"> IL TAX 9.250C</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="42" />
+                <w:vertAlign w:val="superscript" />
+              </w:rPr>
+              <w:t xml:space="preserve">I</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="42" />
+              </w:rPr>
+              <w:t xml:space="preserve">% on $37.09</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+              <w:ind w:right="717" />
+              <w:jc w:val="right" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="36" />
+              </w:rPr>
+              <w:t xml:space="preserve">TOTAL</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1717" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+              <w:ind w:left="283" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="58" />
+              </w:rPr>
+              <w:t xml:space="preserve">$3.43</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+              <w:ind w:left="22" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="56" />
+              </w:rPr>
+              <w:t xml:space="preserve">$40.52</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="683" w:hRule="atLeast" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7522" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:vAlign w:val="bottom" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+              <w:ind w:left="1203" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="34" />
+              </w:rPr>
+              <w:t xml:space="preserve">*3302 GIFT CARD PAYMENT</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1717" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:vAlign w:val="bottom" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="56" />
+              </w:rPr>
+              <w:t xml:space="preserve">$40.52</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:trPr>
+          <w:trHeight w:val="482" w:hRule="atLeast" />
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="7522" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+              <w:ind w:left="1188" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="36" />
+              </w:rPr>
+              <w:t xml:space="preserve">*3302 GIFT CARD BALANCE</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1717" w:type="dxa" />
+            <w:tcBorders>
+              <w:top w:val="nil" />
+              <w:left w:val="nil" />
+              <w:bottom w:val="nil" />
+              <w:right w:val="nil" />
+            </w:tcBorders>
+            <w:vAlign w:val="top" />
+          </w:tcPr>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+              <w:ind w:left="232" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+                <w:sz w:val="56" />
+              </w:rPr>
+              <w:t xml:space="preserve">$59.83</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="831" w:line="259" w:lineRule="auto" />
+        <w:ind w:right="1094" />
+        <w:jc w:val="center" />
+      </w:pPr>
+      <w:r>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="800652" cy="257681" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:docPr id="2733" name="Picture 2733" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="2733" name="Picture 2733" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId12" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="800652" cy="257681" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:cs="Courier New" w:hAnsi="Courier New" w:eastAsia="Courier New" w:ascii="Courier New" />
+          <w:sz w:val="42" />
+        </w:rPr>
+        <w:t xml:space="preserve">INDICATES SAVINGS</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:pStyle w:val="heading2" />
+        <w:spacing w:before="0" w:after="3" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="119" w:right="0" />
+      </w:pPr>
+      <w:r>
+        <w:rPr />
+        <w:t xml:space="preserve">REC#2-5067-2799-0081-7594-4 VCD#750-212-745</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:sectPr>
+          <w:pgSz w:w="12000" w:h="21493" w:orient="portrait" />
+          <w:pgMar w:left="486" w:top="1440" w:right="848" w:bottom="1440" />
+          <w:cols />
+        </w:sectPr>
+      </w:pPr>
+    </w:p>
+    <w:p>
+      <w:pPr>
+        <w:spacing w:before="0" w:after="0" w:line="259" w:lineRule="auto" />
+        <w:ind w:left="-1440" w:right="10560" />
+      </w:pPr>
+      <w:r>
+        <w:drawing>
+          <wp:anchor allowOverlap="0" relativeHeight="0" locked="0" simplePos="0" layoutInCell="1" behindDoc="0">
+            <wp:simplePos y="0" x="0" />
+            <wp:positionH relativeFrom="page">
+              <wp:posOffset>0</wp:posOffset>
+            </wp:positionH>
+            <wp:positionV relativeFrom="page">
+              <wp:posOffset>0</wp:posOffset>
+            </wp:positionV>
+            <wp:extent cx="7620000" cy="13647899" />
+            <wp:effectExtent l="0" t="0" r="0" b="0" />
+            <wp:wrapTopAndBottom />
+            <wp:docPr id="2174" name="Picture 2174" descr="Description" title="Title" />
+            <wp:cNvGraphicFramePr />
+            <a:graphic>
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="2174" name="Picture 2174" />
+                    <pic:cNvPicPr />
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId13" />
+                    <a:stretch>
+                      <a:fillRect />
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0" />
+                      <a:ext cx="7620000" cy="13647899" />
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst />
+                    </a:prstGeom>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:anchor>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:sectPr>
+      <w:pgSz w:w="12000" w:h="21493" w:orient="portrait" />
+      <w:pgMar w:left="1440" w:top="1440" w:right="1440" w:bottom="1440" />
+      <w:cols />
+    </w:sectPr>
+  </w:body>
+</w:document>

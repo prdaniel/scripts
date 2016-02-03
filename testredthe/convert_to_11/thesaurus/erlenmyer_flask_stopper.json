@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["erlenmyer flask stopper","flask stoppers","stoppers","stoppers for flasks","volumetric flask stopper"],
+	"type": "multi-way"
+}

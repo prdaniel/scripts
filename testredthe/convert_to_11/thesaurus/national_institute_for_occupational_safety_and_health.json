@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["national institute for occupational safety and health","niosh"],
+	"type": "multi-way"
+}

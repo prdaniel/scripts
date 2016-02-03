@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE RECORD_SORT_CONFIG SYSTEM "record_sort_config.dtd">
+<RECORD_SORT_CONFIG>
+
+  <RECORD_SORT NAME="p_Popularity"/>
+
+</RECORD_SORT_CONFIG>

@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["cuvet","cuvets","cuvette","cuvettes","spectrophotometry cell","spectrophotometry cells"],
+	"type": "multi-way"
+}

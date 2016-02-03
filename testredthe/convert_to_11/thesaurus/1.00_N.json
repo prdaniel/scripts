@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["1.00 N","1.00 Normal","1.0 N","1N","1 N","1Normal","1 Normal"],
+	"type": "multi-way"
+}

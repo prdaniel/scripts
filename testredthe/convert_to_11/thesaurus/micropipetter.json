@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["micropipetter","micro pipetter","micropipetters","micro pipetters"],
+	"type": "multi-way"
+}

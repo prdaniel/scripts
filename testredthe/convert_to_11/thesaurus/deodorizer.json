@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["deodorizer","deodorizers","odor control"],
+	"type": "multi-way"
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE MERCH_RULE_GROUP SYSTEM "merch_rule_group.dtd">
+<MERCH_RULE_GROUP ID="10" NAME="ScientificForcedRankingGroup">
+
+  <MERCH_RULE ID="74" SELF_PIVOT="TRUE" SHUFFLE_RECS="FALSE" STYLE_NAME="ForcedRankingEQLStyle" TITLE="Scientific-Bury-Balance-Fisherbrand" ZONE_NAME="ScientificForcedRankingZone">
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">Balances</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">Balance</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">Analytical balances</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">Analytical balance</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">Toploading balances</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">Toploading balance</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">Scale</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TRIGGER INHERIT="TRUE">
+      <KEYWORDS ENABLE_SPELLING="TRUE" ENABLE_STEMMING="TRUE" KEY="" MODE="MATCHEXACT">Scales</KEYWORDS>
+    </MERCH_RULE_TRIGGER>
+    <MERCH_RULE_TARGET AUGMENT_NAV_STATE="FALSE"/>
+    <PROP NAME="endeca.internal.request.type">
+      <PVAL>NONE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.workflow.state">
+      <PVAL>ACTIVE</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by">
+      <PVAL>admin</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.created.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.created">
+      <PVAL>2013-05-20T18:00</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by">
+      <PVAL>admin</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.modified">
+      <PVAL>2013-05-21T11:20</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by">
+      <PVAL>admin</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.state.changed.by.type">
+      <PVAL>WEBSTUDIO_USER</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.date.of.change">
+      <PVAL>2013-05-20T19:29</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.state.change">
+      <PVAL>"Inactive" to "Active"</PVAL>
+    </PROP>
+    <PROP NAME="endeca.internal.last.note.entered">
+      <PVAL>activate</PVAL>
+    </PROP>
+    <PROP NAME="buryEql">
+      <PVAL>collection()/record[p_fisherBrand="Y"]</PVAL>
+    </PROP>
+  </MERCH_RULE>
+
+</MERCH_RULE_GROUP>

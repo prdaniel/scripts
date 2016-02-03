@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["G.P.M.","gal. per minute","gallons per minute","GPM"],
+	"type": "multi-way"
+}

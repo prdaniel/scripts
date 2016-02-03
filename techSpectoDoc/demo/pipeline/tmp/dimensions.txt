@@ -1,0 +1,34 @@
+Name,External Type
+Price Range,NORMAL
+Endeca,NORMAL
+Brand,AUTOGEN
+New,NORMAL
+Free Shipping,NORMAL
+On Sale,NORMAL
+Season,AUTOGEN
+Sports,AUTOGEN
+Accessory Type,AUTOGEN
+Height,AUTOGEN
+Skin Type,AUTOGEN
+Weight,AUTOGEN
+Collection,AUTOGEN
+Color,AUTOGEN
+Gender,AUTOGEN
+Occasion,AUTOGEN
+Type,AUTOGEN
+Virtual Bear,AUTOGEN
+Exclusive,AUTOGEN
+Brand,AUTOGEN
+Season,AUTOGEN
+Sports,AUTOGEN
+Accessory Type,AUTOGEN
+Height,AUTOGEN
+Skin Type,AUTOGEN
+Weight,AUTOGEN
+Collection,AUTOGEN
+Color,AUTOGEN
+Gender,AUTOGEN
+Occasion,AUTOGEN
+Type,AUTOGEN
+Virtual Bear,AUTOGEN
+Exclusive,AUTOGEN

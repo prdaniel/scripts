@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["latexfree","latex free","nonlatex","non latex"],
+	"type": "multi-way"
+}

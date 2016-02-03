@@ -1,0 +1,16 @@
+unique_id|key|value
+BWRC00000067|Mmid|acura_integra_2001_sport_compact_car
+BUDD00240016|Mmid|acura_integra_1986_sport_compact_car
+BUDD00240045|Mmid|acura_integra_2000_sport_compact_car
+BUDD00240016|Mmid|acura_integra_1986_sport_compact_car~86-01 Integra
+BUDD00240045|Mmid|acura_integra_2000_sport_compact_car~86-01 Integra non-Type RBWRC00000067
+BUDD00240016|Mmid|acura_integra_1986_sport_compact_car~86-01 Integra Universal
+BUDD00240045|Universal|acura_integra_2000_sport_compact_car
+BUDD00240016|Universal|acura_integra_1986_sport_compact_car
+BUDD00240045|Universal|acura_integra_2000_sport_compact_car
+BWRC00000067|Mmid_fit|acura_integra_2001_sport_compact_car~~All Acura
+BUDD00240016|Mmid_fit|acura_integra_1986_sport_compact_car~~86-01 Integra Universal
+BUDD00240045|Mmid_fit|acura_integra_2000_sport_compact_car~~86-01 Integra non-Type RBWRC00000067
+BUDD00240045|Universal_fit|acura_integra_2000_sport_compact_car~~86-01 Integra non-Type RBWRC00000067
+BUDD00240016|Universal_fit|acura_integra_1986_sport_compact_car~~86-01 Integra
+BUDD00240045|Universal_fit|acura_integra_2000_sport_compact_car~~86-01 Integra non-Type R

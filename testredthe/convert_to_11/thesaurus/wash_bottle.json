@@ -1,0 +1,10 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"trigger": "alcohol hydrometer",
+	"type": "one-way",
+	"forms": ["brewing hydrometer",
+"proof hydrometer",
+"proofing hydrometer",
+]
+}

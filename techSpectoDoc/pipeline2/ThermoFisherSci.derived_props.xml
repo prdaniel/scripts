@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE DERIVED_PROPS SYSTEM "derived_props.dtd">
+<DERIVED_PROPS>
+
+  <DERIVED_PROP DERIVE_FROM="p_cathi" FCN="MAX" NAME="d_cathi"/>
+
+  <DERIVED_PROP DERIVE_FROM="p_cathn" FCN="MAX" NAME="d_cathn"/>
+
+  <DERIVED_PROP DERIVE_FROM="p_teaser" FCN="MAX" NAME="d_teaser"/>
+
+</DERIVED_PROPS>

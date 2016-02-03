@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "catalyst",
+	"matchmode": "MATCHEXACT",
+	"inherit": "TRUE",
+	"url": "/Catalyst-fully-assembled-peristaltic-pumps.aspx"
+}

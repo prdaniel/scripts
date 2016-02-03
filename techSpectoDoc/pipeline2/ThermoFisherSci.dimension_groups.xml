@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE DIMENSION_GROUPS SYSTEM "dimension_groups.dtd">
+<DIMENSION_GROUPS>
+
+  <DIMENSION_GROUP NAME="ItemLevel">
+    <DIMNAME>Antibody Applications</DIMNAME>
+    <DIMNAME>Antibody Type</DIMNAME>
+    <DIMNAME>Antigen</DIMNAME>
+    <DIMNAME>Cassette Type</DIMNAME>
+    <DIMNAME>CLIA Complexity</DIMNAME>
+    <DIMNAME>Format</DIMNAME>
+    <DIMNAME>Host</DIMNAME>
+    <DIMNAME>Label</DIMNAME>
+    <DIMNAME>Material</DIMNAME>
+    <DIMNAME>Package Size</DIMNAME>
+    <DIMNAME>Packaging Type</DIMNAME>
+    <DIMNAME>Purity Grade</DIMNAME>
+    <DIMNAME>Reactivity</DIMNAME>
+    <DIMNAME>Research Discipline</DIMNAME>
+    <DIMNAME>Isotype</DIMNAME>
+    <DIMNAME>Color</DIMNAME>
+    <DIMNAME>Absorbency</DIMNAME>
+    <DIMNAME>Aspirator Plug</DIMNAME>
+    <DIMNAME>Autoclavable</DIMNAME>
+    <DIMNAME>Calibrated</DIMNAME>
+    <DIMNAME>Cartridge Type</DIMNAME>
+    <DIMNAME>Closure</DIMNAME>
+    <DIMNAME>Closure Type</DIMNAME>
+    <DIMNAME>Color Code</DIMNAME>
+    <DIMNAME>Column Packing</DIMNAME>
+    <DIMNAME>Connection Type</DIMNAME>
+    <DIMNAME>Controller Type</DIMNAME>
+    <DIMNAME>Culture Collection Code</DIMNAME>
+    <DIMNAME>Detector Type</DIMNAME>
+    <DIMNAME>Disposable</DIMNAME>
+    <DIMNAME>Flow Rate</DIMNAME>
+    <DIMNAME>Graduated</DIMNAME>
+    <DIMNAME>Particle Shape</DIMNAME>
+    <DIMNAME>Porosity</DIMNAME>
+    <DIMNAME>Powdered</DIMNAME>
+    <DIMNAME>Solution Type</DIMNAME>
+    <DIMNAME>Stationary Phase</DIMNAME>
+    <DIMNAME>Sterile</DIMNAME>
+    <DIMNAME>Tip Style</DIMNAME>
+    <DIMNAME>Tolerance</DIMNAME>
+    <DIMNAME>Septa Color</DIMNAME>
+    <DIMNAME>Binding Property</DIMNAME>
+    <DIMNAME>Rimmed</DIMNAME>
+    <DIMNAME>Well Shape</DIMNAME>
+    <DIMNAME>Well Bottom</DIMNAME>
+    <DIMNAME>Concentration</DIMNAME>
+    <DIMNAME>Conjugate</DIMNAME>
+    <DIMNAME>Includes</DIMNAME>
+    <DIMNAME>Gel Format</DIMNAME>
+    <DIMNAME>Mass Ladder Size</DIMNAME>
+    <DIMNAME>Stain Type</DIMNAME>
+    <DIMNAME>Material Stained</DIMNAME>
+    <DIMNAME>Destaining Method</DIMNAME>
+    <DIMNAME>Displayed Text</DIMNAME>
+    <DIMNAME>Dye Type</DIMNAME>
+    <DIMNAME>Intensity</DIMNAME>
+    <DIMNAME>Display Type</DIMNAME>
+    <DIMNAME>Primer</DIMNAME>
+    <DIMNAME>Vector</DIMNAME>
+    <DIMNAME>Species Name</DIMNAME>
+    <DIMNAME>Yield</DIMNAME>
+    <DIMNAME>Gene</DIMNAME>
+    <DIMNAME>Amperage</DIMNAME>
+    <DIMNAME>Specific Antigens</DIMNAME>
+    <DIMNAME>Specific Formats</DIMNAME>
+    <DIMNAME>Specific Isotypes</DIMNAME>
+    <DIMNAME>Base Pair Range Marker</DIMNAME>
+    <DIMNAME>For Use With Application</DIMNAME>
+    <DIMNAME>Stackable</DIMNAME>
+    <DIMNAME>Host Species</DIMNAME>
+    <DIMNAME>Cross Reactivity</DIMNAME>
+    <DIMNAME>Chemical Components</DIMNAME>
+    <DIMNAME>Antimicrobial Agents</DIMNAME>
+    <DIMNAME>Additive</DIMNAME>
+    <DIMNAME>Media Type</DIMNAME>
+    <DIMNAME>Wattage</DIMNAME>
+    <DIMNAME>Potential Interferences</DIMNAME>
+    <DIMNAME>Filter Type</DIMNAME>
+    <DIMNAME>Lighting Type</DIMNAME>
+    <DIMNAME>Purity</DIMNAME>
+    <DIMNAME>DNTP Type</DIMNAME>
+    <DIMNAME>Objective Types</DIMNAME>
+    <DIMNAME>Ocular Type</DIMNAME>
+    <DIMNAME>Orbit</DIMNAME>
+    <DIMNAME>Precision</DIMNAME>
+    <DIMNAME>Scissor Tip Style</DIMNAME>
+    <DIMNAME>Blade Style</DIMNAME>
+    <DIMNAME>Shape</DIMNAME>
+    <DIMNAME>Sieve Number</DIMNAME>
+    <DIMNAME>Sieve Type [U.S. Standard]</DIMNAME>
+    <DIMNAME>Sieve Type [Tyler Standard]</DIMNAME>
+    <DIMNAME>Item Type</DIMNAME>
+    <DIMNAME>Sorbent</DIMNAME>
+    <DIMNAME>Cutsite</DIMNAME>
+    <DIMNAME>Recombinant</DIMNAME>
+    <DIMNAME>Insert Type</DIMNAME>
+    <DIMNAME>Sequence</DIMNAME>
+    <DIMNAME>Capacity</DIMNAME>
+    <DIMNAME>Size</DIMNAME>
+    <DIMNAME>Classification</DIMNAME>
+    <DIMNAME>Regulatory Status</DIMNAME>
+    <DIMNAME>Clone</DIMNAME>
+    <DIMNAME>Accuracy</DIMNAME>
+    <DIMNAME>Bulb Volume</DIMNAME>
+    <DIMNAME>Dial Size</DIMNAME>
+    <DIMNAME>Drops per ml</DIMNAME>
+    <DIMNAME>English Capacity</DIMNAME>
+    <DIMNAME>English Length</DIMNAME>
+    <DIMNAME>English Volume</DIMNAME>
+    <DIMNAME>For Use With</DIMNAME>
+    <DIMNAME>Maximum Force</DIMNAME>
+    <DIMNAME>Metric Capacity</DIMNAME>
+    <DIMNAME>Metric Length</DIMNAME>
+    <DIMNAME>Minimum Flow Time</DIMNAME>
+    <DIMNAME>Negitive Graduations</DIMNAME>
+    <DIMNAME>Outside Diameter</DIMNAME>
+    <DIMNAME>Packaging Quantity</DIMNAME>
+    <DIMNAME>Recommended Storage</DIMNAME>
+    <DIMNAME>Resolution</DIMNAME>
+    <DIMNAME>Speed</DIMNAME>
+    <DIMNAME>Subdivisions</DIMNAME>
+    <DIMNAME>Temperature Range</DIMNAME>
+    <DIMNAME>Bottom Diameter</DIMNAME>
+    <DIMNAME>Bowl Angle</DIMNAME>
+    <DIMNAME>Bowl Diameter</DIMNAME>
+    <DIMNAME>Capacity Range</DIMNAME>
+    <DIMNAME>Detection Range</DIMNAME>
+    <DIMNAME>Disc Diameter</DIMNAME>
+    <DIMNAME>Dispenser Increments</DIMNAME>
+    <DIMNAME>English Depth</DIMNAME>
+    <DIMNAME>English Height</DIMNAME>
+    <DIMNAME>English Refrigerator Capacity</DIMNAME>
+    <DIMNAME>English Sash Height</DIMNAME>
+    <DIMNAME>English Width</DIMNAME>
+    <DIMNAME>Exterior English Dimensions</DIMNAME>
+    <DIMNAME>Exterior Metric Dimensions</DIMNAME>
+    <DIMNAME>Gel Dimensions</DIMNAME>
+    <DIMNAME>GPI Thread</DIMNAME>
+    <DIMNAME>Hertz</DIMNAME>
+    <DIMNAME>Immersion Length</DIMNAME>
+    <DIMNAME>Inside Diameter</DIMNAME>
+    <DIMNAME>Interior English Dimensions</DIMNAME>
+    <DIMNAME>Interior Metric Dimensions</DIMNAME>
+    <DIMNAME>Interior Metric Height</DIMNAME>
+    <DIMNAME>Interior Metric Width</DIMNAME>
+    <DIMNAME>Metric Depth</DIMNAME>
+    <DIMNAME>Metric Mass</DIMNAME>
+    <DIMNAME>Metric Refrigerator Capacity</DIMNAME>
+    <DIMNAME>Metric Sash Height</DIMNAME>
+    <DIMNAME>Metric Surface Area</DIMNAME>
+    <DIMNAME>Metric Volume</DIMNAME>
+    <DIMNAME>Metric Width</DIMNAME>
+    <DIMNAME>Molecular Weight</DIMNAME>
+    <DIMNAME>Outside Height</DIMNAME>
+    <DIMNAME>Outside Width</DIMNAME>
+    <DIMNAME>Particle Size</DIMNAME>
+    <DIMNAME>pH Range</DIMNAME>
+    <DIMNAME>Ply</DIMNAME>
+    <DIMNAME>Pore Size</DIMNAME>
+    <DIMNAME>Pressure</DIMNAME>
+    <DIMNAME>Pressure Range</DIMNAME>
+    <DIMNAME>Quantity</DIMNAME>
+    <DIMNAME>Refrigerator Temperature Range</DIMNAME>
+    <DIMNAME>Secondary Range</DIMNAME>
+    <DIMNAME>Standard Taper Joint Number [Center]</DIMNAME>
+    <DIMNAME>Standard Taper Joint Number [Sides]</DIMNAME>
+    <DIMNAME>Stopcock</DIMNAME>
+    <DIMNAME>Stopcock Number</DIMNAME>
+    <DIMNAME>Stopper Number</DIMNAME>
+    <DIMNAME>Taper</DIMNAME>
+    <DIMNAME>Thickness</DIMNAME>
+    <DIMNAME>Time Range</DIMNAME>
+    <DIMNAME>Total Positions</DIMNAME>
+    <DIMNAME>Voltage</DIMNAME>
+    <DIMNAME>Metric Height</DIMNAME>
+    <DIMNAME>Volume</DIMNAME>
+  </DIMENSION_GROUP>
+
+</DIMENSION_GROUPS>

@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["multigas","multi gas","multi-gas","multiple gas"],
+	"type": "multi-way"
+}

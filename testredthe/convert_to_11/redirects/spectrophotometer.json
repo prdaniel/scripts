@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "spectrophotometer",
+	"matchmode": "MATCHPHRASE",
+	"inherit": "TRUE",
+	"url": "/Category/Spectroscopy_and_Spectrophotometers/5460"
+}

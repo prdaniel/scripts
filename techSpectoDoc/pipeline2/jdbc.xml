@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:aop="http://www.springframework.org/schema/aop"
+  xsi:schemaLocation="http://www.springframework.org/schema/beans 
+      http://www.springframework.org/schema/beans/spring-beans-2.0.xsd
+      http://www.springframework.org/schema/aop 
+      http://www.springframework.org/schema/aop/spring-aop-2.0.xsd">
+      
+	<import resource="connections.xml"/>
+      
+<!--  
+######################################################
+	Supplier Ranking Query
+	Updated by Alan Connell	on 12.16.2010
+	
+	Loads supplier ranking into the pipeline for 
+	use in dynamic ranking
+######################################################
+-->
+<bean id="SupplierRankingQuery_APP" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+            <property name="sqlStatement" value="select SUPPLIER_NAME,
+                'rank_' || AGILITY_DESCR_ID || '_' || filter_value  as SUPPLIER_RANK_FIELD,
+                SUPPLIER_RANK as SUPPLIER_RANK_VALUE,
+                FILTER_VALUE, AGILITY_DESCR_ID
+                from  iwfs_lsas_supplier_rank_sy supp,  IWFS_LSAS_FILTERS_sy filters
+                where supp.filter_id = filters.filter_id and  filters.filter_id=5"/>
+</bean>
+<bean id="SupplierRankingQuery_RD" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+            <property name="sqlStatement" value="select SUPPLIER_NAME,
+                'rank_' || AGILITY_DESCR_ID || '_' || filter_value  as SUPPLIER_RANK_FIELD,
+                SUPPLIER_RANK as SUPPLIER_RANK_VALUE,
+                FILTER_VALUE, AGILITY_DESCR_ID
+                from  iwfs_lsas_supplier_rank_sy supp,  IWFS_LSAS_FILTERS_sy filters
+                where supp.filter_id = filters.filter_id and  filters.filter_id=6"/>
+</bean>
+<bean id="SupplierRankingQuery_Default" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+            <property name="sqlStatement" value="select SUPPLIER_NAME,
+                'rank_' || AGILITY_DESCR_ID || '_' || filter_value  as SUPPLIER_RANK_FIELD,
+                SUPPLIER_RANK as SUPPLIER_RANK_VALUE,
+                FILTER_VALUE, AGILITY_DESCR_ID
+                from  iwfs_lsas_supplier_rank_sy supp,  IWFS_LSAS_FILTERS_sy filters
+                where supp.filter_id = filters.filter_id and  filters.filter_id=11"/>
+</bean>
+<bean id="PromotionQuery" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+            <property name="sqlStatement" value="select 'promoId=' || PROMOTION_ID || '~jsp=' || 
+			CONTENT_JSP_PATH || '~desc=' || DESCRIPTION || '~pr=' || PRIORITY as PROMOTION, 
+			CATENTRY_ID as ID from IWFS_CMS_PROMOTION_SY where sysdate between start_date and end_date"/>
+</bean>
+
+<bean id="BrowseByCategoryQuery" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+			<!-- The Following Query is based on the Healthcare(29103) eNav Agility Structure to build the Taxonomy Structure (Category) -->
+			<!-- Root node Commerce Category id on Healthcare eNav Agility Structure is 50010 (Browse By Category HC_SC) -->
+            <property name="sqlStatement" value="SELECT DISTINCT LEVEL,
+												  CHILD.CATGROUP_ID ID,
+												  rel.catgroup_id_parent PARENTID,
+												  CHILDDESC.NAME NAME,
+												  LTRIM(REPLACE(SYS_CONNECT_BY_PATH(PARENTDESC.NAME, '>' ), '>Browse By Category HC_SC', '') || '>' || CHILDDESC.NAME, '>') CATNAMEPATH,
+												  LTRIM(REPLACE(sys_connect_by_path(PARENTDESC.CATGROUP_ID, '|' ), '|50010', '') || '|' || CHILDDESC.CATGROUP_ID, '|' ) CATIDPATH,
+  												  LTRIM(sys_connect_by_path(PARENTDESC.CATGROUP_ID, '|' ), '|' ) PARENTIDPATH,
+												  CHILDDESC.FULLIMAGE FULLIMAGE,
+												  TO_CHAR(fish_catgrpdesc.description) DESCRIPTION
+												  FROM       wcsadmin.catgroup parent,
+															 wcsadmin.catgrprel rel,
+															 wcsadmin.catgroup child,
+															 WCSADMIN.CATGRPDESC CHILDDESC,
+															 wcsadmin.catgrpdesc PARENTDESC,
+															 FISHER.iwfs_catgroup_desc_tb fish_catgrpdesc
+												  WHERE      CATALOG_ID   = 29103	
+												  AND        PARENT.CATGROUP_ID       = REL.CATGROUP_ID_PARENT
+												  AND        PARENTDESC.CATGROUP_ID   = PARENT.CATGROUP_ID
+												  AND        CHILD.CATGROUP_ID        = REL.CATGROUP_ID_CHILD
+												  AND        CHILD.CATGROUP_ID        = CHILDDESC.CATGROUP_ID
+												  AND        FISH_CATGRPDESC.CATGROUP_ID   = CHILDDESC.CATGROUP_ID
+												  START WITH REL.CATGROUP_ID_PARENT = 50010
+												  CONNECT BY PRIOR REL.CATGROUP_ID_CHILD = REL.CATGROUP_ID_PARENT
+												  ORDER BY LEVEL, CHILDDESC.NAME ASC"
+		  />
+</bean>
+
+<bean id="CatHierPathQuery" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+            <property name="sqlStatement" value="select catalog_name, catalog_id, hier_path from fisher.iwfs_catgrp_hier_path_tmp_tb where catalog_id=10001"/>
+</bean>
+
+<bean id="BrowseByCatHierPathQuery" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+            <property name="sqlStatement" value="SELECT HPT.CATGROUP_ID_CHILD,
+													  HPT.CATALOG_NAME,
+													  HPT.CATALOG_ID,
+													  HPT.HIER_PATH,
+													  FCGD.DESCRIPTION,
+													  CGDC.FULLIMAGE
+													FROM fisher.iwfs_catgrp_hier_path_tmp_tb hpt,
+													  fisher.iwfs_catgroup_desc_tb fcgd,
+													  wcsadmin.catgrpdesc cgdc
+													WHERE catalog_name                        ='HealthCare'
+													AND fcgd.catgroup_id                      = hpt.catgroup_id_child
+													AND cgdc.catgroup_id                      = hpt.catgroup_id_child
+													AND instr(hier_path,'BROWSE_BY_CATEGORY') > 0"
+			/>
+</bean>
+
+<bean id="BrowseByAppHierPathQuery" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+            <property name="sqlStatement" value="select catalog_name, catalog_id, hier_path from fisher.iwfs_catgrp_hier_path_tmp_tb where catalog_id in (29101,29102,29103,29104) and instr(hier_path,'BROWSE_BY_APPLICATION') > 0"/>
+</bean>
+
+<bean id="LsasItemsQuery" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+            <property name="sqlStatement" value="SELECT   prod.catentry_id as parentcatentryId, item.catentry_id as childcatentryid,
+														item.partnumber as partNumber, item.mfpartnumber as vendorPartNumber,
+														itemDesc.auxdescription1 as auxdescription1, itemdesc.longdescription as longdescription
+													FROM     wcsadmin.catgpenrel catToProd,
+															 wcsadmin.catentry prod,
+															 wcsadmin.catentrel prodItem,
+															 wcsadmin.catentry item,
+															 wcsadmin.catentdesc itemDesc,
+															 (SELECT     LEVEL, rel.catgroup_id_parent, childDesc.*
+															  FROM       wcsadmin.catgroup parent,
+																		 wcsadmin.catgrprel rel,
+																		 wcsadmin.catgroup child,
+																		 wcsadmin.catgrpdesc childDesc,
+																		 wcsadmin.catgrpdesc parentDesc
+															  WHERE      parent.member_id = 7000000000000381121  
+															  and        parent.catgroup_id = rel.catgroup_id_parent
+															  AND        child.catgroup_id  = rel.catgroup_id_child
+															  AND        child.catgroup_id  = childDesc.catgroup_id
+															  AND        parent.catgroup_id  = parentDesc.catgroup_id
+															  CONNECT BY PRIOR rel.catgroup_id_child = rel.catgroup_id_parent
+															  START WITH parentDesc.name = 'Antibodies' AND parent.field1 = 'GST'
+															  ORDER BY LEVEL, parentDesc.name, childDesc.name) hier
+													WHERE    catToProd.catgroup_id = hier.catgroup_id
+													AND      catToProd.catentry_id = prod.catentry_id
+													AND      prod.catentry_id      = prodItem.catentry_id_parent
+													AND      item.catentry_id      = prodItem.catentry_id_child
+													AND      itemDesc.catentry_id  = item.catentry_id"
+			/>
+</bean>
+
+<bean id="ATTRIBUTE_REFINEMENT_QUERY" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+            <property name="sqlStatement" value="select MAPPING_ID AS AGILITY_ID, REFINEMENT_NAME AS REFINEMENT_NAME,PROPERTIES AS PROPERTIES FROM Fisher.IWFS_SEARCH_REFINE_MAP_TB"/>
+</bean>
+<bean id="AGILITY_ATTRIBUTE_QUERY" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>
+            <property name="sqlStatement" value="SELECT DISTINCT itemattr.attribute_id as ATRRIBUTE_ID,
+			itemAttr.attribute_value as ATRRIBUTE_VALUE
+            FROM  etluser.IWFS_ST_ATTR_DEFINITIONS_sy attrDef,
+          etluser.IWFS_ST_ITEM_ATTRIBUTES_sy itemAttr,
+          etluser.IWFS_ST_ITEMS_sy aglItem,
+          etluser.IWFS_ST_WC_ITEM_sy items
+WHERE     attrDef.change_flag      != 'D'
+AND       itemAttr.change_flag     != 'D'
+AND       attrDef.attribute_id      = itemAttr.attribute_id
+AND       itemAttr.date_propagated IS NOT NULL
+AND       attrDef.attribute_id      in  (select distinct mapping_id from Fisher.IWFS_SEARCH_REFINE_MAP_TB) 
+AND       itemAttr.item_id          = aglItem.item_id
+AND       items.estore_id           = 10652
+AND       aglItem.change_flag      != 'D'
+AND       aglItem.item_gid          = items.item_gid
+AND       items.dis                 IS NULL"/>
+</bean>
+
+<bean id="GSTAllCategoriesQuery" class="com.endeca.cs.adapter.ConfigurableJDBCAdapter">
+            <property name="connection" ref="Thermo_Connection"/>						
+            <property name="sqlStatement" value="SELECT LEVEL, CHILD.CATGROUP_ID ID, REL.CATGROUP_ID_PARENT PARENTID, CHILDDESC.NAME NAME,
+				LTRIM(REPLACE(SYS_CONNECT_BY_PATH(PARENTDESC.NAME, '>' ), '>GST', '') || '>' || CHILDDESC.NAME, '>') CATNAMEPATH,
+				LTRIM(REPLACE(SYS_CONNECT_BY_PATH(PARENTDESC.CATGROUP_ID, '|' ), '|50001', '') || '|' || CHILDDESC.CATGROUP_ID, '|' ) CATIDPATH,
+ 			    LTRIM(sys_connect_by_path(PARENTDESC.CATGROUP_ID, '|' ), '|' ) PARENTIDPATH,
+				CHILDDESC.FULLIMAGE, CATGRPDESC.DESCRIPTION 
+			FROM   WCSADMIN.CATGROUP PARENT,
+				WCSADMIN.CATGRPREL REL,
+				WCSADMIN.CATGROUP CHILD,
+				WCSADMIN.CATGRPDESC CHILDDESC,
+				WCSADMIN.CATGRPDESC PARENTDESC,
+				FISHER.IWFS_CATGROUP_DESC_TB CATGRPDESC
+			WHERE  CATALOG_ID = 10001
+				AND PARENT.CATGROUP_ID = REL.CATGROUP_ID_PARENT
+				AND PARENTDESC.CATGROUP_ID = PARENT.CATGROUP_ID
+				AND CHILD.CATGROUP_ID = REL.CATGROUP_ID_CHILD
+				AND CHILD.CATGROUP_ID = CHILDDESC.CATGROUP_ID
+				AND CATGRPDESC.CATGROUP_ID = CHILDDESC.CATGROUP_ID
+			START WITH REL.CATGROUP_ID_PARENT = 50001
+			CONNECT BY PRIOR REL.CATGROUP_ID_CHILD = REL.CATGROUP_ID_PARENT
+			ORDER BY LEVEL, CHILDDESC.NAME ASC"/>
+</bean>
+
+</beans>

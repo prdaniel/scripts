@@ -1,0 +1,585 @@
+		{
+			"searchTerms": "msds",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "material safety data sheet",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "material safety data sheets",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "material safety datasheet",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "material safety datasheets",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "safety data sheet",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "safety data sheets",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "safety datasheet",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "safety datasheets",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "certificate of conformance",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "certificates of conformance",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "cert of conformance",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "certs of conformance",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "coa",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "cofa",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "c of a",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "coa's",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "cofa's",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "c of a's",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "coas",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "cofas",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "c of as",
+			"matchmode": "MATCHPHRASE",
+			"url": "/TechLibrary/empty"
+		},
+		{
+			"searchTerms": "press releases",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Press-Release-List"
+		},
+		{
+			"searchTerms": "press release",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Press-Release-List"
+		},
+		{
+			"searchTerms": "chemical compatibility",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Chemical-Resistance"
+		},
+		{
+			"searchTerms": "chem compatibility",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Chemical-Resistance"
+		},
+		{
+			"searchTerms": "chemicals compatibility",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Chemical-Resistance"
+		},
+		{
+			"searchTerms": "compatibility",
+			"matchmode": "MATCHALL",
+			"url": "/Chemical-Resistance"
+		},
+		{
+			"searchTerms": "unit converters",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Converters"
+		},
+		{
+			"searchTerms": "online unit converter",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Converters"
+		},
+		{
+			"searchTerms": "unit conversion",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Converters"
+		},
+		{
+			"searchTerms": "metric to us conversion",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Converters"
+		},
+		{
+			"searchTerms": "convert units",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Converters"
+		},
+		{
+			"searchTerms": "unit conversion tools",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Converters"
+		},
+		{
+			"searchTerms": "bioconnect",
+			"matchmode": "MATCHPHRASE",
+			"url": "/BioConnect"
+		},
+		{
+			"searchTerms": "bioconnect custom tubing assemblies",
+			"matchmode": "MATCHPHRASE",
+			"url": "/BioConnect"
+		},
+		{
+			"searchTerms": "bio connect",
+			"matchmode": "MATCHPHRASE",
+			"url": "/BioConnect"
+		},
+		{
+			"searchTerms": "virtual catalog",
+			"matchmode": "MATCHEXACT",
+			"url": "/Virtual-Catalog"
+		},
+		{
+			"searchTerms": "custom temperature probe",
+			"matchmode": "MATCHPHRASE",
+			"url": "/oaktonprobeconfig"
+		},
+		{
+			"searchTerms": "custom temperature probes",
+			"matchmode": "MATCHPHRASE",
+			"url": "/oaktonprobeconfig"
+		},
+		{
+			"searchTerms": "temperature probe configurator",
+			"matchmode": "MATCHPHRASE",
+			"url": "/oaktonprobeconfig"
+		},
+		{
+			"searchTerms": "probe configurator",
+			"matchmode": "MATCHPHRASE",
+			"url": "/oaktonprobeconfig"
+		},
+		{
+			"searchTerms": "oakton probe configurator",
+			"matchmode": "MATCHPHRASE",
+			"url": "/oaktonprobeconfig"
+		},
+		{
+			"searchTerms": "digi-sense",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "digisense",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "digi-sence",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "digi sense",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "digi sence",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "digi cents",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "digi-cents",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "precalibrated equipment",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "pre-calibrated equipment",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "pre-calibrated instruments",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "precalibrated instruments",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "pre-calibrated humidity",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "precalibrated humidity",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "pre-calibrated temperature",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "precalibrated temperature",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/digi-sense"
+		},
+		{
+			"searchTerms": "masterflex",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/masterflex"
+		},
+		{
+			"searchTerms": "masteflex pumps",
+			"matchmode": "MATCHPHRASE",
+			"url": "/store/masterflex"
+		},
+		{
+			"searchTerms": "masterflex pumps",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/masterflex"
+		},
+		{
+			"searchTerms": "customized pumps",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/masterflex"
+		},
+		{
+			"searchTerms": "oakton",
+			"matchmode": "MATCHEXACT",
+			"url": "/Oakton_meters.aspx"
+		},
+		{
+			"searchTerms": "oakton water quality instruments",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Oakton_meters.aspx"
+		},
+		{
+			"searchTerms": "oakton meters",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Oakton_meters.aspx"
+		},
+		{
+			"searchTerms": "conductivity meter",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Conductivity_Resistivity_TDS_Meters_and_Testers/555"
+		},
+		{
+			"searchTerms": "custom pumps",
+			"matchmode": "MATCHEXACT",
+			"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"
+		},
+		{
+			"searchTerms": "oem peristaltic pumps",
+			"matchmode": "MATCHEXACT",
+			"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"
+		},
+		{
+			"searchTerms": "custom peristaltic pumps",
+			"matchmode": "MATCHEXACT",
+			"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"
+		},
+		{
+			"searchTerms": "oem",
+			"matchmode": "MATCHEXACT",
+			"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"
+		},
+		{
+			"searchTerms": "oem solutions",
+			"matchmode": "MATCHEXACT",
+			"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"
+		},
+		{
+			"searchTerms": "oem masterflex",
+			"matchmode": "MATCHALL",
+			"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"
+		},
+		{
+			"searchTerms": "oem peristaltic",
+			"matchmode": "MATCHALL",
+			"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"
+		},
+		{
+			"searchTerms": "oem pump",
+			"matchmode": "MATCHALL",
+			"url": "/Store/Masterflex/OEM-Design-Capabilities-for-Peristaltic-Pumps/"
+		},
+		{
+			"searchTerms": "humidity",
+			"matchmode": "MATCHEXACT",
+			"url": "/Category/Temperature_Humidity_Moisture_and_Weather_Products/6207"
+		},
+		{
+			"searchTerms": "humidity meter",
+			"matchmode": "MATCHEXACT",
+			"url": "/Category/Humidity_Meters_Thermohygrometers_Meters/7432"
+		},
+		{
+			"searchTerms": "humidity meters",
+			"matchmode": "MATCHEXACT",
+			"url": "/Category/Humidity_Meters_Thermohygrometers_Meters/7432"
+		},
+		{
+			"searchTerms": "steals and deals",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Steals_Deals/65348"
+		},
+		{
+			"searchTerms": "steals & deals",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Steals_Deals/65348"
+		},
+		{
+			"searchTerms": "clearance items",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Steals_Deals/65348"
+		},
+		{
+			"searchTerms": "on sale",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Steals_Deals/65348"
+		},
+		{
+			"searchTerms": "discounted",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Steals_Deals/65348"
+		},
+		{
+			"searchTerms": "refurbished",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Steals_Deals/65348"
+		},
+		{
+			"searchTerms": "reconditioned",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Steals_Deals/65348"
+		},
+		{
+			"searchTerms": "spectrophotometer",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Spectroscopy_and_Spectrophotometers/5460"
+		},
+		{
+			"searchTerms": "stir plate",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Magnetic_Stirrers/5572"
+		},
+		{
+			"searchTerms": "stirring plate",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Magnetic_Stirrers/5572"
+		},
+		{
+			"searchTerms": "lab equipment",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Laboratory_Equipment/15006"
+		},
+		{
+			"searchTerms": "pipet tips",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Pipette_Tips/876"
+		},
+		{
+			"searchTerms": "pipette tips",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Pipette_Tips/876"
+		},
+		{
+			"searchTerms": "pipette tip",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Pipette_Tips/876"
+		},
+		{
+			"searchTerms": "pippett tips",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Pipette_Tips/876"
+		},
+		{
+			"searchTerms": "pippet tips",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Pipette_Tips/876"
+		},
+		{
+			"searchTerms": "calibration weights",
+			"matchmode": "MATCHEXACT",
+			"url": "/Category/Calibration_Masses/176"
+		},
+		{
+			"searchTerms": "furniture",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Furniture_Fume_Hoods/59349"
+		},
+		{
+			"searchTerms": "lab furniture",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Furniture_Fume_Hoods/59349"
+		},
+		{
+			"searchTerms": "laboratory furniture",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Furniture_Fume_Hoods/59349"
+		},
+		{
+			"searchTerms": "fume hoods",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Furniture_Fume_Hoods/59349"
+		},
+		{
+			"searchTerms": "troemner calibration masses",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Brand/Troemner/1679"
+		},
+		{
+			"searchTerms": "tektronix",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Electrical_Test_Equipment/51567"
+		},
+		{
+			"searchTerms": "techtronics",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Electrical_Test_Equipment/51567"
+		},
+		{
+			"searchTerms": "techtronix",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Electrical_Test_Equipment/51567"
+		},
+		{
+			"searchTerms": "keithley",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Electrical_Test_Equipment/51567"
+		},
+		{
+			"searchTerms": "watson marlow",
+			"matchmode": "MATCHPHRASE",
+			"url": "/store/masterflex/masterflex-why-masterflex/"
+		},
+		{
+			"searchTerms": "environmental express",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/environmental-express"
+		},
+		{
+			"searchTerms": "env exp",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/environmental-express"
+		},
+		{
+			"searchTerms": "envexp",
+			"matchmode": "MATCHEXACT",
+			"url": "/store/environmental-express"
+		},
+		{
+			"searchTerms": "catalyst",
+			"matchmode": "MATCHEXACT",
+			"url": "/Catalyst-fully-assembled-peristaltic-pumps.aspx"
+		},
+		{
+			"searchTerms": "material testing",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Test_and_Measurement_Equipment/61816"
+		},
+		{
+			"searchTerms": "live chat",
+			"matchmode": "MATCHPHRASE",
+			"url": "/support"
+		},
+		{
+			"searchTerms": "tech support",
+			"matchmode": "MATCHPHRASE",
+			"url": "/support"
+		},
+		{
+			"searchTerms": "customer service",
+			"matchmode": "MATCHPHRASE",
+			"url": "/support"
+		},
+		{
+			"searchTerms": "recirculators & chillers",
+			"matchmode": "MATCHPHRASE",
+			"url": "/Category/Recirculators_Chillers/273"
+		},
+		{
+			"searchTerms": "solve flex",
+			"matchmode": "MATCHEXACT",
+			"url": "/Category/Masterflex_L_S_Precision_Solve_Flex_Pump_Tubing/55017"
+		},
+		{
+			"searchTerms": "solve-flex",
+			"matchmode": "MATCHEXACT",
+			"url": "/Category/Masterflex_L_S_Precision_Solve_Flex_Pump_Tubing/55017"
+		},
+		{
+			"searchTerms": "catalog",
+			"matchmode": "MATCHEXACT",
+			"url": "/CatalogRequest/empty"
+		},
+		{
+			"searchTerms": "catalogue",
+			"matchmode": "MATCHEXACT",
+			"url": "/CatalogRequest/empty"
+		},

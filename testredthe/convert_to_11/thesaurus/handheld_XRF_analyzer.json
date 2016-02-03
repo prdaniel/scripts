@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["handheld XRF analyzer","hand held XRF analyzer","portable elemental analyzer"],
+	"type": "multi-way"
+}

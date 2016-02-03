@@ -1,0 +1,5 @@
+all
+
+primary
+p_metric_days_added,ASCENDING
+

@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "troemner calibration masses",
+	"matchmode": "MATCHPHRASE",
+	"inherit": "TRUE",
+	"url": "/Brand/Troemner/1679"
+}

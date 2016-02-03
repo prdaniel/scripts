@@ -1,0 +1,8 @@
+Manipulator Name,Record Source,Manipulations
+Add_Scied_Property_Manip,SupplierRankManipulator,No Comment Provided - Add Manually
+Prop_Splitter_Manip,Record_prodRule_Join,No Comment Provided - Add Manually
+prop_item_splitter_Manip,Load_Item_data,No Comment Provided - Add Manually
+SciEdExclusion_Manip,SciEdExclusionRank,No Comment Provided - Add Manually
+Replace_fsthn,Promotion_Join,No Comment Provided - Add Manually
+FieldSplitter,CatSupRank_SciEdExclude_Join,No Comment Provided - Add Manually
+DataCleaningManipulator,Find the <RECORD_SOURCE> in pipeline.epx,No Comment Provided - Add Manually

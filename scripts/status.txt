@@ -1,0 +1,3 @@
+{"@error":"FileNotFound","@type":"RedirectAwareContentInclude","previewModuleUrl":"http:\/\/localhost:8006\/preview","contentUri":"\/pages\/browse","endeca:assemblerRequestInformation":{"@type":"AssemblerRequestEvent","endeca:assemblyStartTimestamp":1421096968439,"endeca:assemblyFinishTimestamp":1421096968444,"endeca:sessionId":"2F17D15DDE84BC6069FE6E16F3FBAB3C"}
+,"canonicalLink":{"@class":"com.endeca.infront.cartridge.model.NavigationAction","navigationState":"","label":""}
+}

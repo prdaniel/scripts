@@ -1,0 +1,9 @@
+Cache Name,General,Sources,Record Index
+Item_Cache,-1,Join_Popularity_data,item_product_id
+SciEdRank_Cache,-1,SciEdExclusion_Manip,temp_scied_path
+DynSupplierRank_APP_Cache,-1,DynSupplierRanking_APP,SUPPLIER_NAME
+DynSupplierRank_RD_Cache,-1,DynSupplierRanking_RD,SUPPLIER_NAME
+DynSupplierRank_Default_cache,-1,DymSupplierRanking_Default,SUPPLIER_NAME
+Promotion_Cache,-1,Load_Promotion,ID
+Popularity_Cache,-1,Load_Popularity_Data,PARTNUMBER
+rule_Cache,-1,Load_Rule_Data,item_rule_id

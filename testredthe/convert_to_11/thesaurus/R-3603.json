@@ -1,0 +1,8 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"trigger": "measuring cylinder",
+	"type": "one-way",
+	"forms": ["graduated cylinder",
+]
+}

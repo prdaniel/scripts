@@ -1,0 +1,22 @@
+Searchable Properties and Dimensions
+
+primary,[Search Interface]
+p_sku
+Category
+p_name
+Brand
+Collection
+Color
+Sports
+p_upc
+p_keyword
+
+category_top,[Search Interface]
+p_unique_id
+p_sku
+p_upc
+Category
+p_name
+Brand
+p_keyword
+p_description_short

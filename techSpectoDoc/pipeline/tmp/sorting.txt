@@ -1,0 +1,7 @@
+p_price_sort
+p_is_new
+p_metric_total_units_sold
+p_metric_profit_margin
+p_metric_sales_velocity
+p_metric_days_added
+p_metric_inventory

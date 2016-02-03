@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["electrical","electric equipment","electronic","electronic equipment"],
+	"type": "multi-way"
+}

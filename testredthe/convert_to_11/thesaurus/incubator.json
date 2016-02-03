@@ -1,0 +1,7 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"trigger": "incubator oven",
+	"type": "one-way",
+	"forms": ["incubator"],
+}

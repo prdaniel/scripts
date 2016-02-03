@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["handheld raman analyzer","truescan","true scan","truscan","tru scan"],
+	"type": "multi-way"
+}

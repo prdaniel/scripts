@@ -1,0 +1,8 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"trigger": "hose tail",
+	"type": "one-way",
+	"forms": ["hose fitting",
+]
+}

@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["testtube","test tube","test-tube","testtubes","testube","testubes"],
+	"type": "multi-way"
+}

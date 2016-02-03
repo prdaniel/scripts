@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["air velocity meter","anemometer","wind speed meter"],
+	"type": "multi-way"
+}

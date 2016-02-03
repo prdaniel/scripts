@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["cabitainer","carboy","clearboy","clearboys","cubitainers","jerrican","jerricans","jerry can","jerry cans","lowboy","lowboys"],
+	"type": "multi-way"
+}

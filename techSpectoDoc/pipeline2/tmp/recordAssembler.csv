@@ -1,0 +1,40 @@
+DynSupplierRank_APP_Cache,[Sources]
+FieldSplitter,[Sources]
+DynSupplierRank_APP_Join,[Assembler Name]
+LEFT_JOIN,[Join Type]
+
+Category_String_Parser,[Sources]
+Item_Cache,[Sources]
+Record_Item_Join,[Assembler Name]
+LEFT_JOIN,[Join Type]
+
+Replace_fsthn,[Sources]
+SciEdRank_Cache,[Sources]
+CatSupRank_SciEdExclude_Join,[Assembler Name]
+LEFT_JOIN,[Join Type]
+
+DynSupplierRank_APP_Join,[Sources]
+DynSupplierRank_RD_Cache,[Sources]
+DynSupplierRank_RD_Join,[Assembler Name]
+LEFT_JOIN,[Join Type]
+
+DynSupplierRank_Default_cache,[Sources]
+DynSupplierRank_RD_Join,[Sources]
+DynSupplierRank_Default_Join,[Assembler Name]
+LEFT_JOIN,[Join Type]
+
+Promotion_Cache,[Sources]
+Record_Item_Join,[Sources]
+Promotion_Join,[Assembler Name]
+LEFT_JOIN,[Join Type]
+
+Popularity_Cache,[Sources]
+prop_item_splitter_Manip,[Sources]
+Join_Popularity_data,[Assembler Name]
+LEFT_JOIN,[Join Type]
+
+Load_Product_Data,[Sources]
+rule_Cache,[Sources]
+Record_prodRule_Join,[Assembler Name]
+LEFT_JOIN,[Join Type]
+

@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["linear stain","linear stainer","linear staining","linistain"],
+	"type": "multi-way"
+}

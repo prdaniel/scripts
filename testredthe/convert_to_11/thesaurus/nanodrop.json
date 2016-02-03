@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["nanodrop","nano drop","nano-drop","nanodrop 1000"],
+	"type": "multi-way"
+}

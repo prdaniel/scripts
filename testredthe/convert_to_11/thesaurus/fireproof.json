@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["fireproof","fire proof","flame proof","nonflammable","non-flammable"],
+	"type": "multi-way"
+}

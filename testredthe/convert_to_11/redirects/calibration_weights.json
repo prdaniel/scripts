@@ -1,0 +1,8 @@
+{
+	"sling:resourceType": "endeca/redirect",
+	"priority": 10,
+	"keyword": "calibration weights",
+	"matchmode": "MATCHEXACT",
+	"inherit": "TRUE",
+	"url": "/Category/Calibration_Masses/176"
+}

@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["boileezers","boiling chips","boiling granules","boiling stones"],
+	"type": "multi-way"
+}

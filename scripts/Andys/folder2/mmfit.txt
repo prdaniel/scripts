@@ -1,0 +1,8 @@
+mmid_fit	category_id	210_10118_1023~|TESTSTETSTTETST
+mmid_fit	portal_id	6~|TESTSTETSTTETST2
+mmid_fit	category_id	210_225_1007~|TESTSTETSTTETST3
+mmid_fit	category_id	210_10118_1023~|TESTSTETSTTETST4
+mmid_fit	category_id	210_225_1007~|TESTSTETSTTETST5
+mmid_fit	category_id	210_225_1007~|TESTSTETSTTETST6
+mmid_fit	category_id	210_225_1007~|TESTSTETSTTETST7
+mmid_fit	category_id	210_225_1007~|TESTSTETSTTETST8

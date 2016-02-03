@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["pinchclamp","pinch clamp","pinchcock","pinch cock"],
+	"type": "multi-way"
+}

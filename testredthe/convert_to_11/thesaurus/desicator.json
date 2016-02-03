@@ -1,0 +1,7 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"trigger": "bell jar",
+	"type": "one-way",
+	"forms": ["desicator","desiccator","dessicator"],
+}

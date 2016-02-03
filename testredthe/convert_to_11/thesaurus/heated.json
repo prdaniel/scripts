@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["heated","heater","heaters","heating","heating equipment"],
+	"type": "multi-way"
+}

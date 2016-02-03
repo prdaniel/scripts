@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["B/T Pump","B/T Pumps","BT Pump","BT Pumps","Masterflex B/T Pump","Masterflex B/T Pumps"],
+	"type": "multi-way"
+}

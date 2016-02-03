@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["LabSystems","Lab Systems","Microplate Technologies"],
+	"type": "multi-way"
+}

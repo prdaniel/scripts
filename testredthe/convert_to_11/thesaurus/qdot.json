@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["qdot","q dot","quantumdot","quantum dot"],
+	"type": "multi-way"
+}

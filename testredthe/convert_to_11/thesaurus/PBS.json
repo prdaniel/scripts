@@ -1,0 +1,6 @@
+{
+	"sling:resourceType" : "endeca/thesaurus",
+	"jcr:primaryType": "endeca:unstructured",
+	"forms": ["PBS","Phosphate Buffered Saline"],
+	"type": "multi-way"
+}
